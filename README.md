@@ -84,13 +84,15 @@ See the full analysis in the [Jupyter Notebook](https://github.com/stephcia/ski-
 
 ```
 ├── data
+    ├──airbnb_cleaned_data_exports
     ├──cleaned_data_exports
-    ├──scraped_data
 ├── images
 ├── .gitignore
-├── ski_resort_cleaning.ipynb
-├── ski_resort_collaborative.ipynb
-├── ski_resort_content_hybrid.ipynb
-├── ski_resort_recommender. pdf
+├── ski_recommendation_cleaning.ipynb
+├── ski_recommendation_collaborative.ipynb
+├── ski_recommendation_content_hybrid.ipynb
+├── webscraping_airbnb.ipynb
+├── webscraping_onthesnow.ipynb
+├── ski_resort_recommender.pdf
 ├── LICENSE
 └── README.md
