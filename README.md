@@ -1,7 +1,7 @@
 # Avant Ski
 ### Ski Resort Recommendation App
 
-![img](images/whistler_banner.jpg)
+![img](images/whistler_banner.png)
 
 **Author**:
 
