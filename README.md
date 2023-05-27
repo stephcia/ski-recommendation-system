@@ -39,7 +39,7 @@ To tackle these challenges head-on, I will be creating Avant Ski, a mobile ski r
 
 To create the recommender system, a cascade-hybrid recommender system approach was used. This is a two level system that benefits from two types of filtering. 
 
-The primary recommendation system is a **content-based** filtering model and the secondary approach is **user-based collaborative**filtering.
+The primary recommendation system is a **content-based** filtering model and the secondary approach is **user-based collaborative** filtering.
 
 ![img](images/cascade_hybrid_schema.jpg)
 
