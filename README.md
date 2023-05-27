@@ -41,7 +41,7 @@ To create the recommender system, a cascade-hybrid recommender system approach w
 
 The primary recommendation system is a **content-based** filtering model and the secondary approach is **user-based collaborative** filtering.
 
-![img](images/cascade_hybrid_schema.jpg)
+![img](images/cascade_hybrid_schema_sc.jpg)
 
 The main features for content filtering are:
 - mountain elevation
