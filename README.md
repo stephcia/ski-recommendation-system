@@ -1,7 +1,7 @@
 # Avant Ski
 ### Ski Resort Recommendation App
 
-![img](images/whistler.jpg)
+![img](images/whistler_banner.jpg)
 
 **Author**:
 
@@ -11,13 +11,13 @@ Stephanie Ciaccia
 
 Skiing holds a prominent place for those seeking winter recreational activities in the United States. With its stunning mountain ranges and diverse terrain, the country boasts numerous ski resorts that cater to all skill levels, from beginners to seasoned professionals. Skiing offers a unique blend of adventure, physical activity, and natural beauty, making it a popular choice for winter enthusiasts seeking both relaxation and excitement.
 
-The ski market in the United States is thriving, contributing significantly to the economy. According to the [National Ski Areas Association (NSAA)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://nsaa.org/webdocs/Media_Public/IndustryStats/Historical_Skier_Days_1979_2022.pdf), approximately 60.7 million skiers and snowboarders visited 473 ski resorts in the 2021-2022 winter season.
+The ski market in the United States is thriving, contributing significantly to the economy. According to the [National Ski Areas Association (NSAA)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://nsaa.org/webdocs/Media_Public/IndustryStats/Historical_Skier_Days_1979_2022.pdf), approximately **60.7 million** skiers and snowboarders visited **473** ski resorts in the 2021-2022 winter season.
 
 ## Business Problem
 
-Skiing is an exhilarating winter activity enjoyed by many, but barriers such as high costs, choice overload, and limited accessibility often hinder people from fully experiencing its joys. Choosing the right ski resort can be overwhelming due to the multitude of options available, and existing websites lack dynamic filtering capabilities based on user preferences.
+Skiing, an exhilarating winter sport cherished by many, often involves time-consuming and daunting trip planning. The sheer abundance of ski resorts available makes it overwhelming to choose the ideal destination, and existing ski websites lack the necessary tools to filter options based on individual preferences.
 
-To address these challenges, I'm developing Avant Ski, a ski resort recommendation app. Avant Ski simplifies the ski resort selection process by leveraging data and user preferences. With dynamic filtering features, users can personalize their search based on budget, location, amenities, and skill level. By bridging the gap between ski enthusiasts and their dream destinations, Avant Ski makes skiing accessible to a wider audience, empowering them to plan unforgettable ski trips with confidence.
+To tackle these challenges head-on, I will be creating Avant Ski, a mobile ski resort recommendation app. Avant Ski will improve trip planning by harnessing the power of data and user preferences. The system will offer dynamic filtering capabilities, enabling users to personalize their search according to an array of desired features. By bridging the gap between ski enthusiasts and their dream destinations, Avant Ski aims to streamline the entire ski trip planning experience.
 
 ## Data
 
@@ -25,7 +25,7 @@ To address these challenges, I'm developing Avant Ski, a ski resort recommendati
 
 - OnTheSnow - For the collaborative system, I utilized a dataset sourced from Kaggle [Insider airbnb]([http://insideairbnb.com/) with 30,000 reviews from OnTheSnow. As part of the data cleaning process, I filtered out generic user names or those without last names. This filtering resulted in a final dataset comprising 664 users, 273 resorts, and 2801 total reviews.
 
-**Feature Data*
+**Feature Data**
 
 - All feature data was scraped or pulled from an API:
 
@@ -41,7 +41,7 @@ To create the recommender system, a cascade-hybrid recommender system approach w
 
 The primary recommendation system is a **content-based** filtering model and the secondary approach is **user-based collaborative**filtering.
 
-(images/cascade_hybrid_schema.jpg)
+![img](images/cascade_hybrid_schema.jpg)
 
 The main features for content filtering are:
 - mountain elevation
