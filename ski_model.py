@@ -177,7 +177,14 @@ month_list = ['December', 'January', 'February', 'March', 'April', 'May']
 pass_list = ['Ikon', 'Epic', 'Mountain Collective', 'Indy']
 
 st.title("Avant Ski")
-st.header("Ski Resort Recommender")
+
+header_placeholder = st.empty()
+
+header_placeholder.header("Ski Resort Recommender")
+
+header_image_path = './images/whistler.png'
+header_image = Image.open(header_image_path)
+header_placeholder.image(header_image, use_column_width='always')
 
 # user inputs
 user = st.sidebar.text_input('Name')
@@ -190,6 +197,10 @@ if mtn_pass == 'Yes':
 
 # recommendation button
 if st.sidebar.button("Get Recommendations"):
+    
+    #adding empty header to remove the image
+    header_placeholder.empty()
+    
     if user not in user_df.index:
         st.sidebar.error("Please enter a valid name or username.", icon="🚨")
     else:
