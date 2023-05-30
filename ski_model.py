@@ -151,11 +151,12 @@ def img_text(input_image_path, name):
     image = Image.open(input_image_path)
     draw = ImageDraw.Draw(image)
     font_size = 140  # Set the desired font size
-
+    font_path = "fonts/30270430119.ttf"
+    
     # Wrap the text onto multiple lines based on the specified width
     wrapped_text = textwrap.wrap(name, width=10)
 
-    font = ImageFont.truetype("Arial.ttf", size=font_size)
+    font = ImageFont.truetype(font_path, size=font_size)
     text_color = (255, 0, 189)  # Set the font color as RGB tuple (pink)
 
     x = 120  # X-coordinate for the text position
