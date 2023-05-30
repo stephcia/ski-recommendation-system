@@ -177,29 +177,28 @@ month_list = ['December', 'January', 'February', 'March', 'April', 'May']
 pass_list = ['Ikon', 'Epic', 'Mountain Collective', 'Indy']
 
 st.title("Avant Ski")
+st.header("Ski Resort Recommender")
 
-header_placeholder = st.empty()
 
-header_placeholder.header("Ski Resort Recommender")
-
-header_image_path = './images/whistler.png'
-header_image = Image.open(header_image_path)
-header_placeholder.image(header_image, use_column_width='always')
+#header_placeholder = st.empty()
+#header_image_path = './images/whistler.png'
+#header_image = Image.open(header_image_path)
+#header_placeholder.image(header_image, use_column_width='always')
 
 # user inputs
-user = st.sidebar.text_input('Name')
-n_recs = st.sidebar.number_input('How many resort recommendations do you want?', min_value=1, max_value=10, step=1)
-mountain_name = st.sidebar.selectbox("Choose a resort to find similar recommendations.", resort_names)
-travel_date = st.sidebar.selectbox('What month would you like to travel?', month_list)
-mtn_pass = st.sidebar.radio('Are you using a multi-resort pass?', ('Yes', 'No'))
+user = st.text_input('Name')
+n_recs = st.number_input('How many resort recommendations do you want?', min_value=1, max_value=10, step=1)
+mountain_name = st.selectbox("Choose a resort to find similar recommendations.", resort_names)
+travel_date = st.selectbox('What month would you like to travel?', month_list)
+mtn_pass = st.radio('Are you using a multi-resort pass?', ('Yes', 'No'))
 if mtn_pass == 'Yes':
-    radio_choice = st.sidebar.radio('Choose an option', pass_list)
+    radio_choice = st.radio('Choose an option', pass_list)
 
 # recommendation button
-if st.sidebar.button("Get Recommendations"):
+if st.button("Get Recommendations"):
     
     #adding empty header to remove the image
-    header_placeholder.empty()
+    #header_placeholder.empty()
     
     if user not in user_df.index:
         st.sidebar.error("Please enter a valid name or username.", icon="🚨")
