@@ -273,10 +273,12 @@ if st.button("Get Recommendations"):
                         rating_image_path = './images/icons/four_stars.png'
                     else:
                         rating_image_path = '../images/icons/five_stars.png'
-
+                     
                     rating_image = Image.open(rating_image_path)
                     st.image(rating_image, width=100, use_column_width='always')
                     
+                    rec_df = rec_df.loc[~(rec_df.index == "Predicted Rating")]
+
                     html_table = rec_df.to_html(header=False)
                     modified_html_table = html_table.replace('<table', '<table style="border-collapse: collapse;"')
                     st.markdown(modified_html_table, unsafe_allow_html=True)
