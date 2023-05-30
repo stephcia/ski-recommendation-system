@@ -1,24 +1,6 @@
-import zlib
-import wheel
-import python
-import certifi
-import readline
-import pip
-import sqlite3
-import tkinter
-import lzma
-import libffi
-import setuptools
-import OpenSSL
-import bz2
-import curses
-
 import streamlit as st
 import pandas as pd
-import pickle
 import numpy as np
-import joblib
-import seaborn as sns
 
 from sklearn.metrics.pairwise import cosine_similarity
 from surprise import SVDpp, SVD
@@ -28,7 +10,6 @@ from surprise import Reader
 from surprise.model_selection import GridSearchCV, cross_validate, train_test_split
 
 from PIL import Image
-
 import plotly.express as px
 
 #importing files
