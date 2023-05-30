@@ -180,24 +180,24 @@ st.title("Avant Ski")
 st.header("Ski Resort Recommender")
 
 # user inputs
-user = st.text_input('Name')
-n_recs = st.number_input('How many resort recommendations do you want?', min_value=1, max_value=10, step=1)
-mountain_name = st.selectbox("Choose a resort to find similar recommendations.", resort_names)
-travel_date = st.selectbox('What month would you like to travel?', month_list)
-mtn_pass = st.radio('Are you using a multi-resort pass?', ('Yes', 'No'))
+user = st.sidebar.text_input('Name')
+n_recs = st.sidebar.number_input('How many resort recommendations do you want?', min_value=1, max_value=10, step=1)
+mountain_name = st.sidebar.selectbox("Choose a resort to find similar recommendations.", resort_names)
+travel_date = st.sidebar.selectbox('What month would you like to travel?', month_list)
+mtn_pass = st.sidebar.radio('Are you using a multi-resort pass?', ('Yes', 'No'))
 if mtn_pass == 'Yes':
-    radio_choice = st.radio('Choose an option', pass_list)
+    radio_choice = st.sidebar.radio('Choose an option', pass_list)
 
 # recommendation button
-if st.button("Get Recommendations"):
+if st.sidebar.button("Get Recommendations"):
     if user not in user_df.index:
-        st.error("Please enter a valid name or username.", icon="🚨")
+        st.sidebar.error("Please enter a valid name or username.", icon="🚨")
     else:
         # calling model
         recommendations = hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass)
 
     # Display the final recommendations
-    st.subheader("Ski Resort Recommendations")
+    #st.subheader("Ski Resort Recommendations")
     
     #displaying map of ski resorts
     rec_list = recommendations.columns.to_list()
