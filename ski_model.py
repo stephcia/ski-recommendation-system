@@ -1,3 +1,18 @@
+import zlib
+import wheel
+import python
+import certifi
+import readline
+import pip
+import sqlite3
+import tkinter
+import lzma
+import libffi
+import setuptools
+import OpenSSL
+import bz2
+import curses
+
 import streamlit as st
 import pandas as pd
 import pickle
