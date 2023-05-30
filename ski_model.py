@@ -9,8 +9,9 @@ from surprise import Dataset
 from surprise import Reader
 from surprise.model_selection import GridSearchCV, cross_validate, train_test_split
 
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFont
 import plotly.express as px
+import textwrap
 
 #importing files
 content_matrix = pd.read_csv("data/cleaned_data_exports/scraped_feature_df_3.csv")
@@ -52,6 +53,7 @@ def load_image(img):
     image = np.array(im)
     return image
 
+@st.cache_data
 def load_model(model_filename):
     print (">> Loading dump")
     from surprise import dump
@@ -136,7 +138,7 @@ def hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass):
                   "intermediate_runs", "advanced_runs",
                    "expert_runs", "dec_mean_4_guests","dec_mean_2_guests"]
                                                         
-    rename_to = ["Ski Resort", "State (ft)", "Summit (ft)" , "Drop (ft)",
+    rename_to = ["Ski Resort", "State", "Summit (ft)" , "Drop (ft)",
                 "Base (ft)","Weekday Lift Ticket ($)", "Weekend Lift Ticket ($)",
                 "Beginner Runs (%)", "Intermediate Runs (%)", "Advanced Runs(%)", "Expert Runs (%)",
                  "4 Guest Airbnb ($/Night)", "2 Guest Airbnb ($/Night)"]
@@ -144,31 +146,57 @@ def hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass):
     columns_dict = dict(zip(rename_list, rename_to))
     final_recs = final_recs.rename(columns=columns_dict).set_index('Ski Resort')
     return final_recs.head(n_recs).T
+
+def img_text(input_image_path, name):
+    image = Image.open(input_image_path)
+    draw = ImageDraw.Draw(image)
+    font_size = 140  # Set the desired font size
+
+    # Wrap the text onto multiple lines based on the specified width
+    wrapped_text = textwrap.wrap(name, width=10)
+
+    font = ImageFont.truetype("Arial.ttf", size=font_size)
+    text_color = (255, 0, 189)  # Set the font color as RGB tuple (pink)
+
+    x = 120  # X-coordinate for the text position
+    y = 100  # Y-coordinate for the text position
+
+    # Draw each line of wrapped text onto the image
+    for line in wrapped_text:
+        draw.text((x, y), line, font=font, fill=text_color)
+        x = 120
+        y = 220
+
+    return image
                  
 #making a list of mountain names for input
 resort_names = content_matrix.index.tolist()
 month_list = ['December', 'January', 'February', 'March', 'April', 'May']
 pass_list = ['Ikon', 'Epic', 'Mountain Collective', 'Indy']
 
+st.title("Avant Ski")
+st.header("Ski Resort Recommender")
 
-# User inputs
+# user inputs
 user = st.text_input('Name')
-n_recs = st.number_input('How many resort recommendations do you want?', min_value=1, step=1)
-mountain_name = st.selectbox("What's your favorite ski resort?", resort_names)
+n_recs = st.number_input('How many resort recommendations do you want?', min_value=1, max_value=10, step=1)
+mountain_name = st.selectbox("Choose a resort to find similar recommendations.", resort_names)
 travel_date = st.selectbox('What month would you like to travel?', month_list)
 mtn_pass = st.radio('Are you using a multi-resort pass?', ('Yes', 'No'))
 if mtn_pass == 'Yes':
     radio_choice = st.radio('Choose an option', pass_list)
 
-# Button to trigger recommendation
+# recommendation button
 if st.button("Get Recommendations"):
-    # Call the hybrid model function and get recommendations
-    recommendations = hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass)
+    if user not in user_df.index:
+        st.error("Please enter a valid name or username.", icon="🚨")
+    else:
+        # calling model
+        recommendations = hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass)
 
     # Display the final recommendations
-    st.subheader("Recommendations")
-    st.dataframe(recommendations)
-
+    st.subheader("Ski Resort Recommendations")
+    
     #displaying map of ski resorts
     rec_list = recommendations.columns.to_list()
     rec_map_df = content_matrix[content_matrix.index.isin(rec_list)]
@@ -184,23 +212,57 @@ if st.button("Get Recommendations"):
                                                                  "drop"],
                             color_discrete_sequence=["blue"], zoom=2.5)
     
-    #loop_list = range(n_recs)
+#     loop_list = range(n_recs)
     
-    #for x in loop_list:
+#     for x in loop_list:
     
-        #fig.add_trace(px.scatter_mapbox(rec_map_df, lat='lat', lon='long',
-                                        #color_discrete_sequence=["white"]).data[x])
+#         fig.add_trace(px.scatter_mapbox(rec_map_df, lat='lat', lon='long',
+#                                         color_discrete_sequence=["white"]).data[x])
 
-        #fig.add_trace(px.scatter_mapbox(rec_map_df, lat='lat_2', lon='long_2',
-                                        #color_discrete_sequence=["white"]).data[x])
+#         fig.add_trace(px.scatter_mapbox(rec_map_df, lat='lat_2', lon='long_2',
+#                                         color_discrete_sequence=["white"]).data[x])
 
     # Update the map layout
     fig.update_layout(mapbox_style='open-street-map')
     fig.update_layout(margin={'r': 0, 't': 0, 'l': 0, 'b': 0})
 
     # Display the map
+    #st.plotly_chart(fig, use_container_width=True)
+    
+    
+    #making containers for recommendations
+    container = st.container()
+    
+    #setting max container columns to three
+    max_columns = 3
+    
+    #breaking out rows based on column width
+    n_rows = (n_recs + max_columns - 1) // max_columns
+    
+    #adjusting the number of columns/rows based on the length of recommendations
+    for row in range(n_rows):
+        columns = st.columns(max_columns)
+        for col in range(max_columns):
+            container = columns[col]
+            i = row * max_columns + col
+            
+            # adding image with resort name to containers. image function is defined above
+            if i < n_recs:
+                with container:
+                    rec = recommendations.iloc[:, i].copy()
+                    image_path = f'./images/icons/rec_{i+1}.png'
+                    name =  f'{rec.name}'
+                    image = img_text(image_path, name)
+                    st.image(image, use_column_width='auto')
+                    rec_df = pd.DataFrame(rec).copy()
+                    html_table = rec_df.to_html(header=False)
+                    modified_html_table = html_table.replace('<table', '<table style="border-collapse: collapse;"')
+                    st.markdown(modified_html_table, unsafe_allow_html=True)
+                    st.markdown('#')
+    
+    st.subheader("Resort Locations")
     st.plotly_chart(fig, use_container_width=True)
-        
-        
+
+                    
         
         
