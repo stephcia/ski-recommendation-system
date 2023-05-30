@@ -137,12 +137,12 @@ def hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass):
                    "adultWeekendPrice", "beginner_runs",
                   "intermediate_runs", "advanced_runs",
                    "expert_runs", "dec_mean_4_guests","dec_mean_2_guests",
-                   "predicted_rating"]
+                   "predicted_rating", "jan_mean_4_guests","jan_mean_2_guests", "feb_mean_4_guests","feb_mean_2_guests", "mar_mean_4_guests","mar_mean_2_guests", "apr_mean_4_guests","apr_mean_2_guests", "may_mean_4_guests","may_mean_2_guests" ]
                                                         
     rename_to = ["Ski Resort", "State", "Summit (ft)" , "Drop (ft)",
                 "Base (ft)","Weekday Lift Ticket ($)", "Weekend Lift Ticket ($)",
                 "Beginner Runs (%)", "Intermediate Runs (%)", "Advanced Runs(%)", "Expert Runs (%)",
-                 "4 Guest Airbnb ($/Night)", "2 Guest Airbnb ($/Night)","Predicted Rating"]
+                 "4 Guest Airbnb ($/Night)", "2 Guest Airbnb ($/Night)","Predicted Rating", "4 Guest Airbnb ($/Night)", "2 Guest Airbnb ($/Night)", "4 Guest Airbnb ($/Night)", "2 Guest Airbnb ($/Night)", "4 Guest Airbnb ($/Night)", "2 Guest Airbnb ($/Night)", "4 Guest Airbnb ($/Night)", "2 Guest Airbnb ($/Night)", "4 Guest Airbnb ($/Night)", "2 Guest Airbnb ($/Night)"]
     
     columns_dict = dict(zip(rename_list, rename_to))
     final_recs = final_recs.rename(columns=columns_dict).set_index('Ski Resort')
