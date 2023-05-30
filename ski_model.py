@@ -136,12 +136,13 @@ def hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass):
     rename_list = ["ski_resort", "state","summit", "drop", "base", "adultWeekdayPrice",
                    "adultWeekendPrice", "beginner_runs",
                   "intermediate_runs", "advanced_runs",
-                   "expert_runs", "dec_mean_4_guests","dec_mean_2_guests"]
+                   "expert_runs", "dec_mean_4_guests","dec_mean_2_guests",
+                   "predicted_rating"]
                                                         
     rename_to = ["Ski Resort", "State", "Summit (ft)" , "Drop (ft)",
                 "Base (ft)","Weekday Lift Ticket ($)", "Weekend Lift Ticket ($)",
                 "Beginner Runs (%)", "Intermediate Runs (%)", "Advanced Runs(%)", "Expert Runs (%)",
-                 "4 Guest Airbnb ($/Night)", "2 Guest Airbnb ($/Night)"]
+                 "4 Guest Airbnb ($/Night)", "2 Guest Airbnb ($/Night)","Predicted Rating"]
     
     columns_dict = dict(zip(rename_list, rename_to))
     final_recs = final_recs.rename(columns=columns_dict).set_index('Ski Resort')
@@ -207,11 +208,13 @@ if st.button("Get Recommendations"):
     
 #     lift_num = rec_map_df['total_lifts'][0]
 #     st.image(image, caption=lift_num, width=60)
+
+    rec_map_df.rename(columns={"ski_resort":"Ski Resort"}, inplace=True)
     
     fig = px.scatter_mapbox(rec_map_df, lat='latitude', lon='longitude',
-                            hover_name="ski_resort", hover_data=["summit", "base",
+                            hover_name="Ski Resort", hover_data=["summit", "base",
                                                                  "drop"],
-                            color_discrete_sequence=["blue"], zoom=2.5)
+                            color='Ski Resort', zoom=2.25)
     
 #     loop_list = range(n_recs)
     
@@ -254,14 +257,31 @@ if st.button("Get Recommendations"):
                     image_path = f'./images/icons/rec_{i+1}.png'
                     name =  f'{rec.name}'
                     image = img_text(image_path, name)
-                    st.image(image, use_column_width='auto')
+                    st.image(image, use_column_width='always')
                     rec_df = pd.DataFrame(rec).copy()
+                                       
+                    rating_df = pd.DataFrame(rec_df.loc["Predicted Rating"])
+                    rating = float(rating_df['Predicted Rating'].iloc[0])
+                    
+                    if 1 <= rating < 2:
+                        rating_image_path = './images/icons/one_star.png'
+                    elif 2 <= rating < 3:
+                        rating_image_path = './images/icons/two_stars.png'
+                    elif 3 <= rating < 4:
+                        rating_image_path = './images/icons/three_stars.png'
+                    elif 4 <= rating < 5:
+                        rating_image_path = './images/icons/four_stars.png'
+                    else:
+                        rating_image_path = '../images/icons/five_stars.png'
+
+                    rating_image = Image.open(rating_image_path)
+                    st.image(rating_image, width=100, use_column_width='always')
+                    
                     html_table = rec_df.to_html(header=False)
                     modified_html_table = html_table.replace('<table', '<table style="border-collapse: collapse;"')
                     st.markdown(modified_html_table, unsafe_allow_html=True)
                     st.markdown('#')
-    
-    st.subheader("Resort Locations")
+   
     st.plotly_chart(fig, use_container_width=True)
 
                     
