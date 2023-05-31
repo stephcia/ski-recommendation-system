@@ -1,0 +1,331 @@
+,city,state,ski_resort
+0,Olympic Valley,California,Palisades Tahoe
+1,Mammoth Mountain Lakes,California,Mammoth Mountain
+2,Norden,California,Donner Ski Ranch
+3,Norden,California,Sugar Bowl
+4,Kirkwood,California,Kirkwood
+5,Truckee,California,Boreal
+6,Twin Bridges,California,Sierra at Tahoe
+7,Reno,Nevada,Mt. Rose Ski Tahoe
+8,Truckee,California,Soda Springs
+9,Pagosa Springs,Colorado,Wolf Creek
+10,Chewelah,Washington,49 Degrees North
+11,Bear Valley,California,Bear Valley
+12,Alta,Utah,Alta
+13,Mt. Hood,Oregon,Mt. Hood Meadows
+14,Snowbird,Utah,Snowbird
+15,Truckee,California,Northstar California
+16,Bellingham,Washington,Mt. Baker
+17,Snoqualmie Pass,Washington,Alpental
+18,Truckee,California,Tahoe Donner
+19,Mead,Washington,Mt. Spokane
+20,Huntsville,Utah,Snowbasin
+21,Brighton,Utah,Brighton
+22,Girdwood,Alaska,Alyeska
+23,McCall,Idaho,Brundage Mountain
+24,Pinecrest,California,Dodge Ridge
+25,Bend,Oregon,Mt. Bachelor
+26,Brighton,Utah,Solitude Mountain
+27,Ashland,Oregon,Mt. Ashland
+28,Stateline,California,Heavenly Mountain
+29,Timberline Lodge,Oregon,Timberline Lodge
+30,June Lake,California,June Mountain
+31,Mt. Shasta Board Ski Park,California,Mt. Shasta Board Ski Park
+32,Eugene,Oregon,Willamette Pass
+33,Park City Mountain,Utah,Deer Valley
+34,Silverton Mountain,Colorado,Silverton Mountain
+35,Park City Mountain,Utah,Park City Mountain
+36,Incline Village,Nevada,Diamond Peak
+37,Blowing Rock,North Carolina,Appalachian Ski Mountain
+38,Alta,Wyoming,Grand Targhee
+39,Teton Village,Wyoming,Jackson Hole
+40,Wallace,Idaho,Lookout Pass
+41,Eden,Utah,Powder Mountain
+42,Aspen,Colorado,Aspen Snowmass
+43,Copper Mountain,Colorado,Copper Mountain
+44,Steamboat Springs,Colorado,Steamboat
+45,Inkom,Idaho,Pebble Creek
+46,Flagstaff,Arizona,Arizona Snowbowl
+47,Telluride,Colorado,Telluride
+48,Welch,Minnesota,Welch Village
+49,Taos Ski Valley Ski Valley,New Mexico,Taos Ski Valley
+50,Monarch Mountain,Colorado,Monarch Mountain
+51,Sundance,Utah,Sundance
+52,Durango,Colorado,Purgatory Mountain
+53,Breckenridge,Colorado,Breckenridge
+54,Winter Park,Colorado,Winter Park
+55,Crystal Mountain,Washington,Crystal Mountain Washington
+56,White Pass,Washington,White Pass
+57,Big Sky,Montana,Big Sky
+58,Leadville,Colorado,Ski Cooper
+59,Mesa,Colorado,Powderhorn
+60,Sandpoint,Idaho,Schweitzer
+61,Mt. Crested Butte Mountain,Colorado,Crested Butte Mountain
+62,Skykomish,Washington,Stevens Pass
+63,Snoqualmie Pass,Washington,Summit at Snoqualmie
+64,Bessemer,Michigan,Black River
+65,Brian Head,Utah,Brian Head
+66,Wakefield,Michigan,Jackson Creek
+67,Sisters,Oregon,Hoodoo
+68,Dayton,Washington,Bluewood
+69,Logan,Utah,Beaver Mountain
+70,Boise,Idaho,Bogus Basin
+71,Conner,Montana,Lost Trail Powder Mountain
+72,Taylors Falls,Minnesota,Wild Mountain Ski
+73,Whitefish Mountain,Montana,Whitefish Mountain
+74,Lakeside,Montana,Blacktail Mountain
+75,Dillon,Colorado,Arapahoe Basin
+76,Santa Fe,New Mexico,Ski Santa Fe
+77,Vail,Colorado,Vail
+78,North Powder,Oregon,Anthony Lakes Mountain
+79,Georgetown,Colorado,Loveland
+80,Sun Valley,Idaho,Sun Valley
+81,Vail,Colorado,Beaver Creek
+82,Bolton,Vermont,Bolton Valley
+83,Missoula,Montana,Montana Snowbowl
+84,Dresser,Wisconsin,Trollhaugen
+85,Bozeman,Montana,Bridger Bowl
+86,Keystone,Colorado,Keystone
+87,Wausau,Wisconsin,Granite Peak
+88,Kellogg,Idaho,Silver Mountain
+89,Anaconda,Montana,Discovery
+90,Houghton,Michigan,Mont Ripley
+91,Running Springs,California,Snow Valley
+92,Glenwood Springs,Colorado,Sunlight Mountain
+93,Las Vegas,Nevada,Lee Canyon
+94,Government Camp,Oregon,Mt. Hood Skibowl
+95,Lakeshore,California,Ski China Peak
+96,Red Lodge,Montana,Red Lodge Mountain.
+97,Franconia,New Hampshire,Cannon Mountain
+98,Lutsen Mountains,Minnesota,Lutsen Mountains
+99,Vernon,New Jersey,Mountain Creek
+100,Centennial,Wyoming,Snowy Range
+101,Princeton,Massachusetts,Wachusett Mountain
+102,Boyne Falls,Michigan,Boyne Mountain
+103,Iron River,Michigan,Ski Brule
+104,Marysville,Montana,Great Divide
+105,Biwabik,Minnesota,Giants Ridge
+106,Jay,Vermont,Jay Peak
+107,Wenatchee,Washington,Mission Ridge
+108,Tannersville,Pennsylvania,Camelback Mountain
+109,Jackson,New Hampshire,Black Mountain
+110,Nederland,Colorado,Eldora Mountain
+111,Polaris,Montana,Maverick Mountain
+112,Neihart,Montana,Showdown
+113,Tully,New York,Song Mountain
+114,Stowe Mountain,Vermont,Stowe Mountain
+115,Blakeslee,Pennsylvania,Big Boulder
+116,Burnsville,Minnesota,Buck Hill
+117,Thompsonville,Michigan,Crystal Mountain Michigan
+118,Killington,Vermont,Killington
+119,Bellaire,Michigan,Schuss Mountain
+120,Smugglers Notch,Vermont,Smugglers' Notch
+121,Jackson,New Hampshire,Wildcat Mountain
+122,Vadito,New Mexico,Sipapu Ski and Summer
+123,Bretton Woods,New Hampshire,Bretton Woods
+124,Harbor Springs,Michigan,Nubs Nob
+125,Gaylord,Michigan,Treetops
+126,Big Bear Lake,California,Bear Mountain
+127,Casper,Wyoming,Hogadon
+128,Hancock,Massachusetts,Jiminy Peak
+129,Lincoln,New Hampshire,Loon Mountain
+130,Boone,Iowa,Seven Oaks
+131,Big Bear Lake,California,Snow Summit
+132,Carrabassett Valley,Maine,Sugarloaf
+133,Ellicottville,New York,Holimont
+134,East Burke,Vermont,Burke Mountain
+135,Bridgton,Maine,Pleasant
+136,Newry,Maine,Sunday River
+137,Los Alamos,New Mexico,Pajarito Mountain
+138,Hillsdale,New York,Catamount Ski Ride Area
+139,Ellicotville,New York,Holiday Valley
+140,Charlemont,Massachusetts,Berkshire East
+141,Canandaigua,New York,Bristol Mountain
+142,Monticello,New York,Holiday Mountain
+143,Schenectady,New York,Maple Ski Ridge
+144,Killington,Vermont,Pico Mountain
+145,Warren,Vermont,Sugarbush
+146,Ludlow,Vermont,Okemo Mountain
+147,North Creek,New York,Gore Mountain
+148,West Dover,Vermont,Mt. Snow
+149,Malone,New York,Titus Mountain
+150,Manchester Center,Vermont,Bromley Mountain
+151,Wrightwood,California,Mountain High
+152,La Crosse,Wisconsin,Mt. La Crosse
+153,Danbury,New Hampshire,Ragged Mountain
+154,Greenwich,New York,Willard Mountain
+155,Red River,New Mexico,Enchanted Forest
+156,Cannonsburg,Michigan,Cannonsburg
+157,Waterville Valley,New Hampshire,Waterville Valley
+158,Wilmington,New York,Whiteface Mountain
+159,Seven Springs,Pennsylvania,Seven Springs
+160,Westernville,New York,Woods Valley
+161,North Conway,New Hampshire,Cranmore Mountain
+162,Highmount,New York,Belleayre
+163,Laconia,New Hampshire,Gunstock
+164,Hunter,New York,Hunter Mountain
+165,Waitsfield,Vermont,Mad River Glen
+166,Roxbury,New York,Plattekill Mountain
+167,Stratton Mountain Mountain,Vermont,Stratton Mountain
+168,Davis,West Virginia,Timberline Mountain
+169,Glen Falls,New York,West Mountain
+170,Michigan,Michigan,Mt. Bohemia
+171,Tensleep,Wyoming,Meadowlark
+172,Londonderry,Vermont,Magic Mountain Vermont
+173,Mt. Baldy,California,Mt. Baldy
+174,18507 Scranton,Pennsylvania,Montage Mountain
+175,Newbury,New Hampshire,Mt. Sunapee
+176,Greenville,Maine,Big Squaw Mountain Ski
+177,Yosemite,California,Badger Pass
+178,Lisle,Illinois,Four Lakes
+179,Bloomington,Minnesota,Hyland Ski
+180,Crescent,Iowa,Mt. Crescent
+181,Caroga Lake,New York,Royal Mountain
+182,Wabasha,Minnesota,Coffee Mill Ski Snowboard
+183,Neilsville,Wisconsin,Bruce Mound
+184,Anchorage,Alaska,Hilltop
+185,01253 Otis,Massachusetts,Otis Ridge
+186,Bartlett,New Hampshire,Attitash
+187,Hastings,Minnesota,Afton Alps
+188,Chesterland,Ohio,Alpine Valley Ohio
+189,East Troy,Wisconsin,Alpine Valley Wisconsin
+190,White Lake,Michigan,Alpine Valley Michigan
+191,Jackson,Wyoming,Snow King
+192,Kensington,Minnesota,Andes Tower Hills
+193,Angel Fire,New Mexico,Angel Fire
+194,Freeland,Michigan,Apple Mountain
+195,Macungie,Pennsylvania,Bear Creek Mountain
+196,Bessemer,Michigan,Big Powderhorn Mountain
+197,Otsego,Michigan,Bittersweet
+198,Blandford,Massachusetts,Blandford
+199,Claysburg,PA 16625,Blue Knob
+200,Palmerton,Pennsylvania,Blue Mountain
+201,Peninsula,Ohio,Boston Mills and Brandywine
+202,Pittsfield,Massachusetts,Bousquet
+203,Harbor Springs,Michigan,Boyne Highlands
+204,Bradford,Massachusetts,Bradford
+206,Sodus,New York,Brantling Ski Slopes
+207,Basye,Virginia,Bryce
+208,Bemidji,Minnesota,Buena Vista
+209,Great Barrington,Massachusetts,Ski Butternut
+210,Cadillac,Michigan,Caberfae Peaks Ski Golf
+211,Camden,Maine,Camden
+212,Mahwah,New Jersey,Campgaw Mountain
+213,Portage,Wisconsin,Cascade Mountain
+214,Maggie Valley,North Carolina,Cataloochee
+215,Galena,Illinois,Chestnut Mountain
+216,Bruce,Wisconsin,Christie Mountain
+217,Wisconsin Dells,Wisconsin,Christmas Mountain
+218,Hanover,New Hampshire,Dartmouth Skiway
+219,Merrimac,Wisconsin,Devils Head
+220,Watertown,New York,Dry Hill
+221,Hazelton,Pennsylvania,Eagle Rock
+222,Juneau,Alaska,Eaglecrest
+223,Union Dale,Pennsylvania,Elk Mountain Ski
+224,Lake Geneva,Wisconsin,Grand Geneva
+225,Cortland,New York,Greek Peak
+226,Eureka,Missouri,Hidden Valley
+227,Steamboat,Colorado,Howelsen Hill
+228,Blakeslee,Pennsylvania,Jack Frost
+229,Ririe,Idaho,Kelly Canyon
+230,East Madison,New Hampshire,King Pine
+231,Glenwood,New York,Kissing Bridge
+232,Truxton,New York,Labrador Mt.
+233,Auburn,Maine,Lost Valley
+234,Bellefontaine,Ohio,Mad River Mountain
+235,Twin Falls,Idaho,Magic Mountain Idaho
+236,Marquette Mountain,Michigan,Marquette Mountain
+237,Harrisonburg,Virginia,Massanutten
+238,Old Forge,New York,McCauley Mountain
+239,Cornwall,Connecticut,Mohawk Mountain
+240,Greenwood,Maine,Mt. Abram Ski
+241,Mankato,Minnesota,Mt. Kato
+242,Southington,Connecticut,Mt. Southington
+243,Brighton,Michigan,Mt. Brighton
+244,Traverse City,Michigan,Mt. Holiday
+245,Holly,Michigan,Mt. Holly
+246,Lee,Maine,Mt. Jefferson
+247,Warwick,New York,Mt. Peter
+248,Westford,Massachusetts,Nashoba Valley
+249,Stockton Springs,Maine,New Hermon Mountain.
+250,Wild Rose,Wisconsin,Nordic Mountain
+251,Eden,Utah,Nordic Valley
+252,Norway,Michigan,Norway Mountain
+253,Gatlinburg,Tennessee,Ober Gatlinburg Ski
+254,Paoli,Indiana,Paoli Peaks
+255,Henniker,New Hampshire,Pats Peak
+256,Findley Lake,New York,Peekn Peak
+257,Lawrenceburg,Indiana,Perfect North Slopes
+258,Iron Mountain,Michigan,Pine Mountain
+259,Albion,Idaho,Pomerelle Mountain
+260,Kimball,Minnesota,Powder Ridge Minnesota
+261,Red River,New Mexico,Red River
+262,Albuquerque,New Mexico,Sandia Peak
+263,Cashiers,North Carolina,Sapphire Valley
+264,Granby,Colorado,Granby Ranch
+265,Ruidoso,New Mexico,Ski Apache
+266,Banner  Elk,North Carolina,Ski Beech Mountain
+267,Carroll Valley,Pennsylvania,Liberty
+268,Lewisberry,Pennsylvania,Roundtop Mountain
+269,Morris,Pennsylvania,Ski Sawmill
+270,Andalusia,Illinois,Ski Snowstar
+271,New Hartford,Connecticut,Ski Sundown
+272,Windham,New York,Windham Mountain
+273,Turin,New York,Snow Ridge
+274,Harrison,Michigan,Snow Snake
+275,Mansfield,Ohio,Snow Trails
+276,Snowshoe Mountain,West Virginia,Snowshoe Mountain
+277,Fairfield,Idaho,Soldier Mountain
+278,Duluth,Minnesota,Spirit Mountain
+279,Spring Mt.,Pennsylvania,Spring Mountain
+280,Banner Elk,North Carolina,Sugar Mountain
+281,Woodstock,Vermont,Saskadena Six
+282,Kewaskum,Wisconsin,Sunburst
+283,Dubuque,Iowa,Sundown Mountain
+284,Greer,Az,Sunrise Park
+285,Swain,New York,Swain
+286,Jones,Michigan,Swiss Valley
+287,Lead,South Dakota,Terry Peak
+288,Choteau,Montana,Teton Pass
+289,Hot Springs,Virginia,Omni Homestead
+290,Glen Arbor,Michigan,The Homestead
+291,Patterson,New York,Thunder Ridge
+292,Gobles,Michigan,Timber Ridge
+293,Fabius,New York,Toggenburg Mountain
+294,Boalsburg,Pennsylvania,Tussey Mountain
+295,Mt. Horeb,Wisconsin,Tyrol Basin
+296,Bartlett,Illinois,Villa Olivia
+297,Pinedale,Wyoming,White Pine
+298,Upson,Wisconsin,Whitecap Mountain
+299,Mercersburg,Pennsylvania,Whitetail
+300,Wilmot,Wisconsin,Wilmot Mountain
+301,Flat Top,West Virginia,Winterplace Ski
+302,Wintergreen,Virginia,Wintergreen
+303,McHenry,Maryland,Wisp
+304,Mars Hill,North Carolina,Wolf Ridge Ski
+305,Woodbury,Connecticut,Woodbury
+306,Slocum,Rhode Island,Yawgoo Valley
+307,Davis,West Virginia,Canaan Valley
+308,Mt. Hood,Oregon,Cooper Spur
+309,Canton,Massachusetts,Blue Hills
+310,Lackawaxen,Pennsylvania,Big Bear
+311,Weston,Missouri,Snow Creek
+312,Bennington,New Hampshire,Crotched Mountain
+313,Tamarack,Idaho,Tamarack
+314,Weston,Oregon,Spout Springs
+315,Orchard Park,New York,Buffalo Ski Club
+316,Lead,South Dakota,Deer Mountain
+317,Shrewsbury,Massachusetts,Ski Ward
+318,Maple Grove,Minnesota,Elm Creek
+319,Grand Haven,Michigan,Mulligan's Hollow
+320,Cody,Wyoming,Sleeping Giant
+321,Elko,Nevada,Elko SnoBowl
+322,Beaver,Utah,Eagle Point
+323,Clartkston,Michigan,Pine Knob
+324,Enfiled,New Hampshire,Whaleback
+325,Slinger,Wisconsin,Little Switzerland
+326,Speculator,New York,Oak Mountain
+327, Venango,Pennsylvania,Mt. Pleasant
+328,Naples,New York,Hunt Hollow
+329,Middlefield,Connecticut,Powder Ridge Connecticut
+330,Shawnee on Delaware,Pennsylvania,Shawnee Mountain
