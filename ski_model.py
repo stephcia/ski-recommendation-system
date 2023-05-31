@@ -109,8 +109,10 @@ def hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass):
         content_recommendations = content_recommendations.loc[content_recommendations['ikon'] == 1]
     elif mtn_pass == "Epic":
         content_recommendations = content_recommendations.loc[content_recommendations['epic'] == 1]
-    elif mtn_pass == "Mountain_collective":
+    elif mtn_pass == "Mountain Collective":
         content_recommendations = content_recommendations.loc[content_recommendations['mountain_collective'] == 1]
+    elif mtn_pass == "Indy":
+        content_recommendations = content_recommendations.loc[content_recommendations['indy'] == 1]
     elif mtn_pass == "No":
         pass
     
