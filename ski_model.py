@@ -176,14 +176,14 @@ resort_names = content_matrix.index.tolist()
 month_list = ['December', 'January', 'February', 'March', 'April', 'May']
 pass_list = ['Ikon', 'Epic', 'Mountain Collective', 'Indy']
 
-st.title("Avant Ski")
-st.header("Ski Resort Recommender")
-
-
+#st.title("Avant Ski")
 #header_placeholder = st.empty()
-#header_image_path = './images/whistler.png'
-#header_image = Image.open(header_image_path)
-#header_placeholder.image(header_image, use_column_width='always')
+
+header_image_path = './images/avant_ski_logo.png'
+header_image = Image.open(header_image_path)
+st.image(header_image, width=150)
+
+#st.subheader("Ski Resort Recommender")
 
 # user inputs
 user = st.text_input('Name')
@@ -192,7 +192,7 @@ mountain_name = st.selectbox("Choose a resort to find similar recommendations.",
 travel_date = st.selectbox('What month would you like to travel?', month_list)
 mtn_pass = st.radio('Are you using a multi-resort pass?', ('Yes', 'No'))
 if mtn_pass == 'Yes':
-    radio_choice = st.radio('Choose an option', pass_list)
+    radio_choice = st.multiselect('Select pass types', pass_list)
 
 # recommendation button
 if st.button("Get Recommendations"):
