@@ -105,15 +105,15 @@ def hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass):
     content_recommendations = pd.merge(concat_df, result, on="ski_resort")
     
     #adding mountain fil
-    if mtn_pass == "Ikon":
+    if radio_choice == "Ikon":
         content_recommendations = content_recommendations.loc[content_recommendations['ikon'] == 1]
-    elif mtn_pass == "Epic":
+    elif radio_choice == "Epic":
         content_recommendations = content_recommendations.loc[content_recommendations['epic'] == 1]
-    elif mtn_pass == "Mountain Collective":
+    elif radio_choice == "Mountain Collective":
         content_recommendations = content_recommendations.loc[content_recommendations['mountain_collective'] == 1]
-    elif mtn_pass == "Indy":
+    elif radio_choice == "Indy":
         content_recommendations = content_recommendations.loc[content_recommendations['indy'] == 1]
-    elif mtn_pass == "No":
+    elif radio_choice == "No":
         pass
     
     content_recommendations = content_recommendations[content_recommendations.ski_resort != mountain_name].head(20)

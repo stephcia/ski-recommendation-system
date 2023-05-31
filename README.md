@@ -54,11 +54,13 @@ To evaluate the accuracy of the collaborative model, the Root Mean Square Error 
 
 ## Results
 
-The collaborative model with the highest performance achieved an RMSE score of 0.90. In order to assess the effectiveness of the recommender's predictions, an analysis was conducted on the results for three users. These users, including myself, provided their mountain and ski resort preferences for evaluation purposes.
+The collaborative model with the highest performance achieved an RMSE score of 0.90. In order to assess the effectiveness of the recommender's predictions, an analysis was conducted on the results for two users. The recommendations were in line withe
 
-*once streamlit is up and runnning, I'm hoping to send it to my friends so they can give me their honest feedback on the results
 
-*will add in visuals and more specific details
+![img](images/user_1.jpg)
+
+![img](images/user_2.jpg)
+
 
 ## Conclusions
 
