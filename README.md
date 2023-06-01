@@ -27,7 +27,7 @@ Since data plays a crucial role in this application, I plan to showcase the app 
 
 **User Data**
 
-- OnTheSnow - For the collaborative system, I utilized a dataset sourced from Kaggle [Insider airbnb](http://insideairbnb.com/) with 30,000 reviews from OnTheSnow. As part of the data preparation process, it was essential to clean the user names in the dataset to establish accurate user profiles that truly reflect the preferences of individual users. 
+- OnTheSnow - For the collaborative system, I utilized a dataset sourced from [Kaggle](https://www.kaggle.com/datasets/fredkellner/onthesnow-ski-area-reviews)with 30,000 reviews from OnTheSnow. As part of the data preparation process, it was essential to clean the user names in the dataset to establish accurate user profiles that truly reflect the preferences of individual users. 
 
 This step played a vital role in ensuring the integrity of the dataset and facilitating the creation of a reliable foundation for the user-based recommendation system. By addressing non-unique user names and eliminating incorrect profiles, we could more effectively depict distinct users and their preferences. This cleaning resulted in a final dataset comprising **534 users, 269 resorts, and 2521 total reviews**
 
