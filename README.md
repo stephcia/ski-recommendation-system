@@ -80,9 +80,9 @@ To gain deeper insights into the recommendations, I sought feedback from two use
 
 Based on the user feedback, the recommendation system demonstrates does suggest ski resorts that align with user past reviews and preferences however not all recommendations were helpful.
 
-![img](images/user_1.jpg)
+![img](images/user_1.png)
 
-![img](images/user_2.jpg)
+![img](images/user_2.png)
 
 ## Conclusions
 
