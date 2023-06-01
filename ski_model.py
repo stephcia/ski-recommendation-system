@@ -118,23 +118,24 @@ def hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass, rad
     content_recommendations = pd.merge(concat_df, result, on="ski_resort")
     
     
-    filtered_recommendations = pd.DataFrame()
-    
-    for choice in radio_choices:
-        column_name = pass_column_mapping.get(choice)
-        if column_name and column_name in content_recommendations.columns:
-            
-            filtered_df = content_recommendations[content_recommendations[column_name] == 1]
-            
-            
-            filtered_df['Pass'] = choice
-            
-         
-            filtered_recommendations = pd.concat([filtered_recommendations, filtered_df])
-    
-    content_recommendations = filtered_recommendations
-    
-    content_recommendations = content_recommendations[content_recommendations.ski_resort != mountain_name].head(20)
+    if mtn_pass == "No":
+        content_recommendations = content_recommendations[content_recommendations.ski_resort != mountain_name].head(20)
+    else:
+        filtered_recommendations = pd.DataFrame()
+        for choice in radio_choices:
+            column_name = pass_column_mapping.get(choice)
+            if column_name and column_name in content_recommendations.columns:
+                # filter based on inputs
+                filtered_df = content_recommendations[content_recommendations[column_name] == 1]
+                
+                # adding pass name
+                filtered_df['Pass'] = choice
+                
+                # add back to original df
+                filtered_recommendations = pd.concat([filtered_recommendations, filtered_df])
+        
+        content_recommendations = filtered_recommendations
+        content_recommendations = content_recommendations[content_recommendations.ski_resort != mountain_name].head(20)
 
     # Collaborative model
     have_rated = list(user_df.loc[user, 'ski_resort'])
