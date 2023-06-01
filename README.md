@@ -70,7 +70,7 @@ Considering the high opportunity cost associated with planning a ski trip, relyi
 
 #### Cascade-Hybrid Model
 
-The final model was the cascade-hybrid model that has been [deployed] [(https://stephcia-ski-recommendation-system-ski-model-stephanie-zs77j6.streamlit.app/)] on streamlit. The system incorporated both content-based and collaborative filtering approaches in making ski-resort recommendations. To content-based system refined recommendations based on user filters and resort similarities and was crucial in making helpful recommendations. 
+The final model was the cascade-hybrid model that has been [deployed](https://stephcia-ski-recommendation-system-ski-model-stephanie-zs77j6.streamlit.app/) on streamlit. The system incorporated both content-based and collaborative filtering approaches in making ski-resort recommendations. To content-based system refined recommendations based on user filters and resort similarities and was crucial in making helpful recommendations. 
 
 ####  Feedback
 
