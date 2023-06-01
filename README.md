@@ -1,4 +1,4 @@
-# Avant Ski
+# Avant Ski 
 ### Ski Resort Recommendation App
 
 ![img](images/whistler_banner.png)
@@ -11,7 +11,9 @@ Stephanie Ciaccia
 
 Skiing holds a prominent place for those seeking winter recreational activities in the United States. With its stunning mountain ranges and diverse terrain, the country boasts numerous ski resorts that cater to all skill levels, from beginners to seasoned professionals. Skiing offers a unique blend of adventure, physical activity, and natural beauty, making it a popular choice for winter enthusiasts seeking both relaxation and excitement.
 
-The ski market in the United States is thriving, contributing significantly to the economy. According to the [National Ski Areas Association (NSAA)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://nsaa.org/webdocs/Media_Public/IndustryStats/Historical_Skier_Days_1979_2022.pdf), approximately **60.7 million** skiers and snowboarders visited **473** ski resorts in the 2021-2022 winter season.
+The ski market in the United States is thriving, contributing significantly to the economy. According to the [National Ski Areas Association (NSAA)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://nsaa.org/webdocs/Media_Public/IndustryStats/Historical_Skier_Days_1979_2022.pdf), approximately **60.7 million** skiers and snowboarders visited **473** ski area in the 2021-2022 winter season.
+
+![img](images/market_overview.png)
 
 ## Business Problem
 
@@ -31,7 +33,7 @@ This step played a vital role in ensuring the integrity of the dataset and facil
 
 **Feature Data**
 
-- All feature data was scraped or pulled from an API:
+All feature data was scraped or pulled from an API:
 
 - **Airbnb Scrape** - Includes Airbnb nightly costs from the first 28 listings for each ski resort from December - May
 
@@ -39,7 +41,7 @@ This step played a vital role in ensuring the integrity of the dataset and facil
 
 - **Google's Geospatial API** - Pulled latitude and longitude coordinates from each ski resort
 
-- **Google Forms Survey** - I sent out a [survey]([https://forms.gle/PTv41GV71XyPREF26)] to various friends who ski in order to analyze model recommendations. I received 15 responses and used two user responses for my final model evaluation.
+- **Google Forms Survey** - I sent out a [survey](https://forms.gle/PTv41GV71XyPREF26) to various friends who ski in order to analyze model recommendations. I received 15 responses and used two user responses for my final model evaluation.
 
 ## Methods
 
@@ -47,7 +49,7 @@ To create the recommender system, a cascade-hybrid recommender system approach w
 
 The primary recommendation system is a **content-based** filtering model and the secondary approach is **user-based collaborative** filtering.
 
-![img](images/cascade_hybrid_schema_sc.jpg)
+![img](images/cascade_hybrid_schema.png)
 
 The main features for content filtering are:
 - mountain elevation
