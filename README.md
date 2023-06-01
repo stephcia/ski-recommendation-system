@@ -1,5 +1,5 @@
 # Avant Ski 
-### Ski Resort Recommendation App
+### [Ski Resort Recommendation App](https://stephcia-ski-recommendation-system-ski-model-stephanie-zs77j6.streamlit.app/)
 
 ![img](images/whistler_banner.png)
 
@@ -11,7 +11,7 @@ Stephanie Ciaccia
 
 Skiing holds a prominent place for those seeking winter recreational activities in the United States. With its stunning mountain ranges and diverse terrain, the country boasts numerous ski resorts that cater to all skill levels, from beginners to seasoned professionals. Skiing offers a unique blend of adventure, physical activity, and natural beauty, making it a popular choice for winter enthusiasts seeking both relaxation and excitement.
 
-The ski market in the United States is thriving, contributing significantly to the economy. According to the [National Ski Areas Association (NSAA)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://nsaa.org/webdocs/Media_Public/IndustryStats/Historical_Skier_Days_1979_2022.pdf), approximately **60.7 million** skiers and snowboarders visited **473** ski area in the 2021-2022 winter season.
+The ski market in the United States is thriving, contributing significantly to the economy. According to the [National Ski Areas Association (NSAA](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://nsaa.org/webdocs/Media_Public/IndustryStats/Historical_Skier_Days_1979_2022.pdf), approximately **60.7 million** skiers and snowboarders visited **473** ski area in the 2021-2022 winter season.
 
 ![img](images/market_overview.png)
 
@@ -56,7 +56,7 @@ The main features for content filtering are:
 - mountain lift ticket price
 - airbnb nightly cost for surrounding city
 - run difficulty type and number of runs
-- ski pass informaion (Ikon, Epic, Mountain Collective)
+- ski pass informaion (Ikon, Epic, Mountain Collective, and Indy)
 
 To evaluate the accuracy of the collaborative model, the Root Mean Square Error (RMSE) was used. This metric quantifies the difference between the actual ratings and the predicted ratings.
 
