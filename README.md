@@ -84,7 +84,7 @@ Based on the user feedback, the recommendation system demonstrates does suggest 
 
 ![img](images/user_2_2.png)
 
-![img](images/user_2_feb_airbnb.png)
+![img](images/user_2_travel.png)
 
 ## Conclusions
 
