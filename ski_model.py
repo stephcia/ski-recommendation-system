@@ -14,7 +14,7 @@ import plotly.express as px
 import textwrap
 
 #importing files
-content_matrix = pd.read_csv("data/cleaned_data_exports/scraped_feature_df_3.csv")
+content_matrix = pd.read_csv("data/cleaned_data_exports/scraped_feature_df.csv")
 sim_df = pd.read_csv("data/cleaned_data_exports/similarity_matrix.csv")
 final_user_df = pd.read_csv("data/cleaned_data_exports/user_df_model.csv")
 surprise_df = pd.read_csv("data/cleaned_data_exports/surprise_df.csv")
@@ -62,7 +62,20 @@ def load_model(model_filename):
     _, loaded_model = dump.load(file_name)
     return loaded_model
 
-def hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass):
+
+#making a list of mountain names for input
+resort_names = content_matrix.index.tolist()
+month_list = ['December', 'January', 'February', 'March', 'April', 'May']
+pass_list = ['Ikon', 'Epic', 'Mountain Collective', 'Indy']
+
+pass_column_mapping = {
+    'Ikon': 'ikon',
+    'Epic': 'epic',
+    'Mountain Collective': 'mountain_collective',
+    'Indy': 'indy'
+}
+
+def hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass, radio_choices):
  
     loaded_model = load_model('model.pickle')
     
@@ -86,7 +99,7 @@ def hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass):
     #Concatenate all the dataframes in rec_list into a single dataframe
     concat_df = rec_df[["city", "state", "summit", "drop", "base","adultWeekdayPrice",
                         "adultWeekendPrice","beginner_runs", "intermediate_runs", "advanced_runs",
-                        "expert_runs","ikon", "epic", "mountain_collective", 'latitude','longitude']]
+                        "expert_runs","ikon", "epic", "indy", "mountain_collective", 'latitude','longitude']]
     concat_df = concat_df.reset_index()
 
     #filtering based on month to return airbnb prices and turning into dataframe
@@ -104,17 +117,21 @@ def hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass):
     result = result.reset_index()                        
     content_recommendations = pd.merge(concat_df, result, on="ski_resort")
     
-    #adding mountain fil
-    if radio_choice == "Ikon":
-        content_recommendations = content_recommendations.loc[content_recommendations['ikon'] == 1]
-    elif radio_choice == "Epic":
-        content_recommendations = content_recommendations.loc[content_recommendations['epic'] == 1]
-    elif radio_choice == "Mountain Collective":
-        content_recommendations = content_recommendations.loc[content_recommendations['mountain_collective'] == 1]
-    elif radio_choice == "Indy":
-        content_recommendations = content_recommendations.loc[content_recommendations['indy'] == 1]
-    elif radio_choice == "No":
-        pass
+    filtered_recommendations = pd.DataFrame()
+    
+    for choice in radio_choices:
+        column_name = pass_column_mapping.get(choice)
+        if column_name and column_name in content_recommendations.columns:
+            #filter based on inputs
+            filtered_df = content_recommendations[content_recommendations[column_name] == 1]
+            
+            #adding pass name
+            filtered_df['Pass'] = choice
+            
+            #add back to original df
+            filtered_recommendations = pd.concat([filtered_recommendations, filtered_df])
+    
+    content_recommendations = filtered_recommendations
     
     content_recommendations = content_recommendations[content_recommendations.ski_resort != mountain_name].head(20)
 
@@ -132,7 +149,7 @@ def hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass):
     combined_recommendations = pd.merge(content_recommendations, collaborative_recommendations, on='ski_resort', how='left')
     combined_recommendations = combined_recommendations.drop_duplicates(subset=['ski_resort'])
     combined_recommendations.sort_values(by='predicted_rating', ascending=False, inplace=True)
-    combined_recommendations.drop(columns=['ikon', 'mountain_collective', 'epic'], inplace=True)
+    combined_recommendations.drop(columns=['ikon', 'mountain_collective', 'epic', 'indy'], inplace=True)
     final_recs = combined_recommendations.drop(columns=['longitude', 'latitude', 'city'])
     
     rename_list = ["ski_resort", "state","summit", "drop", "base", "adultWeekdayPrice",
@@ -173,10 +190,6 @@ def img_text(input_image_path, name):
 
     return image
                  
-#making a list of mountain names for input
-resort_names = content_matrix.index.tolist()
-month_list = ['December', 'January', 'February', 'March', 'April', 'May']
-pass_list = ['Ikon', 'Epic', 'Mountain Collective', 'Indy']
 
 #st.title("Avant Ski")
 #header_placeholder = st.empty()
@@ -194,7 +207,7 @@ mountain_name = st.selectbox("Choose a resort to find similar recommendations.",
 travel_date = st.selectbox('What month would you like to travel?', month_list)
 mtn_pass = st.radio('Are you using a multi-resort pass?', ('Yes', 'No'))
 if mtn_pass == 'Yes':
-    radio_choice = st.multiselect('Select pass types', pass_list)
+    radio_choices = st.multiselect('Select pass types', pass_list)
 
 # recommendation button
 if st.button("Get Recommendations"):
@@ -206,7 +219,7 @@ if st.button("Get Recommendations"):
         st.sidebar.error("Please enter a valid name or username.", icon="🚨")
     else:
         # calling model
-        recommendations = hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass)
+        recommendations = hybrid_model_content(user, n_recs, mountain_name, travel_date, mtn_pass, radio_choices)
 
     # Display the final recommendations
     #st.subheader("Ski Resort Recommendations")

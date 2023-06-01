@@ -1,2540 +1,2522 @@
 ,user_name,ski_resort,rating
-0,anon_1,Winter Park,4.0
-1,anon_1,Arapahoe Basin,5.0
-2,anon_1,Steamboat,5.0
-3,anon_1,Copper Mountain,5.0
-4,anon_2,Solitude Mountain,5.0
-5,anon_2,Killington,5.0
-6,anon_2,Sugarbush,4.0
-7,anon_2,Stratton Mountain,3.0
-8,anon_3,Deer Valley,3.0
-9,anon_3,Telluride,4.0
-10,anon_3,Taos Ski Valley,4.0
-11,anon_3,Steamboat,5.0
-12,anon_4,Mammoth Mountain,5.0
-13,anon_4,Jackson Hole,4.0
-14,anon_4,Jackson Hole,5.0
-15,anon_4,Palisades Tahoe,5.0
-16,anon_5,Aspen Snowmass,4.0
-17,anon_5,Copper Mountain,2.0
-18,anon_5,Taos Ski Valley,5.0
-19,anon_5,Aspen Snowmass,4.0
-20,anon_5,Aspen Snowmass,5.0
-21,anon_6,Powder Mountain,3.0
-22,anon_6,Alta,5.0
-23,anon_6,Solitude Mountain,5.0
-24,anon_6,Brighton,5.0
-25,anon_7,Mt. Baker,5.0
-26,anon_7,Stevens Pass,2.0
-27,anon_7,Crystal Mountain Washington,2.0
-28,anon_8,Mammoth Mountain,5.0
-29,anon_8,Bear Valley,1.0
-30,anon_8,Mt. Rose Ski Tahoe,4.0
-31,anon_8,Dodge Ridge,4.0
-32,anon_8,Palisades Tahoe,4.0
-33,anon_9,Beaver Mountain,5.0
-34,anon_9,Nordic Mountain,4.0
-35,anon_9,Park City Mountain,3.0
-36,Stephanie Ciaccia,Hunter Mountain,1.0
-37,Stephanie Ciaccia,Vail,4.0
-38,Stephanie Ciaccia,Snowbird,5.0
-39,Stephanie Ciaccia,Breckenridge,4.0
-40,Stephanie Ciaccia,Park City Mountain,4.0
-41,Joseph Lewis,Snow Ridge,3.0
-42,Joseph Lewis,Gore Mountain,4.0
-43,Joseph Lewis,Roundtop Mountain,3.0
-44,Joseph Lewis,Woods Valley,3.0
-45,Joseph Lewis,McCauley Mountain,5.0
-46,Alexandria Kelly,Stevens Pass,5.0
-47,Alexandria Kelly,Vail,3.0
-48,Alexandria Kelly,Snowbird,4.0
-49,Alexandria Kelly,Park City Mountain,2.0
-50,Deanna Uzarski,Telluride,5.0
-51,Deanna Uzarski,Breckenridge,3.0
-52,Deanna Uzarski,Crested Butte Mountain,3.0
-53,Deanna Uzarski,Alta,5.0
-54,Deanna Uzarski,Vail,4.0
-55,Raghava Kamalesh,Breckenridge,4.0
-56,Raghava Kamalesh,Crested Butte Mountain,5.0
-57,Raghava Kamalesh,Vail,5.0
-58,Raghava Kamalesh,Beaver Creek,3.0
-59,Raghava Kamalesh,Telluride,5.0
-60,ericadyer,Palisades Tahoe,5.0
-61,ericadyer,Sun Valley,5.0
-62,FroDog,Donner Ski Ranch,3.0
-63,FroDog,Boreal,4.0
-64,FroDog,Diamond Peak,4.0
-65,jackson321,Mt. Baker,5.0
-66,jackson321,Alpental,5.0
-67,jackson321,Stevens Pass,3.0
-68,jackson321,Summit at Snoqualmie,5.0
-69,SammyG,Mt. Rose Ski Tahoe,5.0
-70,SammyG,Mountain High,5.0
-71,SammyG,Snowshoe Mountain,5.0
-72,SammyG,Alyeska,4.0
-73,ericadyer,Steamboat,4.0
-74,Jill Adler,Alta,5.0
-75,Jill Adler,Snowbird,5.0
-76,Jill Adler,Snowbasin,4.0
-77,Jill Adler,Brighton,3.0
-78,Jill Adler,Solitude Mountain,4.0
-79,Jill Adler,Deer Valley,4.0
-80,Jill Adler,Park City Mountain,4.0
-81,Jill Adler,Jackson Hole,5.0
-82,Jill Adler,Sundance,3.0
-83,Jill Adler,Brian Head,3.0
-84,Twenz,Bretton Woods,4.0
-85,Twenz,Loon Mountain,4.0
-86,ericadyer,Sierra at Tahoe,3.0
-87,ericadyer,Heavenly Mountain,5.0
-88,Twenz,Gunstock,4.0
-89,Twenz,Montage Mountain,4.0
-90,Twenz,Attitash,4.0
-91,anhillx,Palisades Tahoe,5.0
-92,anhillx,Alpental,5.0
-93,anhillx,Heavenly Mountain,3.0
-94,anhillx,Crystal Mountain Washington,5.0
-95,anhillx,Stevens Pass,4.0
-96,emj35,Vail,5.0
-97,emj35,Killington,5.0
-98,emj35,Loon Mountain,3.0
-99,emj35,Waterville Valley,3.0
-100,Benji Zimmerman,Kirkwood,5.0
-101,Benji Zimmerman,Brighton,5.0
-102,Benji Zimmerman,Heavenly Mountain,4.0
-103,Benji Zimmerman,Park City Mountain,4.0
-104,Benji Zimmerman,Copper Mountain,5.0
-105,Benji Zimmerman,Breckenridge,4.0
-106,Benji Zimmerman,Arapahoe Basin,4.0
-107,Benji Zimmerman,Vail,4.0
-108,Benji Zimmerman,Keystone,4.0
-109,Benji Zimmerman,Boyne Mountain,3.0
-110,Benji Zimmerman,Crystal Mountain Michigan,4.0
-111,Benji Zimmerman,Schuss Mountain,5.0
-112,Benji Zimmerman,Cannonsburg,2.0
-113,Benji Zimmerman,Boyne Highlands,4.0
-114,emj35,Aspen Snowmass,5.0
-115,emj35,Sunday River,5.0
-116,Roger Leo,Mt. Sunapee,4.0
-117,FroDog,Palisades Tahoe,5.0
-118,FroDog,Sugar Bowl,4.0
-119,FroDog,Kirkwood,4.0
-120,FroDog,Sierra at Tahoe,4.0
-121,FroDog,Mt. Rose Ski Tahoe,3.0
-122,FroDog,Soda Springs,4.0
-123,FroDog,Northstar California,4.0
-124,FroDog,Tahoe Donner,3.0
-125,FroDog,Heavenly Mountain,5.0
-126,Roger Leo,Cannon Mountain,5.0
-127,Roger Leo,Wachusett Mountain,5.0
-128,Roger Leo,Stratton Mountain,5.0
-129,Roger Leo,Bretton Woods,5.0
-130,Roger Leo,Sugarbush,5.0
-131,Roger Leo,Okemo Mountain,5.0
-132,filterban,Lutsen Mountains,5.0
-133,filterban,Hyland Ski,1.0
-134,filterban,Afton Alps,3.0
-135,filterban,Spirit Mountain,4.0
-136,Benji Zimmerman,Brighton,5.0
-137,JP,Mt. Hood Skibowl,3.0
-138,gkphi5,Vail,4.0
-139,RippinSkiers,Copper Mountain,5.0
-140,RippinSkiers,Breckenridge,3.0
-141,RippinSkiers,Arapahoe Basin,5.0
-142,RippinSkiers,Vail,5.0
-143,RippinSkiers,Loveland,5.0
-144,RippinSkiers,Beaver Creek,5.0
-145,RippinSkiers,Keystone,3.0
-146,filterban,Wild Mountain Ski,3.0
-147,gkphi5,Winter Park,5.0
-148,Jay C,Killington,5.0
-149,Mark Rosasco,Arapahoe Basin,4.0
-151,Dan Gibson,Taos Ski Valley,5.0
-152,stevenstclair,Hidden Valley,4.0
-153,stevenstclair,Paoli Peaks,4.0
-154,stevenstclair,Sugar Mountain,2.0
-155,Dan Gibson,Monarch Mountain,4.0
-156,anhillx,Crystal Mountain Washington,4.0
-157,anhillx,Alpental,4.0
-158,jwtime,Ski Snowstar,4.0
-159,Roger Leo,Okemo Mountain,5.0
-160,Roger Leo,Bromley Mountain,4.0
-161,Cherokee,Snowshoe Mountain,2.0
-162,Cherokee,Paoli Peaks,2.0
-163,Cherokee,Canaan Valley,4.0
-164,treesker,Silver Mountain,1.0
-165,hranee,Sunrise Park,2.0
-166,Cherokee,Canaan Valley,4.0
-167,anhillx,Alpental,4.0
-168,anhillx,Crystal Mountain Washington,2.0
-169,Mark Rosasco,Beaver Creek,5.0
-170,anhillx,Alpental,3.0
-171,gwiffie,Tahoe Donner,3.0
-172,anhillx,Alpental,3.0
-173,anhillx,Crystal Mountain Washington,2.0
-174,stevenam,Smugglers' Notch,4.0
-175,Gunny J,Big Bear,4.0
-176,Cherokee,Wisp,4.0
-177,Dan Gibson,Ski Santa Fe,4.0
-178,jim8588,Boyne Highlands,2.0
-179,RippinSkiers,Vail,5.0
-180,Bmorabito,Mammoth Mountain,4.0
-181,Bmorabito,Kirkwood,5.0
-182,Bmorabito,Mountain High,1.0
-183,Richard 1,Alta,5.0
-184,Richard 1,Snowbird,5.0
-185,Richard 1,Brighton,4.0
-186,Richard 1,Solitude Mountain,3.0
-187,airgarden94,Cascade Mountain,5.0
-188,Jay C,Attitash,4.0
-189,hranee,Breckenridge,4.0
-190,hranee,Vail,5.0
-191,joey58242,Devils Head,5.0
-192,Mike134,Big Powderhorn Mountain,5.0
-193,tom travis,Jay Peak,4.0
-194,tom travis,Stowe Mountain,5.0
-195,tom travis,Killington,4.0
-196,tom travis,Pico Mountain,4.0
-197,tom travis,Sugarbush,5.0
-198,tom travis,Elk Mountain Ski,5.0
-199,anhillx,Alpental,4.0
-200,anhillx,Crystal Mountain Washington,4.0
-201,anhillx,Stevens Pass,2.0
-202,jwtime,Ski Snowstar,5.0
-203,bobbert,Snowbird,5.0
-204,bobbert,Park City Mountain,2.0
-205,bobbert,Winter Park,5.0
-206,Jay C,Smugglers' Notch,3.0
-207,Dan Gibson,Pajarito Mountain,3.0
-208,noonito,Breckenridge,5.0
-209,tsfoust,Palisades Tahoe,3.0
-210,tsfoust,Kirkwood,3.0
-211,tsfoust,Sierra at Tahoe,3.0
-212,tsfoust,Northstar California,4.0
-213,stevenam,Winter Park,3.0
-214,anhillx,Telluride,5.0
-215,airgarden94,Devils Head,4.0
-216,Art Zinn,Belleayre,4.0
-217,Mike134,Big Powderhorn Mountain,5.0
-218,Dan Gibson,Angel Fire,4.0
-219,steffenwolf,Wolf Creek,5.0
-220,steffenwolf,Purgatory Mountain,4.0
-221,steffenwolf,Winter Park,4.0
-222,steffenwolf,Crested Butte Mountain,5.0
-223,seniordude,Mammoth Mountain,4.0
-224,Dan Gibson,Purgatory Mountain,4.0
-225,Shartron,Arizona Snowbowl,3.0
-226,Mikey Likes It,Bristol Mountain,4.0
-227,Mikey Likes It,Hunter Mountain,4.0
-228,Mikey Likes It,Snow Ridge,4.0
-229,jim8588,Caberfae Peaks Ski Golf,4.0
-230,Americansonofa,Canaan Valley,4.0
-231,Randy Agness,Song Mountain,4.0
-232,joey58242,Granite Peak,4.0
-233,joey58242,Sunburst,3.0
-234,joey58242,Sunburst,4.0
-235,sno_thing,Granite Peak,5.0
-236,sno_thing,Alpine Valley Wisconsin,4.0
-237,sno_thing,Grand Geneva,1.0
-238,sno_thing,Wilmot Mountain,3.0
-239,steffenwolf,Taos Ski Valley,5.0
-240,steffenwolf,Purgatory Mountain,4.0
-241,steffenwolf,Angel Fire,3.0
-242,steffenwolf,Angel Fire,3.0
-243,steffenwolf,Red River,3.0
-244,steffenwolf,Angel Fire,3.0
-245,seniordude,Bear Valley,4.0
-246,seniordude,Dodge Ridge,4.0
-247,seniordude,Heavenly Mountain,4.0
-248,sampanning,Telluride,5.0
-249,sampanning,Crested Butte Mountain,2.0
-250,Gunny J,Plattekill Mountain,5.0
-251,Art Zinn,Plattekill Mountain,5.0
-252,Gunny J,Mountain Creek,1.0
-253,steep n deep ,Killington,5.0
-254,steep n deep ,Gore Mountain,5.0
-255,steep n deep ,Whiteface Mountain,5.0
-256,steep n deep ,Woods Valley,2.0
-257,steep n deep ,McCauley Mountain,5.0
-258,steep n deep ,Snow Ridge,3.0
-259,noonito,Elk Mountain Ski,4.0
-260,Shartron,Snowbasin,4.0
-261,Dan Gibson,Ski Santa Fe,5.0
-262,Gunny J,Belleayre,5.0
-263,jestertatt,49 Degrees North,4.0
-264,jestertatt,Alyeska,3.0
-265,jestertatt,Silver Mountain,5.0
-266,Dantheman,Stowe Mountain,5.0
-267,swissnowtiger,Palisades Tahoe,5.0
-268,swissnowtiger,Donner Ski Ranch,4.0
-269,swissnowtiger,Tahoe Donner,4.0
-270,swissnowtiger,Dodge Ridge,4.0
-271,swissnowtiger,Timberline Lodge,4.0
-272,brandon,Wolf Creek,5.0
-273,brandon,Purgatory Mountain,5.0
-274,brandon,Sunrise Park,5.0
-275,flyersboy114,Loon Mountain,4.0
-276,Ritt,Berkshire East,4.0
-277,Bob Butts,Stowe Mountain,4.0
-278,sharimcatee,Dry Hill,5.0
-279,iLiveToRide17,Hunter Mountain,4.0
-280,iLiveToRide17,Mountain Creek,2.0
-281,jim8588,Caberfae Peaks Ski Golf,4.0
-282,bodibran,Grand Targhee,5.0
-283,bodibran,Powder Mountain,4.0
-284,bodibran,Pebble Creek,4.0
-285,bodibran,Bogus Basin,3.0
-286,bodibran,Tamarack,4.0
-287,yodeledihoo,Wolf Creek,5.0
-288,yodeledihoo,Taos Ski Valley,5.0
-289,yodeledihoo,Ski Santa Fe,4.0
-290,tourist from Texas,Powder Mountain,4.0
-291,airgarden94,Tyrol Basin,4.0
-292,p_nut,Winter Park,2.0
-293,p_nut,Blue Mountain,4.0
-294,highvoltageguy,Wolf Creek,4.0
-295,highvoltageguy,Winter Park,4.0
-296,highvoltageguy,Winter Park,5.0
-297,highvoltageguy,Arapahoe Basin,5.0
-298,highvoltageguy,Beaver Creek,4.0
-299,highvoltageguy,Keystone,1.0
-300,highvoltageguy,Vail,5.0
-301,highvoltageguy,Aspen Snowmass,4.0
-302,highvoltageguy,Copper Mountain,3.0
-303,highvoltageguy,Breckenridge,5.0
-304,highvoltageguy,Crested Butte Mountain,3.0
-305,highvoltageguy,Vail,2.0
-306,highvoltageguy,Loveland,4.0
-307,masterdel,Monarch Mountain,5.0
-308,govey80,Big Bear,2.0
-309,govey80,Palisades Tahoe,5.0
-310,govey80,Northstar California,4.0
-311,govey80,Steamboat,5.0
-312,Mike134,Big Powderhorn Mountain,4.0
-313,horse,Telluride,5.0
-314,fcherichel,Gunstock,5.0
-315,fcherichel,Holiday Valley,5.0
-316,mwolske,Granite Peak,5.0
-317,mwolske,Devils Head,3.0
-318,Jay C,Crotched Mountain,5.0
-319,mayham2k,Cataloochee,4.0
-320,mayham2k,Sugar Mountain,5.0
-321,mayham2k,Sugar Mountain,3.0
-322,Americansonofa,Snowshoe Mountain,4.0
-323,p_nut,Belleayre,2.0
-324,Jay C,Killington,5.0
-325,Adye 1,Boyne Mountain,3.0
-326,Adye 1,Nubs Nob,4.0
-327,mwolske,Cascade Mountain,5.0
-328,iLiveToRide17,Killington,4.0
-329,MgoBlue,Sugar Mountain,2.0
-330,MgoBlue,Snowshoe Mountain,4.0
-331,jim8588,Nubs Nob,5.0
-332,MgoBlue,Wintergreen,4.0
-333,Randy Rogers,Willamette Pass,5.0
-334,Randy Rogers,Hoodoo,2.0
-335,Bobby G,Jackson Hole,5.0
-336,flyersboy114,Killington,4.0
-337,flyersboy114,Smugglers' Notch,3.0
-338,Randy Rogers,Crystal Mountain Washington,4.0
-339,flyersboy114,Jack Frost,1.0
-340,govey80,Alta,5.0
-341,Hilferty,Camelback Mountain,5.0
-342,Randy Rogers,Mt. Ashland,4.0
-343,Randy Rogers,Willamette Pass,5.0
-344,apken,Mountain Creek,2.0
-345,Resort Travel,Alpental,4.0
-346,Americansonofa,Massanutten,4.0
-347,Americansonofa,Snowshoe Mountain,4.0
-348,stevenam,Breckenridge,5.0
-349,stevenam,Arapahoe Basin,5.0
-350,bodyflight,Cataloochee,2.0
-351,bodyflight,Wolf Ridge Ski,4.0
-352,Bartakamoose,Granite Peak,5.0
-353,Bartakamoose,Mt. La Crosse,4.0
-354,Bartakamoose,Devils Head,4.0
-355,kbone77,Sunrise Park,4.0
-356,swissnowtiger,June Mountain,3.0
-357,swetsb,Snowshoe Mountain,4.0
-358,thorne36,Deer Valley,5.0
-359,thorne36,Park City Mountain,4.0
-360,Resort Travel,Mt. Hood Meadows,4.0
-361,Resort Travel,Crystal Mountain Washington,4.0
-362,Resort Travel,Summit at Snoqualmie,4.0
-363,CopPsychDoc,Mountain Creek,2.0
-364,CopPsychDoc,Belleayre,5.0
-365,CopPsychDoc,Ski Butternut,3.0
-366,CopPsychDoc,Mt. Peter,5.0
-367,Frank Castellanos,Shawnee Mountain,5.0
-368,steffenwolf,Taos Ski Valley,5.0
-369,steffenwolf,Monarch Mountain,4.0
-370,steffenwolf,Beaver Creek,3.0
-371,thorne36,Montana Snowbowl,3.0
-372,flyersboy114,Crested Butte Mountain,5.0
-373,steffenwolf,Crested Butte Mountain,5.0
-374,apken,Windham Mountain,4.0
-375,soakandski,Sunday River,5.0
-376,Americansonofa,Winterplace Ski,4.0
-377,MgoBlue,Wolf Creek,5.0
-378,mt.bporru,Stowe Mountain,5.0
-379,mt.bporru,Okemo Mountain,4.0
-380,Gunny J,Montage Mountain,3.0
-381,Dantheman,Pats Peak,5.0
-382,mt.bporru,Gore Mountain,4.0
-383,daniwrites,Stratton Mountain,5.0
-384,daniwrites,Blue Mountain,4.0
-385,daniwrites,Shawnee Mountain,2.0
-386,Les,Winterplace Ski,2.0
-387,belindajk,Bear Valley,4.0
-388,echi,Breckenridge,5.0
-389,J Berlo,Nubs Nob,5.0
-390,kbone77,Kirkwood,5.0
-391,kbone77,Steamboat,5.0
-392,kbone77,Telluride,4.0
-393,soakandski,Camelback Mountain,4.0
-394,danmclaw,Spring Mountain,3.0
-395,Hilferty,Elk Mountain Ski,5.0
-396,markwittlich,Camelback Mountain,1.0
-397,markwittlich,Elk Mountain Ski,5.0
-398,Hilferty,Blue Mountain,4.0
-399,Les,Snowshoe Mountain,4.0
-400,bodyflight,Snowshoe Mountain,4.0
-401,sewardhorner,Bittersweet,5.0
-402,thereporter,Mammoth Mountain,3.0
-403,thereporter,Ski China Peak,5.0
-404,tourist from Texas,Wolf Creek,3.0
-405,jim8588,Crystal Mountain Michigan,4.0
-406,swetsb,Whiteface Mountain,5.0
-407,thereporter,Boreal,3.0
-408,thereporter,Bear Valley,3.0
-409,thereporter,Dodge Ridge,2.0
-410,apken,Killington,4.0
-411,belindajk,Sugar Bowl,5.0
-412,belindajk,Kirkwood,4.0
-413,hotdotsails,Liberty,5.0
-414,p_nut,Park City Mountain,4.0
-415,sewardhorner,Swiss Valley,4.0
-416,masterdel,Crested Butte Mountain,3.0
-417,mt.bporru,Whiteface Mountain,5.0
-418,nzh0tg,Nubs Nob,5.0
-419,Adye 1,Heavenly Mountain,4.0
-420,Aguilar 1,June Mountain,5.0
-421,Aguilar 1,Big Bear,3.0
-422,Aguilar 1,Sugarloaf,4.0
-423,Aguilar 1,New Hermon Mountain,4.0
-424,Americansonofa,Snowshoe Mountain,5.0
-425,ccampbell,Elk Mountain Ski,5.0
-426,attyWSW,Sunlight Mountain,5.0
-427,jim8588,Schuss Mountain,5.0
-428,Dantheman,Cannon Mountain,5.0
-429,herbsmen,Snow Valley,3.0
-430,Mike134,Big Powderhorn Mountain,5.0
-431,mt.bporru,Windham Mountain,2.0
-432,nzh0tg,Nubs Nob,4.0
-433,echi,Northstar California,5.0
-434,Gunny J,Elk Mountain Ski,2.0
-435,Jay C,Attitash,5.0
-436,Gunny J,Belleayre,5.0
-437,Philip H. Eckerberg,Snowy Range,3.0
-438,Adye 1,Devils Head,3.0
-439,apken,Hunter Mountain,2.0
-440,bermjl,Powder Mountain,5.0
-441,Shartron,Sunrise Park,3.0
-442,bermjl,Snowbasin,5.0
-443,Gunny J,Hunter Mountain,4.0
-444,bigw1313,Breckenridge,5.0
-445,pinkkid_2000,Sierra at Tahoe,4.0
-446,pinkkid_2000,Badger Pass,5.0
-447,Randy Rogers,Willamette Pass,5.0
-448,DoUcanoe2,Liberty,5.0
-449,John Gonzalez,Palisades Tahoe,5.0
-450,John Gonzalez,Kirkwood,5.0
-451,John Gonzalez,Mt. Rose Ski Tahoe,3.0
-452,John Gonzalez,Heavenly Mountain,4.0
-453,John Gonzalez,Diamond Peak,2.0
-454,John Gonzalez,Lee Canyon,2.0
-455,Ontheslopes,Ragged Mountain,4.0
-456,joe castelli,Breckenridge,5.0
-457,joe castelli,Arapahoe Basin,4.0
-458,joe castelli,Paoli Peaks,3.0
-459,joe castelli,Paoli Peaks,3.0
-460,sewardhorner,Copper Mountain,5.0
-461,Ontheslopes,Killington,3.0
-462,skylolow,Granite Peak,5.0
-463,skylolow,Lutsen Mountains,5.0
-464,govey80,Breckenridge,5.0
-465,Ontheslopes,Pats Peak,5.0
-466,Queensland Skier,Palisades Tahoe,5.0
-467,Queensland Skier,Northstar California,3.0
-468,ski_hike,Kirkwood,5.0
-469,Queensland Skier,Park City Mountain,5.0
-470,Queensland Skier,Sugar Bowl,4.0
-471,Queensland Skier,Beaver Creek,5.0
-472,ski_hike,Mt. Rose Ski Tahoe,4.0
-473,SweetSki,Lookout Pass,5.0
-474,Juan,Whiteface Mountain,4.0
-475,Juan,Liberty,3.0
-476,Juan,Whitetail,3.0
-477,Queensland Skier,Deer Valley,4.0
-478,Queensland Skier,Vail,5.0
-479,Juan,Wintergreen,3.0
-480,bwm30,Alyeska,4.0
-481,govey80,Snowbird,4.0
-482,Ontheslopes,Okemo Mountain,4.0
-483,Queensland Skier,Steamboat,5.0
-484,Doodski,Welch Village,1.0
-485,Doodski,Buck Hill,5.0
-486,Doodski,Afton Alps,3.0
-487,swissnowtiger,Timberline Lodge,4.0
-488,Shane Wicken,Smugglers' Notch,4.0
-489,Shane Wicken,Pico Mountain,4.0
-490,Shane Wicken,Pats Peak,3.0
-491,Ontheslopes,Pico Mountain,5.0
-492,Shane Wicken,Wachusett Mountain,3.0
-493,ski_hike,Boreal,3.0
-494,ski_hike,Diamond Peak,2.0
-495,p_nut,Arapahoe Basin,5.0
-496,p_nut,Camelback Mountain,2.0
-497,p_nut,Camelback Mountain,2.0
-498,p_nut,Elk Mountain Ski,5.0
-499,psuguy43094,Sugar Bowl,5.0
-500,psuguy43094,Mt. Rose Ski Tahoe,5.0
-501,psuguy43094,Northstar California,3.0
-502,psuguy43094,Heavenly Mountain,5.0
-503,psuguy43094,Park City Mountain,5.0
-504,psuguy43094,Breckenridge,5.0
-505,p_nut,Hunter Mountain,4.0
-506,psuguy43094,Blue Mountain,3.0
-507,Ontheslopes,Cannon Mountain,2.0
-508,Ontheslopes,Sugarloaf,5.0
-509,Philip H. Eckerberg,Terry Peak,4.0
-510,p_nut,Spring Mountain,1.0
-511,psuguy43094,Breckenridge,5.0
-512,joey440,Wolf Creek,5.0
-513,joey440,Angel Fire,4.0
-514,joey440,Ski Apache,3.0
-515,Ontheslopes,Wachusett Mountain,2.0
-516,Ontheslopes,Whiteface Mountain,5.0
-517,psuguy43094,Heavenly Mountain,5.0
-518,volklmom,Jay Peak,4.0
-519,volklmom,Wildcat Mountain,5.0
-520,volklmom,Cranmore Mountain,2.0
-521,volklmom,Attitash,5.0
-522,psuguy43094,Breckenridge,4.0
-523,dane Koncan,Crested Butte Mountain,5.0
-524,mcc100,Snowbird,5.0
-525,mcc100,Copper Mountain,5.0
-526,mcc100,Breckenridge,5.0
-527,mcc100,Killington,5.0
-528,mcc100,Sugarbush,5.0
-529,mcc100,Stratton Mountain,4.0
-530,dave figenshu,Jack Frost,5.0
-531,SFCSkiGirl,Killington,5.0
-532,SFCSkiGirl,Montage Mountain,5.0
-533,SFCSkiGirl,Blue Mountain,5.0
-534,Randy Rogers,Willamette Pass,5.0
-535,Randy Rogers,Hoodoo,3.0
-536,Frank Castellanos,Killington,4.0
-537,psuguy43094,Bear Creek Mountain,2.0
-538,joe castelli,Sugar Mountain,4.0
-539,mt.skier,Big Sky,5.0
-540,mt.skier,Lost Trail Powder Mountain,3.0
-541,mt.skier,Montana Snowbowl,3.0
-542,mt.skier,Discovery,4.0
-543,mt.skier,Discovery,4.0
-544,wisp,Eldora Mountain,5.0
-545,Ron,Alyeska,4.0
-546,rt,Wolf Creek,4.0
-547,rt,Taos Ski Valley,5.0
-548,rt,Ski Apache,2.0
-549,wisp,Wisp,5.0
-550,dane Koncan,Mammoth Mountain,3.0
-551,pdxboarder,Timberline Lodge,3.0
-552,pdxboarder,Crystal Mountain Washington,4.0
-553,pdxboarder,Mt. Hood Skibowl,5.0
-554,Eli,Alpental,4.0
-555,Eli,Summit at Snoqualmie,3.0
-556,cmustard,Pebble Creek,2.0
-557,dane Koncan,Kirkwood,5.0
-558,Dave Varney,Gunstock,4.0
-559,leerampolla,Lee Canyon,3.0
-560,mjurkiewicz,Blue Mountain,4.0
-561,Randy Rogers,Willamette Pass,5.0
-562,andrew Balcom,Crystal Mountain Michigan,4.0
-563,andrew Balcom,Bittersweet,3.0
-564,frankpa,Eldora Mountain,4.0
-565,andrew Balcom,Caberfae Peaks Ski Golf,4.0
-566,Gunny J,Belleayre,5.0
-567,Dave&DJ,Big Powderhorn Mountain,5.0
-568,Dave&DJ,Big Powderhorn Mountain,5.0
-569,max caswell,Alta,5.0
-570,govey80,Bear Mountain,1.0
-571,dane Koncan,Palisades Tahoe,5.0
-572,Ontheslopes,Bretton Woods,4.0
-573,molly young,Blue Mountain,4.0
-574,skifiend,Blue Mountain,4.0
-575,bulldogmom,Magic Mountain Idaho,5.0
-576,bulldogmom,Magic Mountain Idaho,4.0
-577,bulldogmom,Pomerelle Mountain,3.0
-578,nzh0tg,Vail,4.0
-579,nzh0tg,Boyne Highlands,4.0
-580,max caswell,Keystone,3.0
-581,skibum40,Taos Ski Valley,5.0
-582,skibum40,Purgatory Mountain,4.0
-583,skibum40,Crested Butte Mountain,5.0
-584,skibum40,Ski Santa Fe,4.0
-585,skibum40,Sipapu Ski and Summer,4.0
-586,skibum40,Pajarito Mountain,5.0
-587,skibum40,Ski Apache,3.0
-588,max caswell,Snowbird,5.0
-589,max caswell,Crested Butte Mountain,5.0
-590,A. cooper,Snowriver Mountain Resort,2.0
-591,iwill,Mt. Baker,5.0
-592,TanMan,Lost Trail Powder Mountain,5.0
-593,TanMan,Discovery,5.0
-594,max caswell,Grand Targhee,4.0
-595,max caswell,Jackson Hole,5.0
-596,max caswell,Steamboat,4.0
-597,max caswell,Snow King,4.0
-598,Randy Rogers,Willamette Pass,5.0
-599,Ritt,Berkshire East,4.0
-600,ccampbell,Camelback Mountain,2.0
-601,Ian Yuh,Northstar California,4.0
-602,Ritt,Eldora Mountain,5.0
-603,Ian Yuh,Mammoth Mountain,5.0
-604,Ian Yuh,Ski China Peak,5.0
-605,Ian Yuh,Badger Pass,4.0
-606,Julie79,Wachusett Mountain,4.0
-607,Ronald,Taos Ski Valley,5.0
-608,noonito,Camelback Mountain,2.0
-609,Robert Turner,Mammoth Mountain,2.0
-610,Robert Turner,Vail,5.0
-611,Robert Turner,Lee Canyon,3.0
-612,jay_bone_22,Taos Ski Valley,3.0
-613,Ontheslopes,Mt. Sunapee,4.0
-614,ccampbell,Roundtop Mountain,4.0
-618,Shane Wicken,Okemo Mountain,5.0
-619,vedhed,Sugar Bowl,4.0
-620,bermjl,Taos Ski Valley,4.0
-621,danmclaw,Bear Creek Mountain,4.0
-622,danmclaw,Spring Mountain,3.0
-623,ENWR,Devils Head,2.0
-624,George P,Okemo Mountain,5.0
-625,Ian Yuh,Kirkwood,5.0
-626,Likeabat,Timberline Mountain,4.0
-627,attyWSW,Powderhorn,5.0
-628,mjurkiewicz,Montage Mountain,4.0
-629,beefcake1313,Jackson Hole,5.0
-630,Frank Castellanos,Camelback Mountain,3.0
-631,Likeabat,Perfect North Slopes,3.0
-632,Les,Liberty,3.0
-633,TanMan,Lost Trail Powder Mountain,5.0
-634,A. cooper,Heavenly Mountain,3.0
-635,A. cooper,Steamboat,5.0
-636,Philip H. Eckerberg,Deer Mountain,4.0
-637,mt.skier,Blacktail Mountain,3.0
-638,mt.skier,Bridger Bowl,5.0
-639,offwallstreet,Blue Hills,2.0
-640,offwallstreet,Blue Hills,2.0
-641,sewardhorner,Swiss Valley,4.0
-642,smezhir,Copper Mountain,5.0
-643,Terry,Schweitzer,5.0
-644,kooter,Ski Snowstar,5.0
-645,mt.skier,Whitefish Mountain,4.0
-646,mt.skier,Great Divide,3.0
-647,Alan M,Bittersweet,4.0
-648,Alan M,Swiss Valley,4.0
-649,Christopher Horner,Montage Mountain,3.0
-650,Christopher Horner,Blue Mountain,4.0
-651,Christopher Horner,Elk Mountain Ski,5.0
-652,jssctrent,Snowshoe Mountain,5.0
-653,Fauster,Liberty,4.0
-654,swetsb,Burke Mountain,4.0
-655,A. cooper,Park City Mountain,5.0
-656,A. cooper,Beaver Creek,5.0
-657,bwm30,Snowshoe Mountain,2.0
-658,dubisaweapon,Mad River Glen,5.0
-659,govey80,Mammoth Mountain,5.0
-660,hotdotsails,Blue Mountain,5.0
-661,joegregdon,Copper Mountain,4.0
-662,joegregdon,Vail,5.0
-663,Julie79,Loon Mountain,5.0
-664,Julie79,Waterville Valley,4.0
-665,Karl,Boyne Mountain,4.0
-666,kooter,Ski Snowstar,5.0
-667,Mark Rosasco,Winter Park,3.0
-668,molly young,Sunlight Mountain,5.0
-669,molly young,Bear Creek Mountain,5.0
-670,molly young,Spring Mountain,4.0
-671,p_nut,Killington,4.0
-672,p_nut,Stratton Mountain,5.0
-673,Ronald,Jackson Hole,5.0
-674,Terry,Mammoth Mountain,4.0
-675,Terry,Wolf Creek,5.0
-676,tourist from Texas,Snowbasin,4.0
-677,tourist from Texas,Park City Mountain,3.0
-678,A. cooper,Alta,5.0
-679,A. cooper,Snowbasin,4.0
-680,bangsezmax,Appalachian Ski Mountain,5.0
-681,bangsezmax,Ski Beech Mountain,3.0
-682,bangsezmax,Sugar Mountain,5.0
-683,Brian Thayer,Sunday River,5.0
-684,gwiffie,Mt. Rose Ski Tahoe,3.0
-685,gwiffie,Tahoe Donner,5.0
-686,J Berlo,Breckenridge,5.0
-687,J Berlo,Attitash,4.0
-688,J Berlo,Boyne Highlands,4.0
-689,jssctrent,Ober Gatlinburg Ski,3.0
-690,jssctrent,Winterplace Ski,4.0
-691,jwtime,Ski Snowstar,5.0
-692,MCPG,Paoli Peaks,3.0
-693,wisp,Snow Creek,4.0
-694,zakk,Sierra at Tahoe,5.0
-695,A. cooper,Deer Valley,5.0
-696,A. cooper,Jackson Hole,5.0
-697,A. cooper,Granite Peak,5.0
-698,Fauster,Roundtop Mountain,4.0
-699,gkphi5,Heavenly Mountain,5.0
-700,MCPG,Sundance,5.0
-701,offwallstreet,Pats Peak,4.0
-702,Unionhawk,Steamboat,5.0
-703,Unionhawk,Perfect North Slopes,3.0
-704,Randy Whitson,Sipapu Ski and Summer,2.0
-705,Randy Whitson,Angel Fire,5.0
-706,Randy Whitson,Red River,4.0
-707,hparks,Snowy Range,3.0
-708,WilleA,Loon Mountain,4.0
-709,cpt0bvi0u5,Snow Valley,4.0
-710,jay_bone_22,Angel Fire,5.0
-711,MCPG,Ski China Peak,4.0
-712,ndboarder,Buck Hill,4.0
-713,Shane Wicken,Okemo Mountain,5.0
-714,cpt0bvi0u5,Mountain High,3.0
-715,ndboarder,Andes Tower Hills,4.0
-716,smk1945,Keystone,5.0
-717,winstonwolf,Big Powderhorn Mountain,4.0
-718,Yoonseok Song,Granite Peak,4.0
-719,Yoonseok Song,Cascade Mountain,5.0
-720,Yoonseok Song,Devils Head,4.0
-721,ndboarder,Andes Tower Hills,4.0
-722,Yoonseok Song,Keystone,4.0
-723,Yoonseok Song,Alpine Valley Wisconsin,3.0
-724,Yoonseok Song,Wilmot Mountain,3.0
-725,Barbra Pasker,Snowbird,5.0
-726,Barbra Pasker,Solitude Mountain,4.0
-727,Barbra Pasker,Park City Mountain,4.0
-728,Jay C,Attitash,5.0
-729,mjnecaise,Telluride,5.0
-730,mjnecaise,Big Sky,4.0
-731,perrmj02,Plattekill Mountain,5.0
-732,skinomad,Keystone,5.0
-733,haineroid,Anthony Lakes Mountain,4.0
-734,p_nut,Snowbird,5.0
-735,skinomad,Heavenly Mountain,5.0
-736,Gunny J,Plattekill Mountain,5.0
-737,MCPG,Ober Gatlinburg Ski,2.0
-738,ndboarder,Andes Tower Hills,4.0
-739,Catherine D,Alpental,3.0
-740,Catherine D,Arapahoe Basin,5.0
-741,Catherine D,Vail,4.0
-742,Philip H. Eckerberg,Hogadon,3.0
-743,Richard B,Snowbird,5.0
-744,Richard B,Brighton,4.0
-746,hparks,Spirit Mountain,4.0
-747,J Berlo,Waterville Valley,4.0
-748,joe castelli,Breckenridge,5.0
-749,joe castelli,Sugar Mountain,4.0
-750,kooter,Ski Snowstar,5.0
-751,Terry,Snowy Range,4.0
-752,resa 1,Big Boulder,3.0
-753,vedhed,Kirkwood,4.0
-754,vedhed,Sierra at Tahoe,4.0
-755,fcherichel,Mountain Creek,3.0
-756,gwiffie,Mt. Rose Ski Tahoe,4.0
-757,Les,Wintergreen,4.0
-758,MCPG,Alta,5.0
-759,perrmj02,Brundage Mountain,5.0
-760,Scott Dillman,Gore Mountain,5.0
-761,SkiBadger,Whitetail,2.0
-762,SkiBadger,Wintergreen,4.0
-763,tc5,Timberline Mountain,4.0
-764,tc5,Liberty,2.0
-765,tc5,Roundtop Mountain,2.0
-766,tc5,Snowshoe Mountain,4.0
-767,tc5,Whitetail,4.0
-768,fcherichel,Mountain Creek,4.0
-769,smk1945,Breckenridge,4.0
-770,tc5,Canaan Valley,3.0
-771,safer_66,Alta,5.0
-772,safer_66,Brighton,5.0
-773,safer_66,Park City Mountain,5.0
-774,spack,Vail,5.0
-775,Barker,Mountain Creek,4.0
-776,ndboarder,Andes Tower Hills,4.0
-777,tc5,Killington,4.0
-778,Barker,Bear Creek Mountain,3.0
-779,Barker,Shawnee Mountain,3.0
-780,cpt0bvi0u5,Mt. Baldy,5.0
-781,Dave Freeman,Snowbasin,5.0
-782,Kyle Harmon Townsend,Appalachian Ski Mountain,2.0
-783,Kyle Harmon Townsend,Snowshoe Mountain,4.0
-784,Kyle Harmon Townsend,Sugar Mountain,3.0
-785,ryan,Bear Mountain,4.0
-786,WilleA,Loon Mountain,4.0
-787,winstonwolf,Whitecap Mountain,2.0
-788,smk1945,Beaver Creek,5.0
-789,resa 1,Blue Mountain,4.0
-790,J,Cascade Mountain,5.0
-791,J,Wilmot Mountain,4.0
-792,Reaper,Bear Mountain,5.0
-793,alvlee01,Sierra at Tahoe,4.0
-794,chris  Bjornmose,Dodge Ridge,4.0
-795,Ian Yuh,Boreal,2.0
-796,istink,Chestnut Mountain,4.0
-797,istink,Grand Geneva,4.0
-798,istink,Villa Olivia,2.0
-799,smk1945,Copper Mountain,4.0
-800,J,Alpine Valley Wisconsin,4.0
-801,J,Chestnut Mountain,5.0
-802,J,Nordic Mountain,4.0
-803,J,Ski Snowstar,4.0
-804,Les,Copper Mountain,4.0
-805,Les,Steamboat,4.0
-806,Les,Winter Park,5.0
-807,dancinjrl,Appalachian Ski Mountain,4.0
-808,dancinjrl,Ski Beech Mountain,3.0
-809,dancinjrl,Ski Beech Mountain,4.0
-810,hparks,Copper Mountain,5.0
-811,hparks,Winter Park,4.0
-812,J,Norway Mountain,4.0
-813,J,Swiss Valley,5.0
-814,shari ann,Granite Peak,4.0
-815,resa 1,Jack Frost,4.0
-816,offwallstreet,Sugarbush,2.0
-817,Unionhawk,Snowshoe Mountain,4.0
-818,zakk,Powder Mountain,5.0
-819,BSbost,Breckenridge,5.0
-821,Dave Freeman,Killington,4.0
-822,echi,Winter Park,3.0
-823,ENWR,Welch Village,5.0
-824,ENWR,Granite Peak,5.0
-825,gwiffie,Mt. Rose Ski Tahoe,4.0
-826,haineroid,Anthony Lakes Mountain,5.0
-827,john mosher,Aspen Snowmass,5.0
-828,john mosher,Steamboat,5.0
-829,john mosher,Vail,5.0
-830,masterdel,Purgatory Mountain,4.0
-831,pattwins,Mt. Southington,4.0
-832,Ronald,Vail,5.0
-833,spack,Killington,3.0
-834,wespac187,Wachusett Mountain,3.0
-835,wespac187,Stratton Mountain,5.0
-836,wisp,Breckenridge,5.0
-837,zakk,Sugar Bowl,4.0
-838,zakk,Snowbird,5.0
-839,zakk,Timberline Lodge,4.0
-840,zakk,Ski China Peak,4.0
-841,istink,Devils Head,4.0
-842,J,Cascade Mountain,5.0
-843,J,Hidden Valley,2.0
-844,J,Snow Creek,3.0
-846,Richard Min,Welch Village,2.0
-847,Richard Min,Lutsen Mountains,4.0
-848,Richard Min,Spirit Mountain,3.0
-849,jim8588,Schuss Mountain,5.0
-850,joancoburn,Gunstock,3.0
-851,Les,Steamboat,4.0
-852,Maureen,Bolton Valley,4.0
-853,Maureen,Smugglers' Notch,2.0
-854,Maureen,Sugarbush,5.0
-855,mjurkiewicz,Okemo Mountain,5.0
-856,Robert Turner,Deer Valley,4.0
-857,SweetSki,Schweitzer,4.0
-858,jfoldno7,Monarch Mountain,3.0
-859,jfoldno7,Ski Cooper,2.0
-860,jfoldno7,Crested Butte Mountain,5.0
-861,jfoldno7,Beaver Creek,3.0
-862,jfoldno7,Sunlight Mountain,2.0
-863,jfoldno7,Burke Mountain,3.0
-864,jfoldno7,Okemo Mountain,5.0
-865,jfoldno7,Magic Mountain Vermont,3.0
-866,Randy Agness,Stowe Mountain,5.0
-867,Randy Agness,Whiteface Mountain,5.0
-868,Randy Agness,McCauley Mountain,4.0
-869,apken,Belleayre,4.0
-870,Ian England,Aspen Snowmass,3.0
-871,Ian England,Vail,3.0
-872,Ian England,Keystone,4.0
-873,J,Boyne Mountain,5.0
-874,J,Crystal Mountain Michigan,4.0
-875,J,Nubs Nob,5.0
-876,Ryan Pringnitz,Caberfae Peaks Ski Golf,2.0
-877,skiergirl27 ,Loon Mountain,3.0
-878,skiergirl27 ,Mt. Snow,5.0
-879,resa 1,Shawnee Mountain,3.0
-880,bostowyo,Ragged Mountain,4.0
-881,J,Christie Mountain,5.0
-882,J,Christmas Mountain,4.0
-883,J,Tyrol Basin,3.0
-884,J,Villa Olivia,2.0
-885,Jim Dana,Norway Mountain,5.0
-886,Jim Dana,Pine Mountain,1.0
-887,Mike134,Big Powderhorn Mountain,5.0
-888,Richard Min,Spirit Mountain,4.0
-889,Ryan Pringnitz,Nubs Nob,5.0
-890,brtn551,Copper Mountain,5.0
-891,brtn551,Breckenridge,5.0
-892,brtn551,Breckenridge,5.0
-893,George P,Cannon Mountain,5.0
-894,J,Grand Geneva,3.0
-895,J,Sunburst,4.0
-896,J,Whitecap Mountain,5.0
-897,Jim Dana,Big Powderhorn Mountain,5.0
-898,Richard Min,Spirit Mountain,3.0
-899,RICK STEPHENS,Copper Mountain,5.0
-900,skinomad,Devils Head,5.0
-901,Art Zinn,Camelback Mountain,4.0
-902,bostowyo,Wildcat Mountain,4.0
-903,bostowyo,Pats Peak,3.0
-904,fcherichel,Jiminy Peak,5.0
-905,HelderbergComplainer,Stowe Mountain,5.0
-906,nastarfan,Pine Mountain,5.0
-907,RICK STEPHENS,Vail,5.0
-908,shari ann,Powder Ridge Minnesota,4.0
-909,Alan M,Eldora Mountain,5.0
-910,haineroid,Anthony Lakes Mountain,5.0
-911,mjurkiewicz,Elk Mountain Ski,2.0
-912,RICK STEPHENS,Keystone,5.0
-913,john mosher,Snowbasin,5.0
-914,treesker,Silver Mountain,1.0
-915,Ian,Mt. Snow,4.0
-916,Ian,Mt. Southington,3.0
-917,Richard Min,Spirit Mountain,5.0
-918,soakandski,Camelback Mountain,4.0
-921,isaac reule,Snowbasin,5.0
-922,resa 1,Mt. Snow,5.0
-923,isaac reule,Silverton Mountain,3.0
-924,Richard Min,Spirit Mountain,4.0
-925,tandmkirk,Boyne Mountain,5.0
-926,bwm30,Steamboat,5.0
-927,dubisaweapon,Alta,5.0
-928,H3NDR1X15,Wachusett Mountain,3.0
-929,H3NDR1X15,Jiminy Peak,5.0
-930,jay_bone_22,Angel Fire,1.0
-931,Ryan Pringnitz,Timber Ridge,2.0
-932,zakk,Mammoth Mountain,5.0
-933,zakk,Bear Valley,4.0
-934,zakk,Heavenly Mountain,3.0
-935,fcherichel,Park City Mountain,5.0
-936,Jase,Grand Targhee,5.0
-937,Richard Min,Spirit Mountain,3.0
-938,LDT,Alta,5.0
-939,mrcompgov,Bear Creek Mountain,5.0
-940,mrcompgov,Elk Mountain Ski,5.0
-941,smk1945,Vail,5.0
-942,brianwatts,Okemo Mountain,5.0
-943,brianwatts,Elk Mountain Ski,5.0
-944,brtn551,Park City Mountain,5.0
-945,brtn551,Granite Peak,5.0
-946,brtn551,Devils Head,5.0
-947,brtn551,Aspen Snowmass,4.0
-948,brtn551,Snowy Range,3.0
-949,Adye 1,Vail,5.0
-950,zakk,Dodge Ridge,4.0
-951,beefcake1313,Snow King,4.0
-952,beefcake1313,Snow King,4.0
-953,Bmorabito,Brian Head,5.0
-954,brianwatts,Mt. Peter,3.0
-955,cmustard,Snowbird,5.0
-956,cmustard,Grand Targhee,5.0
-958,davidlau123,Alpine Valley Wisconsin,4.0
-959,davidlau123,Cascade Mountain,5.0
-960,davidlau123,Devils Head,3.0
-961,davidlau123,Wilmot Mountain,3.0
-962,HelderbergComplainer,Bromley Mountain,4.0
-963,Hunter McPherson,Boston Mills and Brandywine,3.0
-964,Hunter McPherson,Boston Mills and Brandywine,3.0
-965,Hunter McPherson,Peekn Peak,4.0
-966,iwill,Sun Valley,2.0
-967,iwill,Mt. Hood Skibowl,5.0
-968,jim8588,Nubs Nob,5.0
-969,jim8588,Boyne Highlands,5.0
-970,nmkelley,Catamount Ski Ride Area,4.0
-971,perrmj02,Sugarbush,5.0
-972,shari ann,Andes Tower Hills,3.0
-973,shari ann,Andes Tower Hills,3.0
-974,steep n deep ,Okemo Mountain,4.0
-975,SweetSki,49 Degrees North,5.0
-976,bigw1313,Cannon Mountain,4.0
-977,BO$$,Arizona Snowbowl,5.0
-978,BO$$,Hoodoo,4.0
-979,BO$$,Cataloochee,4.0
-980,BO$$,Ober Gatlinburg Ski,3.0
-981,frankpa,Breckenridge,3.0
-982,frankpa,Vail,5.0
-983,gkphi5,Kirkwood,5.0
-986,RICK STEPHENS,Arapahoe Basin,3.0
-987,Scott Dillman,Sugarbush,4.0
-988,Scott Dillman,Stratton Mountain,5.0
-989,Bobby G,Grand Targhee,5.0
-990,Bobby G,Beaver Mountain,5.0
-991,brtn551,Jackson Hole,5.0
-992,horse,Crested Butte Mountain,4.0
-993,joancoburn,Jay Peak,4.0
-994,joancoburn,Gunstock,3.0
-995,pinkkid_2000,Kirkwood,5.0
-996,pinkkid_2000,Kirkwood,4.0
-997,Ryan Pringnitz,Boyne Mountain,4.0
-998,BSbost,Purgatory Mountain,3.0
-999,herbsmen,Heavenly Mountain,3.0
-1000,pattwins,Ski Butternut,4.0
-1001,newby24,Nubs Nob,5.0
-1002,newby24,Big Powderhorn Mountain,5.0
-1003,newby24,Pine Mountain,2.0
-1004,passanto1,Mt. Rose Ski Tahoe,5.0
-1005,passanto1,Heavenly Mountain,3.0
-1006,psuguy43094,Loon Mountain,5.0
-1007,RICK STEPHENS,Winter Park,4.0
-1008,bluemoon1975,Burke Mountain,4.0
-1009,bluemoon1975,West Mountain,4.0
-1010,bluemoon1975,Saskadena Six,4.0
-1011,newsance,Monarch Mountain,5.0
-1012,newsance,Keystone,2.0
-1013,skiergirl27 ,Attitash,5.0
-1014,LDT,Palisades Tahoe,4.0
-1015,LDT,Northstar California,5.0
-1016,resa 1,Bear Creek Mountain,5.0
-1017,alex,White Pass,5.0
-1018,Diane Saraceni,Bolton Valley,4.0
-1019,Diane Saraceni,Mt. Snow,5.0
-1020,mjnecaise,Alta,4.0
-1021,mjnecaise,Deer Valley,4.0
-1022,Richard Min,Lutsen Mountains,3.0
-1023,alvlee01,Palisades Tahoe,3.0
-1024,alvlee01,Northstar California,4.0
-1025,alvlee01,Heavenly Mountain,3.0
-1026,Ryan Pringnitz,Bittersweet,3.0
-1027,Ryan Pringnitz,Boyne Highlands,2.0
-1028,iwill,White Pass,3.0
-1029,iwill,Stevens Pass,4.0
-1030,LDT,Heavenly Mountain,4.0
-1031,star1201,Giants Ridge,5.0
-1032,star1201,Giants Ridge,5.0
-1033,star1201,Hyland Ski,1.0
-1034,Gunny J,Windham Mountain,4.0
-1035,lumaye64,Ski Brule,5.0
-1036,Gunny J,Big Boulder,3.0
-1037,Thomas,Telluride,3.0
-1038,SkiGalveston,Vail,5.0
-1039,SkiGalveston,Ski Apache,2.0
-1040,Gunny J,Hunter Mountain,4.0
-1041,Ryan Pringnitz,Nubs Nob,5.0
-1042,papi6022,Smugglers' Notch,5.0
-1043,SkiGalveston,Beaver Creek,5.0
-1044,isaac reule,Snowbird,5.0
-1045,J,Keystone,5.0
-1046,Ryan Pringnitz,Schuss Mountain,5.0
-1047,Simon,Snowbasin,5.0
-1048,Simon,Breckenridge,5.0
-1049,Simon,Beaver Creek,4.0
-1050,Thomas,Vail,5.0
-1051,gma,Berkshire East,3.0
-1052,gma,Ski Butternut,3.0
-1053,flatlander13,Lutsen Mountains,5.0
-1054,gma,Bousquet,3.0
-1055,Ryan Pringnitz,Cannonsburg,2.0
-1056,dancinjrl,Breckenridge,5.0
-1057,gma,Bromley Mountain,5.0
-1058,Likeabat,Solitude Mountain,4.0
-1059,gma,Otis Ridge,3.0
-1060,gma,Otis Ridge,3.0
-1061,gma,Catamount Ski Ride Area,2.0
-1062,psuguy43094,Waterville Valley,4.0
-1063,Gunny J,Hunter Mountain,4.0
-1064,gma,Blandford,3.0
-1065,gma,Windham Mountain,3.0
-1066,mir0yan222,Dodge Ridge,2.0
-1067,mir0yan222,Heavenly Mountain,5.0
-1068,gma,Wachusett Mountain,3.0
-1069,gma,Hunter Mountain,3.0
-1070,Thomas,Jackson Hole,2.0
-1071,gma,Montage Mountain,2.0
-1072,Burtoncustomjon,Mammoth Mountain,5.0
-1073,Burtoncustomjon,Snow Valley,4.0
-1074,Burtoncustomjon,Bear Mountain,4.0
-1075,Peter Mende,Alpine Valley Wisconsin,4.0
-1076,Unionhawk,Snowshoe Mountain,4.0
-1077,mkt,Ski Brule,5.0
-1078,JakeS513,Arapahoe Basin,3.0
-1079,JakeS513,Loveland,4.0
-1080,JakeS513,Keystone,5.0
-1081,gma,Elk Mountain Ski,3.0
-1082,gma,Killington,4.0
-1083,Justin Howell,Vail,4.0
-1084,mkt,Snowriver Mountain Resort,4.0
-1085,mkt,Norway Mountain,4.0
-1086,mkt,Norway Mountain,4.0
-1087,mkt,Pine Mountain,2.0
-1088,mkt,Lutsen Mountains,5.0
-1089,mkt,Marquette Mountain,3.0
-1090,Justin Howell,Killington,4.0
-1091,apken,Mountain Creek,1.0
-1092,Ryan Pringnitz,Crystal Mountain Michigan,4.0
-1093,JP,Breckenridge,5.0
-1094,Matt Woodruff,Nubs Nob,5.0
-1095,JP,Winter Park,4.0
-1096,Matt Woodruff,Schuss Mountain,4.0
-1097,Matt Woodruff,Marquette Mountain,5.0
-1098,Matt Woodruff,Mt. Holiday,3.0
-1099,Matt Woodruff,Mt. Holiday,3.0
-1100,Dylan,Killington,5.0
-1101,JP,Keystone,5.0
-1102,popski boy,Loveland,5.0
-1103,cane700,Alpine Valley Wisconsin,4.0
-1104,cane700,Wilmot Mountain,3.0
-1105,fcherichel,Loveland,4.0
-1106,Canadian,Sugarbush,5.0
-1107,Canadian,Jay Peak,5.0
-1108,Canadian,Mad River Glen,5.0
-1109,Heather,Appalachian Ski Mountain,2.0
-1110,Heather,Keystone,5.0
-1111,Heather,Sugar Mountain,4.0
-1112,psuguy43094,Cannon Mountain,4.0
-1113,Chad,Big Sky,4.0
-1114,popski boy,Wolf Creek,5.0
-1115,popski boy,Winter Park,5.0
-1116,quinnman,Andes Tower Hills,4.0
-1117,A. cooper,Boyne Mountain,4.0
-1118,Mike Barrett,Whitefish Mountain,4.0
-1120,adube 1,Jay Peak,5.0
-1121,adube 1,Bretton Woods,1.0
-1122,adube 1,Mad River Glen,5.0
-1123,Vance Boyer,Kelly Canyon,4.0
-1124,Vance Boyer,Kelly Canyon,4.0
-1125,Taos Rules,Silverton Mountain,4.0
-1126,Taos Rules,Taos Ski Valley,5.0
-1127,Taos Rules,Ski Santa Fe,2.0
-1128,thesnowboarder,Gunstock,4.0
-1129,thesnowboarder,Pats Peak,4.0
-1130,herbsmen,Kirkwood,5.0
-1131,herbsmen,Sierra at Tahoe,5.0
-1132,herbsmen,Northstar California,4.0
-1133,Greg morell,Berkshire East,4.0
-1134,snowboarderboi,Arapahoe Basin,4.0
-1135,A. cooper,Vail,5.0
-1136,mkt,Snowriver Mountain Resort,5.0
-1137,DubbelSac,Copper Mountain,4.0
-1138,DubbelSac,Arapahoe Basin,5.0
-1139,DubbelSac,Jay Peak,5.0
-1140,DubbelSac,Bretton Woods,4.0
-1141,DubbelSac,Shawnee Mountain,4.0
-1142,DubbelSac,Sunday River,4.0
-1143,DubbelSac,Okemo Mountain,2.0
-1144,DubbelSac,Cranmore Mountain,3.0
-1145,GuyinNM,Ski Santa Fe,4.0
-1146,wolfman,Park City Mountain,5.0
-1147,Jeff Gibson,Mt. Rose Ski Tahoe,5.0
-1148,snowboarderboi,Wolf Creek,4.0
-1149,snowboarderboi,Taos Ski Valley,4.0
-1150,snowboarderboi,Loveland,4.0
-1151,wolfman,Sugar Bowl,3.0
-1152,wolfman,Northstar California,4.0
-1153,wolfman,Snowbird,5.0
-1154,wolfman,Brighton,4.0
-1155,wolfman,Telluride,5.0
-1156,GOOFY RIDER,Ski Butternut,4.0
-1157,GOOFY RIDER,Ski Sundown,2.0
-1158,GuyinNM,Wolf Creek,4.0
-1159,Justin Howell,Breckenridge,5.0
-1160,nastarfan,Pine Mountain,5.0
-1161,quinnman,Lutsen Mountains,5.0
-1162,quinnman,Buck Hill,4.0
-1163,quinnman,Powder Ridge Minnesota,4.0
-1164,GOOFY RIDER,Mt. Southington,2.0
-1165,GOOFY RIDER,Snowshoe Mountain,5.0
-1166,MCPG,Perfect North Slopes,3.0
-1167,Ontheslopes,Mt. Snow,4.0
-1168,quinnman,Welch Village,4.0
-1169,quinnman,Andes Tower Hills,4.0
-1170,quinnman,Spirit Mountain,4.0
-1171,wolfman,Solitude Mountain,4.0
-1172,wolfman,Crested Butte Mountain,4.0
-1173,quinnman,Andes Tower Hills,4.0
-1174,Nathan Dively,Sugar Mountain,4.0
-1175,Nathan Dively,Wolf Ridge Ski,4.0
-1176,wolfman,Bear Mountain,4.0
-1177,wolfman,Alpine Valley Wisconsin,3.0
-1178,wolfman,Wilmot Mountain,3.0
-1179,keneikirk,Bretton Woods,4.0
-1180,A. cooper,Snowriver Mountain Resort,4.0
-1181,mkt,Ski Brule,5.0
-1182,winstonwolf,Snowriver Mountain Resort,4.0
-1183,winstonwolf,Spirit Mountain,4.0
-1184,winstonwolf,Sundown Mountain,4.0
-1185,wolfman,Palisades Tahoe,4.0
-1186,papi6022,Sun Valley,3.0
-1187,Dave&DJ,Big Powderhorn Mountain,5.0
-1188,jfoldno7,Crested Butte Mountain,5.0
-1189,wolfman,Grand Targhee,4.0
-1190,wolfman,Jackson Hole,4.0
-1191,wolfman,Snow King,3.0
-1192,wolfman,Cascade Mountain,4.0
-1193,wolfman,Chestnut Mountain,4.0
-1194,wolfman,Devils Head,4.0
-1195,wolfman,Sundown Mountain,4.0
-1196,Dave Freeman,Snowbasin,5.0
-1197,ryan dunlap,Snowshoe Mountain,1.0
-1198,SGTDBP,Bradford,3.0
-1199,swetsb,Massanutten,1.0
-1200,wolfman,Breckenridge,3.0
-1201,wolfman,Breckenridge,3.0
-1202,wolfman,Keystone,3.0
-1203,wolfman,Villa Olivia,2.0
-1204,R Lee Stump,Mt. Baker,4.0
-1205,R Lee Stump,Jiminy Peak,4.0
-1206,sewardhorner,Bittersweet,4.0
-1207,Damon,June Mountain,5.0
-1208,DubbelSac,Sugarloaf,4.0
-1209,ryan dunlap,Snowshoe Mountain,1.0
-1210,R Lee Stump,Okemo Mountain,4.0
-1211,R Lee Stump,Mt. Sunapee,4.0
-1212,ryan dunlap,Bryce,5.0
-1213,ryan dunlap,Winterplace Ski,1.0
-1214,keneikirk,Stowe Mountain,5.0
-1215,mrcompgov,Crotched Mountain,5.0
-1216,tandmkirk,Bittersweet,3.0
-1217,tandmkirk,Timber Ridge,3.0
-1218,Vance Boyer,Grand Targhee,5.0
-1219,ryannw,Silver Mountain,4.0
-1220,nanaandpapa,Big Powderhorn Mountain,5.0
-1222,runner/skier,Sunlight Mountain,5.0
-1223,MCPG,Paoli Peaks,4.0
-1224,otgoal21,Palisades Tahoe,4.0
-1225,otgoal21,Ober Gatlinburg Ski,2.0
-1226,otgoal21,Ober Gatlinburg Ski,2.0
-1227,Bobby G,Whiteface Mountain,4.0
-1228,djgray,Ski China Peak,5.0
-1229,RidersProject,Brighton,4.0
-1230,flyersboy114,Mt. Snow,1.0
-1231,Nathan Dively,Appalachian Ski Mountain,4.0
-1232,Nathan Dively,Ski Beech Mountain,4.0
-1233,Nathan Dively,Wolf Ridge Ski,4.0
-1234,Dave O,Timberline Mountain,3.0
-1235,Dave O,Roundtop Mountain,4.0
-1236,Dave O,Roundtop Mountain,4.0
-1237,joegregdon,Mt. Snow,4.0
-1238,skifiend,Peekn Peak,4.0
-1239,Dave&DJ,Big Powderhorn Mountain,5.0
-1240,papi6022,Sun Valley,3.0
-1241,SGTDBP,Crotched Mountain,4.0
-1242,skifiend,Blue Mountain,4.0
-1243,GuyinNM,Angel Fire,3.0
-1244,snowboarderboi,Timberline Lodge,4.0
-1245,thesnowboarder,Cannon Mountain,5.0
-1246,eewdad,Crotched Mountain,4.0
-1247,mkt,Granite Peak,4.0
-1248,Gunny J,Elk Mountain Ski,3.0
-1249,Shane Wicken,Mt. Sunapee,4.0
-1250,flyingrabbit,Blue Knob,4.0
-1251,Carrie,Jay Peak,5.0
-1252,Carrie,Mt. Snow,3.0
-1253,Alan M,Mt. Snow,5.0
-1254,Dave O,Liberty,3.0
-1255,SkiBadger,Timberline Mountain,3.0
-1256,Dave O,Whitetail,4.0
-1257,djgray,Ski China Peak,5.0
-1258,eewdad,Ragged Mountain,1.0
-1259,sewardhorner,Swiss Valley,3.0
-1260,thesnowboarder,Crotched Mountain,4.0
-1261,dubisaweapon,Jay Peak,5.0
-1262,Ontheslopes,Smugglers' Notch,4.0
-1263,eewdad,Loon Mountain,4.0
-1264,Mike Barrett,Solitude Mountain,4.0
-1265,Mike Barrett,Park City Mountain,4.0
-1266,Mike Barrett,Jackson Hole,4.0
-1267,Reaper,Mountain High,2.0
-1268,runner/skier,Vail,3.0
-1269,Brian Lewis,Jiminy Peak,5.0
-1270,Brian Lewis,Ski Butternut,5.0
-1271,Brian Lewis,Mohawk Mountain,5.0
-1272,Brian Lewis,Mt. Southington,4.0
-1274,Shane Wicken,Attitash,4.0
-1275,flyingrabbit,Tussey Mountain,2.0
-1276,R Lee Stump,Mt. Snow,4.0
-1277,R Lee Stump,Bromley Mountain,4.0
-1278,popski boy,Wolf Creek,5.0
-1279,runner/skier,Beaver Creek,5.0
-1280,ryanscottmac,Elk Mountain Ski,4.0
-1281,treesker,Silver Mountain,1.0
-1282,gma,Wintergreen,4.0
-1283,Alan M,Catamount Ski Ride Area,4.0
-1284,Alan M,Catamount Ski Ride Area,5.0
-1285,Brian Lewis,Okemo Mountain,5.0
-1286,sampanning,Telluride,5.0
-1287,gma,Snowshoe Mountain,4.0
-1288,Damon,Arizona Snowbowl,3.0
-1290,Olivia,Sugarbush,4.0
-1291,wolfman,Snowbasin,4.0
-1292,wolfman,Steamboat,4.0
-1293,andy D,Winterplace Ski,4.0
-1294,Mike134,Big Powderhorn Mountain,5.0
-1295,beachbumltj,Liberty,1.0
-1296,beachbumltj,Whitetail,2.0
-1297,beachbumltj,Wisp,4.0
-1298,purplebunyz,Killington,5.0
-1299,swetsb,Smugglers' Notch,4.0
-1300,Debbi,Mountain Creek,2.0
-1301,Dedmond,Bridger Bowl,5.0
-1302,Dedmond,Wolf Ridge Ski,3.0
-1303,Bill Deaton,Big Bear,4.0
-1304,djgray,Palisades Tahoe,2.0
-1305,drdevon,Mt. Hood Meadows,5.0
-1306,drdevon,Sun Valley,4.0
-1307,leerampolla,Lee Canyon,2.0
-1308,Reaper,Bear Mountain,5.0
-1309,R Lee Stump,Sugarbush,5.0
-1310,Debbi,Belleayre,4.0
-1311,Debbi,Elk Mountain Ski,3.0
-1312,smk1945,Winter Park,4.0
-1313,snowboarderboi,Mt. Baker,4.0
-1314,thesnowboarder,Pats Peak,2.0
-1315,Les,Copper Mountain,3.0
-1316,Les,Winter Park,5.0
-1317,ONTHESHITER,Bear Valley,5.0
-1318,Ryan Pringnitz,Alta,5.0
-1319,wespac187,Ragged Mountain,4.0
-1320,brian watts,Okemo Mountain,5.0
-1321,brian watts,Elk Mountain Ski,5.0
-1322,Mark Lang,Bretton Woods,5.0
-1323,Mark Lang,Shawnee Mountain,4.0
-1324,nnypa,Titus Mountain,5.0
-1325,nnypa,Woods Valley,4.0
-1326,nnypa,Woods Valley,4.0
-1327,nnypa,Dry Hill,3.0
-1328,nnypa,Dry Hill,3.0
-1329,Kase1,Mountain Creek,2.0
-1330,ONTHESHITER,Kirkwood,5.0
-1331,ONTHESHITER,Heavenly Mountain,4.0
-1332,papi6022,Stratton Mountain,5.0
-1333,skibum40,Ski Santa Fe,4.0
-1334,cody hamlin,Camelback Mountain,3.0
-1335,Dave O,Liberty,4.0
-1336,DubbelSac,Attitash,4.0
-1337,isaac reule,Beaver Creek,2.0
-1338,Elliot Green,Liberty,3.0
-1339,humanmap,Breckenridge,5.0
-1340,humanmap,Arapahoe Basin,5.0
-1341,humanmap,Vail,3.0
-1342,humanmap,Keystone,5.0
-1343,medford_mike,Wachusett Mountain,5.0
-1344,medford_mike,Berkshire East,4.0
-1345,purplebunyz,Wisp,4.0
-1346,Dave O,Roundtop Mountain,4.0
-1347,mrcompgov,Bear Creek Mountain,5.0
-1348,thesnowboarder,Mt. Sunapee,3.0
-1349,Lori Kushar,Snowriver Mountain Resort,4.0
-1350,mir0yan222,Schweitzer,5.0
-1351,R Lee Stump,Catamount Ski Ride Area,3.0
-1352,Vance Boyer,Jackson Hole,5.0
-1353,Three2Ski,Mt. Sunapee,5.0
-1354,Bill Deaton,Bromley Mountain,5.0
-1355,Bill Deaton,Montage Mountain,2.0
-1356,bandanasFTL,Copper Mountain,4.0
-1357,bandanasFTL,Steamboat,5.0
-1358,bandanasFTL,Winter Park,3.0
-1359,skijds,Canaan Valley,5.0
-1360,vadoc,Massanutten,3.0
-1361,vadoc,Wintergreen,4.0
-1362,mkt,Snowriver Mountain Resort,4.0
-1363,mkt,Big Powderhorn Mountain,5.0
-1364,eewdad,Mt. Sunapee,4.0
-1365,runner/skier,Telluride,5.0
-1366,eewdad,Pats Peak,3.0
-1367,J,Granite Peak,5.0
-1368,keneikirk,Heavenly Mountain,5.0
-1369,runner/skier,Silverton Mountain,5.0
-1370,runner/skier,Purgatory Mountain,5.0
-1371,R Lee Stump,Stratton Mountain,5.0
-1372,R Lee Stump,Magic Mountain Vermont,4.0
-1373,Seth Christopher Bjorkman,Mt. Southington,3.0
-1374,mrcompgov,Elk Mountain Ski,5.0
-1375,passanto1,Aspen Snowmass,5.0
-1376,Seth Christopher Bjorkman,Ski Butternut,4.0
-1377,Three2Ski,Smugglers' Notch,4.0
-1378,bluemoon1975,Grand Targhee,4.0
-1379,bluemoon1975,Bolton Valley,3.0
-1380,jim8588,Alta,4.0
-1381,ryanscottmac,Liberty,3.0
-1382,skijds,Bryce,5.0
-1383,ryanscottmac,Montage Mountain,3.0
-1384,Dave O,Whitetail,2.0
-1385,stuck_in_614,Mad River Mountain,5.0
-1386,johnny mack,Granite Peak,5.0
-1387,powhound820,Windham Mountain,4.0
-1388,conboc,Bristol Mountain,5.0
-1389,johnny mack,Afton Alps,5.0
-1390,Seth Christopher Bjorkman,King Pine,4.0
-1391,thesnowboarder,Wildcat Mountain,5.0
-1392,thesnowboarder,Cranmore Mountain,2.0
-1393,Damon,Sunrise Park,5.0
-1394,Jack Frost,Ski Beech Mountain,5.0
-1395,powhound820,Mountain Creek,3.0
-1396,powhound820,Camelback Mountain,3.0
-1397,powhound820,Campgaw Mountain,2.0
-1398,powhound820,Shawnee Mountain,3.0
-1399,runner/skier,Shawnee Mountain,4.0
-1400,Bruce,Wolf Creek,5.0
-1401,Bruce,Purgatory Mountain,4.0
-1402,smezhir,Breckenridge,3.0
-1403,conboc,Gore Mountain,2.0
-1404,mjd2646,Appalachian Ski Mountain,3.0
-1405,mjd2646,Ski Beech Mountain,4.0
-1406,mjd2646,Sugar Mountain,4.0
-1407,Jack Frost,Ski Beech Mountain,5.0
-1408,markiemark,Angel Fire,5.0
-1409,Ryan Pringnitz,Snowbird,5.0
-1410,Bill Deaton,Snowshoe Mountain,4.0
-1411,Dave O,Arapahoe Basin,4.0
-1412,JonIngalls,Lookout Pass,5.0
-1413,markiemark,Ski Santa Fe,2.0
-1414,Brian Thayer,Snowbird,5.0
-1415,Diane Saraceni,Whiteface Mountain,5.0
-1416,DoUcanoe2,Whitetail,2.0
-1417,HelderbergComplainer,Hunter Mountain,5.0
-1418,hotdotsails,Blue Mountain,5.0
-1419,johnny mack,Wild Mountain Ski,2.0
-1420,johnny mack,Spirit Mountain,5.0
-1421,Mark Rosasco,Winter Park,3.0
-1422,sewardhorner,Timber Ridge,4.0
-1423,stmad12,Copper Mountain,5.0
-1424,brian watts,Greek Peak,3.0
-1425,conboc,Woods Valley,5.0
-1426,Daniel Morris,Crystal Mountain Washington,5.0
-1427,Daniel Morris,Summit at Snoqualmie,4.0
-1428,drdevon,Taos Ski Valley,5.0
-1429,drdevon,Arapahoe Basin,4.0
-1430,JakeS513,Breckenridge,5.0
-1431,JC,Palisades Tahoe,4.0
-1432,JC,Kirkwood,4.0
-1433,Les,Breckenridge,4.0
-1434,Les,Keystone,5.0
-1435,markiemark,Purgatory Mountain,5.0
-1436,noonito,Steamboat,5.0
-1437,perrmj02,Heavenly Mountain,4.0
-1438,perrmj02,Magic Mountain Vermont,5.0
-1439,Ryan Pringnitz,Deer Valley,4.0
-1440,smk1945,Crested Butte Mountain,4.0
-1441,JC,Sierra at Tahoe,4.0
-1444,mkt,Marquette Mountain,5.0
-1445,pattwins,Ski Sundown,4.0
-1446,nanaandpapa,Big Powderhorn Mountain,5.0
-1447,psuguy43094,Vail,5.0
-1448,Al Cipparone,Blue Mountain,4.0
-1449,Al Cipparone,Liberty,4.0
-1450,Al Cipparone,Canaan Valley,5.0
-1451,nanaandpapa,Snowriver Mountain Resort,3.0
-1452,R Lee Stump,Whiteface Mountain,5.0
-1453,Mike134,Big Powderhorn Mountain,5.0
-1454,skiwithkids,Big Powderhorn Mountain,5.0
-1457,Brian Thayer,Alta,5.0
-1458,Gunny J,Camelback Mountain,4.0
-1459,H3NDR1X15,Bolton Valley,5.0
-1460,Jeff Gibson,Big Bear,4.0
-1461,Mark Lang,Killington,5.0
-1462,markwittlich,Angel Fire,1.0
-1463,nmkelley,Jiminy Peak,5.0
-1464,nmkelley,Ski Butternut,3.0
-1465,ParkLife,Sunday River,5.0
-1466,ParkLife,Sugarbush,3.0
-1467,passanto1,Stratton Mountain,4.0
-1468,ryanscottmac,Whitetail,2.0
-1469,skiergirl27 ,Attitash,5.0
-1470,bostowyo,Bretton Woods,5.0
-1471,DoUcanoe2,Bear Creek Mountain,4.0
-1472,Tim Zheng,Palisades Tahoe,5.0
-1473,Tim Zheng,Kirkwood,4.0
-1474,Tim Zheng,Sierra at Tahoe,4.0
-1475,Tim Zheng,Snowbird,5.0
-1476,Tim Zheng,Northstar California,4.0
-1477,Tim Zheng,Snowbasin,5.0
-1478,Tim Zheng,Brighton,4.0
-1479,Tim Zheng,Solitude Mountain,3.0
-1480,Tim Zheng,Heavenly Mountain,3.0
-1481,Tim Zheng,Park City Mountain,4.0
-1482,Tim Zheng,Powder Mountain,4.0
-1483,Tim Zheng,Big Sky,5.0
-1484,Tim Zheng,Bridger Bowl,4.0
-1485,Tim Zheng,Jay Peak,4.0
-1486,Tim Zheng,Stowe Mountain,4.0
-1487,Tim Zheng,Killington,3.0
-1488,conboc,Belleayre,5.0
-1489,wolfman,Telluride,5.0
-1490,wolfman,Telluride,5.0
-1491,djgray,Bear Valley,1.0
-1492,Jack Frost,Appalachian Ski Mountain,4.0
-1493,Jack Frost,Breckenridge,4.0
-1494,Jack Frost,Vail,4.0
-1495,Jack Frost,Beaver Creek,5.0
-1496,Jack Frost,Sugar Mountain,4.0
-1497,Tim Zheng,Breckenridge,4.0
-1498,Tim Zheng,Arapahoe Basin,4.0
-1499,Tim Zheng,Vail,4.0
-1500,Tim Zheng,Loveland,4.0
-1501,Tim Zheng,Beaver Creek,3.0
-1502,Tim Zheng,Keystone,3.0
-1503,cheezywhiz,Stratton Mountain,5.0
-1504,psuguy43094,Beaver Creek,5.0
-1506,Dave O,Timberline Mountain,4.0
-1507,mkt,Ski Brule,5.0
-1508,gma,Wisp,2.0
-1509,H3NDR1X15,Sunday River,3.0
-1510,Bruce,Sunday River,5.0
-1511,Daniel Morris,Stevens Pass,4.0
-1512,Jeff Gibson,Mammoth Mountain,5.0
-1513,Mark Rosasco,Vail,5.0
-1515,bigw1313,Heavenly Mountain,5.0
-1516,ONTHESHITER,Northstar California,2.0
-1517,ONTHESHITER,Sierra at Tahoe,2.0
-1518,gma,Magic Mountain Vermont,5.0
-1519,Bob Butts,Loon Mountain,3.0
-1520,Bob Butts,Mt. Sunapee,4.0
-1521,Bob Butts,Pats Peak,3.0
-1522,Bob Butts,Crotched Mountain,3.0
-1523,stmad12,Copper Mountain,5.0
-1524,stmad12,Snow Creek,4.0
-1525,papi6022,Taos Ski Valley,5.0
-1526,Colin,Bogus Basin,1.0
-1527,Danny Zhang,Bretton Woods,4.0
-1528,JJ,Mt. Baldy,1.0
-1529,Jack Frost,Arapahoe Basin,5.0
-1530,Jack Frost,Deer Valley,5.0
-1531,Peter Mende,Pine Mountain,1.0
-1532,Peter Mende,Pine Mountain,1.0
-1533,Ontheslopes,Smugglers' Notch,2.0
-1535,rar768,Woods Valley,2.0
-1536,rar768,McCauley Mountain,4.0
-1537,rar768,McCauley Mountain,4.0
-1538,sampanning,Snowbird,5.0
-1539,papi6022,Sugarbush,5.0
-1540,Erik Szayna,Mountain High,3.0
-1541,S. Areno,Big Sky,5.0
-1542,S. Areno,Terry Peak,4.0
-1543,S. Areno,Deer Mountain,4.0
-1544,Erik Szayna,Mt. Baldy,4.0
-1545,S. Areno,Breckenridge,4.0
-1546,christopher griffin,Palisades Tahoe,5.0
-1547,christopher griffin,Snowbird,5.0
-1548,christopher griffin,Winter Park,5.0
-1549,Nick Pope,Kirkwood,4.0
-1550,Nick Pope,Wolf Creek,4.0
-1551,Nick Pope,Heavenly Mountain,4.0
-1552,Nick Pope,Silverton Mountain,5.0
-1553,Nick Pope,Telluride,5.0
-1554,Nick Pope,Purgatory Mountain,4.0
-1555,Nick Pope,Ski Apache,4.0
-1556,Nick Pope,Taos Ski Valley,5.0
-1557,johnny alonso,Whitetail,4.0
-1558,Nick Pope,Palisades Tahoe,4.0
-1559,johnny alonso,Liberty,3.0
-1560,johnny alonso,Bear Mountain,4.0
-1561,Jason Tubbs,Wolf Creek,4.0
-1562,Jason Tubbs,Telluride,5.0
-1563,Jason Tubbs,Breckenridge,4.0
-1564,Jason Tubbs,Vail,4.0
-1565,Jason Tubbs,Blue Knob,4.0
-1566,andy D,Heavenly Mountain,5.0
-1567,andy D,Wintergreen,3.0
-1568,Greg morell,Wildcat Mountain,5.0
-1569,wolfman,Perfect North Slopes,4.0
-1570,Nick Park,Holiday Valley,4.0
-1571,Nick Park,Alpine Valley Ohio,3.0
-1572,Nick Park,Peekn Peak,4.0
-1573,wolfman,Vail,4.0
-1574,wolfman,Park City Mountain,5.0
-1576,Charles Ball,Song Mountain,3.0
-1577,Charles Ball,Holimont,5.0
-1578,Charles Ball,Bristol Mountain,4.0
-1579,Charles Ball,Gore Mountain,4.0
-1580,Colin,Bogus Basin,3.0
-1581,Erik Szayna,Mammoth Mountain,5.0
-1582,Peter Mende,Mt. Bohemia,5.0
-1583,loricipheran,Snow Trails,4.0
-1584,ryanscottmac,Big Bear,4.0
-1585,dave figenshu,Jack Frost,5.0
-1586,Bill Deaton,Big Boulder,2.0
-1587,cheezywhiz,Snowbird,5.0
-1588,cheezywhiz,Brighton,5.0
-1589,cheezywhiz,Solitude Mountain,4.0
-1590,ryan,Montage Mountain,3.0
-1591,johnny alonso,Whitetail,5.0
-1592,loricipheran,Alpine Valley Ohio,2.0
-1593,Seth Christopher Bjorkman,Mt. Snow,4.0
-1594,ParkLife,Copper Mountain,5.0
-1595,ParkLife,Sunday River,5.0
-1596,skigenome57,Sunday River,4.0
-1597,skigenome57,Sugarbush,5.0
-1598,Evan Wright,Devils Head,5.0
-1599,loricipheran,Boston Mills and Brandywine,3.0
-1600,loricipheran,Boston Mills and Brandywine,4.0
-1601,skigenome57,Wachusett Mountain,4.0
-1602,Brian K Palmer,Mt. Bachelor,5.0
-1603,Brian K Palmer,Heavenly Mountain,5.0
-1604,Brian K Palmer,Park City Mountain,5.0
-1605,Brian K Palmer,Brian Head,5.0
-1606,Brian K Palmer,Lee Canyon,2.0
-1607,flyingrabbit,Whiteface Mountain,5.0
-1608,loricipheran,Peekn Peak,4.0
-1609,chris  Bjornmose,Dodge Ridge,4.0
-1610,loricipheran,Nubs Nob,5.0
-1611,chris  Bjornmose,Dodge Ridge,4.0
-1612,keneikirk,Shawnee Mountain,3.0
-1613,A. cooper,Mt. Bohemia,5.0
-1614,Daniel Morris,Summit at Snoqualmie,4.0
-1615,treesker,Big Bear,1.0
-1616,chris  Bjornmose,Dodge Ridge,4.0
-1617,Quinn,Bear Creek Mountain,5.0
-1618,ryannw,49 Degrees North,3.0
-1619,ryannw,Lookout Pass,4.0
-1620,ryannw,Schweitzer,4.0
-1621,Devon Marques,Jiminy Peak,4.0
-1622,Jack Frost,Ski Beech Mountain,4.0
-1623,mrcompgov,Crotched Mountain,5.0
-1624,Dave O,Timberline Mountain,4.0
-1625,purplebunyz,Okemo Mountain,4.0
-1626,Tahsha LePage,Devils Head,5.0
-1627,Tahsha LePage,Whitecap Mountain,3.0
-1628,thowes,Ragged Mountain,5.0
-1629,thowes,Gunstock,3.0
-1630,thowes,Crotched Mountain,5.0
-1631,gma,Arizona Snowbowl,3.0
-1632,Tahsha LePage,Nordic Mountain,3.0
-1633,Tahsha LePage,Tyrol Basin,2.0
-1634,Dedmond,Arapahoe Basin,3.0
-1635,Dedmond,Loveland,5.0
-1636,J Berlo,Nubs Nob,5.0
-1637,Evan Wright,Alpine Valley Wisconsin,4.0
-1638,George P,Sugarloaf,5.0
-1639,George P,Greek Peak,4.0
-1640,Tahsha LePage,Granite Peak,5.0
-1641,loricipheran,Schuss Mountain,4.0
-1642,Seth Christopher Bjorkman,Jiminy Peak,5.0
-1643,we3ski,Big Powderhorn Mountain,3.0
-1644,Helenbry,Ski Brule,5.0
-1645,Helenbry,Ski Brule,5.0
-1646,Helenbry,Ski Brule,5.0
-1647,Ray Baucum,Camelback Mountain,5.0
-1648,beachbumltj,Timberline Mountain,4.0
-1649,Kase1,Sugarbush,4.0
-1650,andy D,Liberty,4.0
-1651,Greg morell,Mt. Abram Ski,4.0
-1652,Ktown,Killington,5.0
-1653,Lori Kushar,Snowriver Mountain Resort,5.0
-1654,BSbost,Deer Valley,5.0
-1655,Ktown,Loveland,3.0
-1656,stuck_in_614,Boston Mills and Brandywine,1.0
-1657,Alan M,Bretton Woods,5.0
-1658,Jackson,Jackson Hole,5.0
-1659,Ktown,Caberfae Peaks Ski Golf,3.0
-1660,loricipheran,Gore Mountain,4.0
-1661,loricipheran,Pomerelle Mountain,4.0
-1662,Alan M,Stowe Mountain,5.0
-1663,Dave O,Liberty,3.0
-1664,Evan O'Connell,Keystone,4.0
-1665,Ktown,Pico Mountain,4.0
-1666,Henry Hartley,Cranmore Mountain,5.0
-1667,Stan,Schweitzer,5.0
-1668,R Lee Stump,Stowe Mountain,5.0
-1669,R Lee Stump,Killington,5.0
-1670,stuck_in_614,Snow Trails,2.0
-1671,alex,Hyland Ski,4.0
-1672,andy D,Wisp,4.0
-1673,Gary,Boyne Mountain,5.0
-1674,Henry Hartley,King Pine,4.0
-1675,Henry Hartley,King Pine,4.0
-1676,Mark Fortin,Alpine Valley Wisconsin,4.0
-1677,Mark Fortin,Cascade Mountain,5.0
-1678,Mark Fortin,Grand Geneva,2.0
-1679,Mark Fortin,Ski Brule,5.0
-1680,Evan O'Connell,Crested Butte Mountain,5.0
-1681,Garrett Serwatka,Blue Mountain,3.0
-1682,Garrett Serwatka,Elk Mountain Ski,5.0
-1683,Garrett Serwatka,Shawnee Mountain,4.0
-1684,Jackson,Jay Peak,4.0
-1685,Jackson,Montage Mountain,4.0
-1686,Jackson,Elk Mountain Ski,4.0
-1687,Mark Fortin,Whitecap Mountain,4.0
-1688,otgoal21,Cataloochee,3.0
-1689,gma,Woodbury,2.0
-1690,gma,Woodbury,2.0
-1691,Alan M,Shawnee Mountain,4.0
-1692,Tremblay,Sugarbush,3.0
-1693,beachbumltj,Keystone,4.0
-1694,Dave Varney,Big Sky,5.0
-1695,tom travis,Roundtop Mountain,3.0
-1696,tom travis,Whitetail,4.0
-1697,RidersProject,Snowbird,4.0
-1698,loricipheran,Kissing Bridge,4.0
-1699,swetsb,Killington,4.0
-1700,swetsb,Ski Sundown,3.0
-1701,Doug,Snow Creek,4.0
-1702,Dave O,Roundtop Mountain,4.0
-1703,eewdad,Cannon Mountain,2.0
-1704,eewdad,Gunstock,3.0
-1705,Evan Wright,Chestnut Mountain,5.0
-1706,skigenome57,Mt. Snow,3.0
-1707,Les,Palisades Tahoe,4.0
-1708,Les,Sugar Bowl,4.0
-1709,Evan O'Connell,Arapahoe Basin,5.0
-1710,R Lee Stump,Winter Park,5.0
-1711,RidersProject,Park City Mountain,4.0
-1712,Vicente Pinaula,Bear Creek Mountain,4.0
-1713,Vicente Pinaula,Spring Mountain,2.0
-1714,andy D,Snowshoe Mountain,5.0
-1715,beachbumltj,Sugarloaf,4.0
-1716,Vicente Pinaula,Elk Mountain Ski,4.0
-1717,Jeff Graham,Liberty,3.0
-1718,Jeff Graham,Roundtop Mountain,3.0
-1719,Jeff Graham,Whitetail,3.0
-1720,Ross Bretherton,Alpental,4.0
-1721,Ross Bretherton,Crystal Mountain Washington,5.0
-1722,skigenome57,Okemo Mountain,3.0
-1723,johnny alonso,Big Bear,5.0
-1724,smezhir,Beaver Creek,5.0
-1725,Al Cipparone,Wisp,4.0
-1726,gma,Belleayre,3.0
-1727,beachbumltj,Arapahoe Basin,5.0
-1728,gma,Plattekill Mountain,5.0
-1729,Kase1,Killington,3.0
-1730,Ross Bretherton,Stevens Pass,4.0
-1731,SGTDBP,Sunday River,5.0
-1732,Jonathan,Waterville Valley,4.0
-1733,Karver,Mountain Creek,2.0
-1734,Karver,Mt. Peter,3.0
-1735,Nick Franchino,Alta,5.0
-1736,Nick Franchino,Paoli Peaks,4.0
-1737,Nick Franchino,Perfect North Slopes,3.0
-1738,Ross Bretherton,Summit at Snoqualmie,2.0
-1739,Nick Franchino,Snowbird,4.0
-1740,Nick Franchino,Brighton,4.0
-1741,Nick Franchino,Solitude Mountain,4.0
-1742,govey80,Vail,4.0
-1743,Greg morell,Black Mountain,4.0
-1744,lumaye64,Ski Brule,5.0
-1745,spack,Elk Mountain Ski,4.0
-1746,Amber,Ski Brule,5.0
-1747,johnny alonso,Mountain High,5.0
-1749,ryanscottmac,Belleayre,5.0
-1750,slcrazy00,Ski Brule,5.0
-1751,Tremblay,Arapahoe Basin,4.0
-1752,Tremblay,Vail,5.0
-1753,Tremblay,Beaver Creek,2.0
-1754,Erik Szayna,Palisades Tahoe,5.0
-1755,Erik Szayna,Mammoth Mountain,5.0
-1756,Tremblay,Copper Mountain,4.0
-1757,Tremblay,Breckenridge,4.0
-1758,Evan Wright,Wilmot Mountain,3.0
-1759,Pierre,Nubs Nob,4.0
-1760,Pierre,Boyne Highlands,3.0
-1761,Pierre,Mt. Holly,4.0
-1762,skylolow,Mt. Bohemia,5.0
-1763,Tremblay,Alta,5.0
-1764,Tremblay,Snowbasin,5.0
-1765,Karver,Heavenly Mountain,5.0
-1766,Vicente Pinaula,Camelback Mountain,4.0
-1767,Charles Hallett,Alpental,3.0
-1768,Charles Hallett,Snowbasin,5.0
-1769,Charles Hallett,Brundage Mountain,4.0
-1770,Charles Hallett,Crystal Mountain Washington,4.0
-1771,Tremblay,Keystone,4.0
-1772,skigenome57,Killington,5.0
-1773,WilleA,Gunstock,4.0
-1774,cody hamlin,Sugarbush,5.0
-1775,cody hamlin,Sugarbush,5.0
-1776,gma,Pico Mountain,3.0
-1777,medford_mike,Crotched Mountain,3.0
-1778,Danny Zhang,Cannon Mountain,5.0
-1779,Danny Zhang,Wachusett Mountain,3.0
-1781,shaun,Peekn Peak,5.0
-1782,Keith,Loon Mountain,5.0
-1783,Three2Ski,Jay Peak,2.0
-1784,we3ski,Snowriver Mountain Resort,5.0
-1785,we3ski,Snowriver Mountain Resort,5.0
-1786,Dave O,Liberty,3.0
-1787,Stan,Red River,4.0
-1788,Tj 1,Montage Mountain,4.0
-1789,David Moores,Cannon Mountain,5.0
-1790,jessoe123,Jiminy Peak,5.0
-1791,jessoe123,Bousquet,3.0
-1792,jessoe123,Bousquet,3.0
-1793,David Moores,Bretton Woods,1.0
-1794,David Moores,Attitash,5.0
-1795,David Moores,King Pine,4.0
-1796,thesnowboarder,Burke Mountain,3.0
-1797,Jack Frost,Ski Beech Mountain,5.0
-1798,Jeff Graham,Wisp,3.0
-1799,jessepollock,Cascade Mountain,4.0
-1800,jessepollock,Tyrol Basin,3.0
-1801,SkiGirlie,Heavenly Mountain,5.0
-1802,SkiGirlie,Big Powderhorn Mountain,5.0
-1803,SkiGirlie,Bittersweet,3.0
-1804,CTskinerd,Jiminy Peak,5.0
-1805,CTskinerd,Catamount Ski Ride Area,3.0
-1806,CTskinerd,Berkshire East,3.0
-1807,CTskinerd,Sugarbush,4.0
-1808,CTskinerd,Stratton Mountain,5.0
-1809,CTskinerd,Bousquet,2.0
-1810,CTskinerd,Mohawk Mountain,4.0
-1811,CTskinerd,Ski Sundown,4.0
-1812,gma,Saskadena Six,4.0
-1813,CTskinerd,Mt. Southington,2.0
-1814,Daniel Morris,Mission Ridge,4.0
-1815,dave figenshu,Jack Frost,5.0
-1816,Nick Franchino,Wisp,5.0
-1817,iceskier,Stowe Mountain,4.0
-1818,iceskier,Smugglers' Notch,3.0
-1819,iceskier,Whiteface Mountain,5.0
-1820,iceskier,Blue Mountain,4.0
-1821,iceskier,Shawnee Mountain,2.0
-1822,curbdog,Mountain Creek,3.0
-1823,curbdog,Blue Mountain,4.0
-1824,curbdog,Jack Frost,3.0
-1825,Mike134,Snowriver Mountain Resort,5.0
-1826,gma,Burke Mountain,4.0
-1827,Dave O,Timberline Mountain,4.0
-1828,Tremblay,Jay Peak,3.0
-1829,nanaandpapa,Granite Peak,4.0
-1830,nanaandpapa,Big Powderhorn Mountain,5.0
-1831,runner/skier,Sunday River,4.0
-1832,jaynjay21,Killington,4.0
-1833,jaynjay21,Mt. Snow,3.0
-1834,jaynjay21,Ski Sundown,3.0
-1835,Dave Varney,Cannon Mountain,5.0
-1836,Dave Varney,Bretton Woods,3.0
-1837, Merry's,Wolf Creek,4.0
-1838, Merry's,Winter Park,5.0
-1839,JonIngalls,Lookout Pass,5.0
-1840,Erik Szayna,Big Bear,4.0
-1841,sampanning,Vail,4.0
-1842,beachbumltj,Winter Park,5.0
-1843,Snowboarder2424,Song Mountain,4.0
-1844,Snowboarder2424,Whiteface Mountain,5.0
-1845,Snowboarder2424,Toggenburg Mountain,2.0
-1846,Al Cipparone,Okemo Mountain,5.0
-1847,Al Cipparone,Ski Butternut,3.0
-1848,Snowboarder2424,Bristol Mountain,4.0
-1849,Tj 1,Elk Mountain Ski,3.0
-1850,Tj 1,Ski Sawmill,2.0
-1851,Tj 1,Windham Mountain,4.0
-1852,Dave O,Breckenridge,5.0
-1853,Drake,Boston Mills and Brandywine,2.0
-1854,Brian Campbell,Solitude Mountain,5.0
-1855,Brian Campbell,Deer Valley,5.0
-1856,Brian Campbell,Park City Mountain,5.0
-1857,Brian Campbell,Vail,5.0
-1858,Brian Campbell,Solitude Mountain,5.0
-1859,Clay King,Wolf Creek,2.0
-1860,Clay King,Winter Park,5.0
-1861,Clay King,Loveland,3.0
-1862,Clay King,Keystone,4.0
-1863,Clay King,Angel Fire,4.0
-1864,Clay King,Ski Santa Fe,2.0
-1865,Clay King,Pajarito Mountain,4.0
-1866,Clay King,Sipapu Ski and Summer,3.0
-1867,Clay King,Ski Cooper,3.0
-1868,Clay King,Vail,5.0
-1869,Clay King,Sandia Peak,2.0
-1870,Mark Gerardy,Copper Mountain,4.0
-1871,Mark Gerardy,Breckenridge,5.0
-1872,Mark Gerardy,Winter Park,3.0
-1873,Mark Gerardy,Arapahoe Basin,3.0
-1874,Mark Gerardy,Vail,2.0
-1875,Mark Gerardy,Vail,2.0
-1876,Mark Gerardy,Beaver Creek,5.0
-1877,Mark Gerardy,Keystone,4.0
-1878,Drake,Holiday Valley,5.0
-1879,Clay King,Copper Mountain,3.0
-1880,Clay King,Arapahoe Basin,5.0
-1881,Lorenzo A,Camelback Mountain,4.0
-1882,Lorenzo A,Killington,5.0
-1883,Lorenzo A,Liberty,2.0
-1884,Lorenzo A,Whitetail,3.0
-1885,Elliot Green,Whitefish Mountain,4.0
-1886,jessepollock,Snowriver Mountain Resort,4.0
-1887,jessepollock,Cascade Mountain,4.0
-1888,jessepollock,Devils Head,4.0
-1889,andrew Harris,Liberty,3.0
-1890,andrew Harris,Cannon Mountain,4.0
-1891,andrew Harris,Killington,5.0
-1892,Ross Bretherton,Summit at Snoqualmie,3.0
-1893,Mark Gerardy,Wolf Creek,4.0
-1894,M,Bristol Mountain,5.0
-1895,Tahsha LePage,Ski Brule,3.0
-1896,Nick Park,Snowbird,5.0
-1897,Nick Park,Stowe Mountain,4.0
-1898,Nick Park,Snowshoe Mountain,4.0
-1899,Justin Howell,Big Sky,5.0
-1900,Clay King,Alta,5.0
-1901,Clay King,Snowbasin,5.0
-1902,Clay King,Park City Mountain,3.0
-1903,SkiForFree,Mt. Baldy,4.0
-1904,Three2Ski,Wachusett Mountain,3.0
-1905,Dave O,Timberline Mountain,2.0
-1906,SkiForFree,Mountain High,4.0
-1907,SkiForFree,Snow Valley,4.0
-1908,Dave O,Blue Mountain,2.0
-1909,Evan Wright,Cascade Mountain,4.0
-1910,jaynjay21,Killington,4.0
-1911,jaynjay21,Ski Sundown,4.0
-1912,slcrazy00,Ski Brule,5.0
-1913,Tahsha LePage,Devils Head,5.0
-1914,Elliot Green,Jackson Hole,4.0
-1915,Elliot Green,Snow King,3.0
-1916,Dave O,Liberty,3.0
-1917,Tommy T,Snowbird,5.0
-1918,Mark Gerardy,Silverton Mountain,4.0
-1919,Jason Buchta,Red River,1.0
-1920,nastarfan,Pine Mountain,5.0
-1922,Vance Boyer,Sun Valley,5.0
-1923,Les,Winterplace Ski,2.0
-1924,Alan M,Okemo Mountain,5.0
-1925,cane700,Alpine Valley Wisconsin,4.0
-1926,Jason Buchta,Angel Fire,4.0
-1927,Bill  Rymer,Brian Head,4.0
-1928,Alan M,Mohawk Mountain,4.0
-1929,Jason Buchta,Pajarito Mountain,5.0
-1930,rocketal,Holimont,4.0
-1931,Tommy T,Snowbird,4.0
-1932,Joseph O'Brien,Killington,3.0
-1933,Joseph O'Brien,Killington,3.0
-1934,Tommy T,Snowbird,5.0
-1935,Devon Marques,Jiminy Peak,4.0
-1936,Devon Marques,Gore Mountain,5.0
-1937,Devon Marques,Ski Butternut,3.0
-1938,sewardhorner,Bittersweet,4.0
-1939,Joseph O'Brien,Killington,4.0
-1940,SkiForFree,Mammoth Mountain,4.0
-1941,rbericson,Kirkwood,4.0
-1942,rbericson,Northstar California,4.0
-1943,rbericson,Heavenly Mountain,4.0
-1944,Dave O,Roundtop Mountain,3.0
-1946,skier11,Snowriver Mountain Resort,5.0
-1947,skier11,Granite Peak,5.0
-1948,skier11,Cascade Mountain,5.0
-1949,Joseph O'Brien,Killington,4.0
-1950,Dave O,Liberty,2.0
-1951,Jase,Silver Mountain,5.0
-1952,Les,Big Sky,5.0
-1953,runner/skier,Alta,5.0
-1954,Adye 1,Mt. Bohemia,5.0
-1955,runner/skier,Park City Mountain,5.0
-1956,tom,Labrador Mt.,5.0
-1957,Dave O,Roundtop Mountain,3.0
-1958,tom,Toggenburg Mountain,4.0
-1959,tom,Song Mountain,4.0
-1960,Benjamin Sawyer,Monarch Mountain,3.0
-1961,Benjamin Sawyer,Vail,5.0
-1962,Benjamin Sawyer,Keystone,5.0
-1963,Benjamin Sawyer,Eldora Mountain,5.0
-1964,Al Cipparone,Stowe Mountain,5.0
-1965,Al Cipparone,Smugglers' Notch,4.0
-1966,shaun,Whitefish Mountain,5.0
-1967,shaun,Whitefish Mountain,5.0
-1968,shaun,Okemo Mountain,5.0
-1969,shaun,Okemo Mountain,5.0
-1970,spack,Stowe Mountain,5.0
-1971,Bill Deaton,Montage Mountain,3.0
-1972,C,Elk Mountain Ski,3.0
-1973,nanaandpapa,Snowriver Mountain Resort,3.0
-1974,nanaandpapa,Big Powderhorn Mountain,5.0
-1975,papi6022,Park City Mountain,5.0
-1976,Alan M,Red River,4.0
-1977,Bill Deaton,Mad River Glen,5.0
-1978,Jason Buchta,Sipapu Ski and Summer,3.0
-1979,cody hamlin,Breckenridge,4.0
-1980,sklein,Bogus Basin,4.0
-1981,sklein,Pomerelle Mountain,5.0
-1982,sklein,Soldier Mountain,1.0
-1983,AltSchneemann,Bryce,4.0
-1984,AltSchneemann,Bryce,4.0
-1985,AltSchneemann,Massanutten,3.0
-1986,AltSchneemann,Wintergreen,2.0
-1987, Merry's,Deer Valley,4.0
-1988,wedge2edge,Catamount Ski Ride Area,4.0
-1989,wedge2edge,Mohawk Mountain,4.0
-1990,Eis_geist,Boston Mills and Brandywine,1.0
-1991,Eis_geist,Snow Trails,5.0
-1992,MNSkier97,Welch Village,4.0
-1993,MNSkier97,Wild Mountain Ski,5.0
-1994,MNSkier97,Trollhaugen,4.0
-1995,MNSkier97,Lutsen Mountains,5.0
-1996,MNSkier97,Giants Ridge,3.0
-1997,MNSkier97,Buck Hill,3.0
-1998,MNSkier97,Afton Alps,4.0
-1999,MNSkier97,Spirit Mountain,4.0
-2000,spack,Bear Creek Mountain,4.0
-2001,oneesnow,Bolton Valley,5.0
-2002,oneesnow,Jay Peak,5.0
-2003,oneesnow,Mad River Glen,5.0
-2004,DaveO,Wolf Creek,5.0
-2005,DaveO,Vail,2.0
-2006,kjack,Snowbird,5.0
-2007,kjack,Mt. Bachelor,4.0
-2008,kjack,Beaver Creek,5.0
-2009,kjack,Keystone,4.0
-2010,village idiots,Jack Frost,2.0
-2011,Verdi DiSesa,Palisades Tahoe,5.0
-2012,Verdi DiSesa,Camelback Mountain,3.0
-2013,Verdi DiSesa,Elk Mountain Ski,4.0
-2014,Verdi DiSesa,Jack Frost,3.0
-2015,lumaye64,Ski Brule,5.0
-2016,slcrazy00,Ski Brule,5.0
-2017,Tommy T,Sundance,4.0
-2018,Drake,Mt. Snow,5.0
-2019,Jase,Stevens Pass,2.0
-2021,johnny alonso,Bear Mountain,5.0
-2022,RatherBeSkiing,Killington,3.0
-2023,RatherBeSkiing,Pico Mountain,4.0
-2024,RatherBeSkiing,Okemo Mountain,4.0
-2025,Anelizk88,Sandia Peak,2.0
-2026,Fauster,Snowshoe Mountain,4.0
-2027,RatherBeSkiing,Windham Mountain,3.0
-2028,Brian Sloane,Blue Mountain,4.0
-2029,Brian Sloane,Camelback Mountain,4.0
-2030,Brian Sloane,Elk Mountain Ski,4.0
-2031,Brian Sloane,Jack Frost,4.0
-2032,Evan Wright,Grand Geneva,3.0
-2033,Mike Barrett,Lost Trail Powder Mountain,5.0
-2034,Anelizk88,Purgatory Mountain,5.0
-2035,Anelizk88,Ski Santa Fe,5.0
-2037,tjkotula,Arapahoe Basin,4.0
-2038,tjkotula,Keystone,4.0
-2039,vadoc,Wisp,4.0
-2040,sledbred,Alta,5.0
-2041,sledbred,Snowbird,5.0
-2042,sledbred,Brighton,4.0
-2043,sledbred,Solitude Mountain,4.0
-2044,sledbred,Deer Valley,4.0
-2045,sledbred,Park City Mountain,3.0
-2046,sledbred,Jackson Hole,5.0
-2047,sledbred,Big Sky,5.0
-2048,ctdiver,Killington,5.0
-2049,ctdiver,Mohawk Mountain,4.0
-2050,ctdiver,Ski Sundown,4.0
-2051,tjkotula,Vail,3.0
-2052,docmenach,Boreal,4.0
-2053,docmenach,Palisades Tahoe,3.0
-2054,douglas,Mt. Baker,5.0
-2055,douglas,Mt. Bachelor,5.0
-2056,douglas,Crystal Mountain Washington,4.0
-2057,douglas,Summit at Snoqualmie,4.0
-2058,douglas,Mission Ridge,3.0
-2059,skiwithkids,Big Powderhorn Mountain,5.0
-2060,skiwithkids,Big Powderhorn Mountain,5.0
-2061,OnEdge,Titus Mountain,5.0
-2062,OnEdge,Whiteface Mountain,4.0
-2063,OnEdge,Dry Hill,1.0
-2064,OnEdge,Snow Ridge,5.0
-2065,Lori Kushar,Snowriver Mountain Resort,5.0
-2066,Anelizk88,Angel Fire,3.0
-2067,skinomad,Breckenridge,5.0
-2068,tjkotula,Breckenridge,4.0
-2069,wedge2edge,Hunter Mountain,1.0
-2070,Dexter,Blue Knob,4.0
-2071,docmenach,Mt. Shasta Board Ski Park,4.0
-2072,Alan M,Taos Ski Valley,5.0
-2073,Alan M,Ski Santa Fe,4.0
-2074,Alan M,Red River,4.0
-2075,Gary,Boyne Mountain,4.0
-2076,rocketal,Mountain Creek,3.0
-2077,rocketal,Killington,4.0
-2078,rocketal,Peekn Peak,2.0
-2079,village idiots,Mountain Creek,4.0
-2080,village idiots,Montage Mountain,4.0
-2081,village idiots,Elk Mountain Ski,4.0
-2082,village idiots,Jack Frost,1.0
-2083,village idiots,Shawnee Mountain,1.0
-2084,tandmkirk,Nubs Nob,5.0
-2085,village idiots,Blue Mountain,4.0
-2086,village idiots,Big Boulder,1.0
-2087,40yrskibum,Breckenridge,3.0
-2088,40yrskibum,Copper Mountain,4.0
-2089,village idiots,Killington,5.0
-2090,D.S.,Mammoth Mountain,4.0
-2091,D.S.,Snowbird,4.0
-2092,D.S.,Timberline Lodge,4.0
-2093,Eis_geist,Alpine Valley Ohio,1.0
-2094,40yrskibum,Loveland,5.0
-2095,AltSchneemann,Ragged Mountain,4.0
-2096,tjkotula,Boyne Mountain,4.0
-2097,tjkotula,Nubs Nob,4.0
-2098,tjkotula,Boyne Highlands,3.0
-2099,papi6022,Aspen Snowmass,5.0
-2101,Abe Gold,Jackson Hole,5.0
-2102,Robert Oliver,Jack Frost,5.0
-2103,Matt McAuley,Alpental,3.0
-2104,Matt McAuley,Crystal Mountain Washington,5.0
-2105,Matt McAuley,Stevens Pass,4.0
-2106,Matt McAuley,Summit at Snoqualmie,1.0
-2108,Ray Baucum,Blue Mountain,3.0
-2109,Doug,Deer Valley,5.0
-2110,newsance,Wolf Creek,5.0
-2111,Dexter,Whitetail,4.0
-2112,Richard B,Berkshire East,4.0
-2113,Ray Baucum,Jack Frost,4.0
-2114,Ray Baucum,Montage Mountain,4.0
-2115,Ray Baucum,Elk Mountain Ski,5.0
-2116,Miyah and Keira Washington,Ski Brule,5.0
-2117,Scott Dillman,Gore Mountain,5.0
-2118,Jacob,Ski Brule,5.0
-2119,Nichole,Ski Brule,5.0
-2120,Wendy,Ski Brule,5.0
-2121,Nancy,Ski Brule,4.0
-2122,Ron,Sugar Mountain,4.0
-2123,Randy,Ski Brule,5.0
-2126,Annah Kim,Loon Mountain,4.0
-2127,Greg Smith,Monarch Mountain,5.0
-2128,Clayton,Ski Brule,5.0
-2129,Lou,Ski Brule,5.0
-2130,Karl,Ski Brule,5.0
-2131,Kris,Ski Brule,4.0
-2132,Annah Kim,Killington,3.0
-2133,Dexter,Liberty,3.0
-2134,Clayton,Ski Brule,4.0
-2135,JJ,Ski Brule,4.0
-2138,Stan,Breckenridge,5.0
-2139,Gary,Ski Brule,5.0
-2140,Quinn,Mt. Snow,4.0
-2141,Dylan,Palisades Tahoe,3.0
-2143,Carol,Eldora Mountain,4.0
-2144,ann phelan,Shawnee Mountain,4.0
-2145,Annah Kim,Cranmore Mountain,5.0
-2146,JonIngalls,Lookout Pass,5.0
-2147,village idiots,Camelback Mountain,1.0
-2148,village idiots,Camelback Mountain,1.0
-2149,ann phelan,Crotched Mountain,5.0
-2150,Dylan,Killington,5.0
-2151,T LAFRANCE,Gore Mountain,5.0
-2153,Bill  Rymer,Canaan Valley,4.0
-2154,Bill  Rymer,Canaan Valley,4.0
-2155,Rod,Keystone,2.0
-2156,Morgan,Tamarack,5.0
-2157,village idiots,Okemo Mountain,3.0
-2158,Carrie,Ski Brule,5.0
-2159,Chad,Ski Brule,5.0
-2160,ann phelan,Killington,4.0
-2161,Charles,Angel Fire,5.0
-2164,Doug,Granite Peak,4.0
-2166,Karl,Bogus Basin,3.0
-2168,ChoochCharlie,Bear Creek Mountain,5.0
-2169,ChoochCharlie,Bear Creek Mountain,5.0
-2170,falisethebeast,Song Mountain,3.0
-2171,falisethebeast,Bristol Mountain,4.0
-2172,falisethebeast,Labrador Mt.,3.0
-2174,ski bum,Mt. Rose Ski Tahoe,4.0
-2175,william c,Mt. Brighton,4.0
-2176,lname,Snowshoe Mountain,4.0
-2177,skipoint0,Gore Mountain,5.0
-2179,dillonhudson13,Palisades Tahoe,4.0
-2180,Chris Comer,Red River,4.0
-2181,Ryan Craig,Bristol Mountain,4.0
-2182,Ryan Craig,Caberfae Peaks Ski Golf,3.0
-2183,Dylan,Ski Brule,5.0
-2184,Jane,Ski Brule,5.0
-2185,Keith,Ski Brule,4.0
-2186,Morgan,Ski Brule,4.0
-2189,tride,Sunrise Park,3.0
-2191,jccultrona,Alpine Valley Ohio,4.0
-2192,jccultrona,Alpine Valley Ohio,4.0
-2193,M,Ski China Peak,3.0
-2198,tride,Sunrise Park,3.0
-2200,tride,Sunrise Park,3.0
-2201,tride,Sunrise Park,3.0
-2202,lubbockroots,Wolf Creek,5.0
-2204,ostromsean,Bristol Mountain,5.0
-2205,jloloughlin2,Boyne Mountain,4.0
-2206,jloloughlin2,Mt. Brighton,3.0
-2207,jloloughlin2,Mt. Holly,4.0
-2208,ostromsean,Bristol Mountain,5.0
-2209,C,Catamount Ski Ride Area,5.0
-2211,horse,Telluride,5.0
-2212,colin,Elk Mountain Ski,4.0
-2213,jccultrona,Peekn Peak,5.0
-2215,colin,Camelback Mountain,4.0
-2216,colin,Shawnee Mountain,4.0
-2217,lukedborg,Lutsen Mountains,5.0
-2218,John Martin,Nubs Nob,3.0
-2219,John Martin,Boyne Highlands,5.0
-2220,lukedborg,Lutsen Mountains,5.0
-2223,ostromsean,Bristol Mountain,5.0
-2224,Ryan Craig,Winter Park,3.0
-2225,Ryan Craig,Arapahoe Basin,4.0
-2226,Ryan Craig,Loveland,3.0
-2227,JP,Silverton Mountain,4.0
-2228,lukedborg,Wild Mountain Ski,1.0
-2229,lukedborg,Wild Mountain Ski,1.0
-2230,skipoint0,Gore Mountain,5.0
-2231,skipoint0,West Mountain,2.0
-2232,J,Catamount Ski Ride Area,5.0
-2233,J,Catamount Ski Ride Area,5.0
-2234,Eric's iPhone,Mammoth Mountain,5.0
-2236,Lou,Wolf Ridge Ski,3.0
-2237,Lou,Wolf Ridge Ski,3.0
-2238,Robert Oliver,Blue Mountain,4.0
-2239,Robert Oliver,Elk Mountain Ski,4.0
-2240,Robert Oliver,Jack Frost,4.0
-2241,Robert Oliver,Shawnee Mountain,3.0
-2242,dillonhudson13,Diamond Peak,1.0
-2243,Snowboarder,Stratton Mountain,5.0
-2246,Troy,Loveland,5.0
-2247,skipoint0,West Mountain,2.0
-2248,skipoint0,West Mountain,2.0
-2249,ann phelan,Sunday River,5.0
-2250,Lynn Qu,White Pass,5.0
-2251,papi6022,Killington,5.0
-2252,Skibumm,Killington,5.0
-2254,jdayneyesq,Killington,4.0
-2256,Skibumm,Killington,4.0
-2257,dillonhudson13,Palisades Tahoe,4.0
-2258,Troy,Wolf Creek,4.0
-2259,Troy,Vail,5.0
-2260,Rod,Loveland,4.0
-2261,Rod,Loveland,4.0
-2262,Ron,Ragged Mountain,4.0
-2263,jdayneyesq,Okemo Mountain,4.0
-2264,skipoint0,Gore Mountain,5.0
-2269,Nancy,Mt. Baker,5.0
-2270,H Muns,Bruce Mound,4.0
-2271,H Muns,Bruce Mound,4.0
-2272,Ian,Alta,5.0
-2273,Mathieu Greenwood,Liberty,1.0
-2274,Mathieu Greenwood,Wisp,1.0
-2275,Mathieu Greenwood,Canaan Valley,5.0
-2276,Tyler 1,Whiteface Mountain,5.0
-2277,iPhone (3),Mt. Hood Meadows,5.0
-2278,lubbockroots,Ski Santa Fe,5.0
-2280,tatyana drakhlis,Mt. Hood Meadows,5.0
-2281,tatyana drakhlis,Mt. Hood Skibowl,2.0
-2282,tatyana drakhlis,Mt. Hood Skibowl,2.0
-2287,Randy,Mt. Bachelor,4.0
-2289,Tyler 1,Greek Peak,3.0
-2290,Tyler 1,Labrador Mt.,4.0
-2293,DaveO,Beaver Creek,1.0
-2294,Skibumm,Whitetail,3.0
-2295,Jane,Big Sky,5.0
-2296,ann phelan,Crotched Mountain,4.0
-2297,william c,Mt. Brighton,4.0
-2298,william c,Mt. Brighton,4.0
-2299,Carol,Purgatory Mountain,3.0
-2301,larsagren,Alta,4.0
-2302,larsagren,Snowbird,4.0
-2303,larsagren,Brighton,5.0
-2304,Randy,Alta,1.0
-2305,Randy,Mt. Bachelor,5.0
-2308,T LAFRANCE,Gore Mountain,5.0
-2309,iPhone (3),Devils Head,3.0
-2310,kenneth morris,Stowe Mountain,3.0
-2311,dillonhudson13,Palisades Tahoe,2.0
-2313,Bobo Me,Snowbird,4.0
-2314,Tyler 1,Song Mountain,4.0
-2315,Quinn,Bromley Mountain,5.0
-2316,Ryan Craig,Solitude Mountain,3.0
-2317,Ryan Craig,Powder Mountain,5.0
-2318,alex,Ski Brule,5.0
-2319,lubbockroots,Ski Santa Fe,5.0
-2320,Lynn Qu,White Pass,5.0
-2321,kenneth morris,Smugglers' Notch,4.0
-2322,Chris Comer,Red River,4.0
-2325,ann phelan,Wildcat Mountain,5.0
-2326,Clayton,Granite Peak,4.0
-2328,ann phelan,Attitash,5.0
-2329,John Barber,Hogadon,5.0
-2330,John Barber,Hogadon,5.0
-2331,John Barber,Hogadon,5.0
-2332,M,Titus Mountain,2.0
-2333,Nancy D.,Hunter Mountain,1.0
-2335,Nancy D.,Hunter Mountain,1.0
-2336,Nancy D.,Hunter Mountain,1.0
-2338,Nancy D.,Hunter Mountain,1.0
-2339,John Barber,Hogadon,5.0
-2340,Prawn,Palisades Tahoe,1.0
-2341,ianmilesdoyle,Bluewood,3.0
-2342,ianmilesdoyle,Bluewood,3.0
-2343,ianmilesdoyle,Bluewood,3.0
-2344,Ryan Craig,Schuss Mountain,2.0
-2345,Ryan Craig,Mt. Bohemia,5.0
-2346,Carol,Ski Brule,5.0
-2347,Michael Beck,Ski Brule,5.0
-2348,Michael Beck,Ski Brule,5.0
-2349,Tani Lucht,Ski Brule,5.0
-2351,Isabella  Hankins,Ski Brule,5.0
-2352,Isabella  Hankins,Ski Brule,5.0
-2353,Isabella  Hankins,Ski Brule,5.0
-2354,lname,Snowbird,1.0
-2355,jdayneyesq,Snowshoe Mountain,4.0
-2358,Bobo Me,Stratton Mountain,4.0
-2360,Cole Dumas,Wachusett Mountain,3.0
-2361,Cole Dumas,Sugarloaf,5.0
-2364,Cole Dumas,Sugarloaf,5.0
-2365,Jonathan,Spirit Mountain,5.0
-2366,Prawn,Kirkwood,3.0
-2367,Greg Smith,Donner Ski Ranch,4.0
-2369,Carrie,Donner Ski Ranch,5.0
-2370,Chad,Donner Ski Ranch,4.0
-2371,Bobo Me,Alta,3.0
-2372,Bobo Me,Snowbird,5.0
-2373,Bobo Me,Telluride,5.0
-2375,Snowboarder,Cannonsburg,5.0
-2376,Prawn,Snowbasin,5.0
-2377,iPhone (3),Sunday River,3.0
-2378,Chris Comer,Red River,4.0
-2379,ryan,Bridger Bowl,1.0
-2380,ann phelan,Bretton Woods,4.0
-2381,Elizabeth,Sierra at Tahoe,5.0
-2385,marsharn,Nubs Nob,5.0
-2386,marsharn,Boyne Highlands,2.0
-2387,marsharn,Perfect North Slopes,4.0
-2388,lname,Wachusett Mountain,4.0
-2389,radtkej08,Spring Mountain,5.0
-2391,local skier,Cannonsburg,2.0
-2392,local skier,Cannonsburg,2.0
-2393,Lynn Qu,White Pass,5.0
-2394,Amber,Marquette Mountain,2.0
-2395,Amber,Marquette Mountain,2.0
-2396,Mara Abrahamson,Ski Brule,5.0
-2397,Prawn,Palisades Tahoe,1.0
-2398,Mara Abrahamson,Ski Brule,5.0
-2399,attyWSW,Okemo Mountain,5.0
-2400,Dylan,Ski Brule,4.0
-2401,Jonathan,Ski Brule,3.0
-2402,Jonathan,Ski Brule,4.0
-2404,Kris,Ski Brule,5.0
-2405,Mara Abrahamson,Ski Brule,5.0
-2406,Nancy,Ski Brule,5.0
-2407,Nichole,Ski Brule,5.0
-2408,Nichole,Ski Brule,5.0
-2409,Randy,Ski Brule,4.0
-2410,Keith,Wachusett Mountain,3.0
-2412,JJ,Steamboat,1.0
-2413,ski bum,Lookout Pass,5.0
-2414,Greg Smith,Catamount Ski Ride Area,2.0
-2415,David Milford,Wolf Creek,5.0
-2416,David Milford,Monarch Mountain,5.0
-2417,David Milford,Purgatory Mountain,5.0
-2419,Eric's iPhone,Steamboat,5.0
-2420,Jean Evans,Wachusett Mountain,1.0
-2421,Jean Evans,Wachusett Mountain,1.0
-2422,David Milford,Taos Ski Valley,5.0
-2423,David Milford,Angel Fire,4.0
-2424,Jeffrey Cohen,Mt. Snow,5.0
-2425,Jeffrey Cohen,Mt. Snow,5.0
-2426,Riley Mosher,Ski Brule,4.0
-2427,Riley Mosher,Ski Brule,4.0
-2428,Tani Lucht,Ski Brule,5.0
-2429,Jean Evans,Wachusett Mountain,1.0
-2430,Valero,June Mountain,5.0
-2431,radtkej08,Blue Mountain,4.0
-2432,radtkej08,Blue Mountain,4.0
-2433,Valero,Mammoth Mountain,5.0
-2434,David Milford,Ski Santa Fe,5.0
-2435,David Milford,Sandia Peak,3.0
-2437,Colin,Montage Mountain,5.0
-2438,Sam Lehrich,Vail,5.0
-2439,Sam Lehrich,Camelback Mountain,4.0
-2440,Sam Lehrich,Belleayre,2.0
-2441,Marie,Ski Brule,5.0
-2442,Marie,Ski Brule,5.0
-2443,Miyah and Keira Washington,Ski Brule,5.0
-2444,Charles,Eldora Mountain,5.0
-2445,chernad,Mt. Sunapee,5.0
-2448,Valero,Greek Peak,1.0
-2449,B P,Mt. Southington,5.0
-2450,cath.haynes,Jackson Hole,4.0
-2452,ann phelan,Pico Mountain,2.0
-2453,ann phelan,Pico Mountain,2.0
-2454,David  Holz,Snowbasin,5.0
-2455,Greg Matkosky,Elk Mountain Ski,5.0
-2456,Greg Matkosky,Elk Mountain Ski,5.0
-2457,Jaden Rodriguez,Silver Mountain,5.0
-2458,Jaden Rodriguez,Silver Mountain,5.0
-2459,Jaden Rodriguez,Silver Mountain,5.0
-2460,Jaden Rodriguez,Silver Mountain,5.0
-2461,Jim H,Jay Peak,5.0
-2462,David  Holz,Snowbasin,5.0
-2464,Greg Matkosky,Elk Mountain Ski,5.0
-2465,Jaden Rodriguez,Silver Mountain,5.0
-2466,Jaden Rodriguez,Silver Mountain,5.0
-2467,T LAFRANCE,Gore Mountain,5.0
-2469,David  Holz,Snowbasin,5.0
-2470,David Milford,Sipapu Ski and Summer,4.0
-2471,David Milford,Pajarito Mountain,3.0
-2472,tom travis,Elk Mountain Ski,4.0
-2473,Prawn,Heavenly Mountain,4.0
-2474,Ray Baucum,Elk Mountain Ski,5.0
-2475,Vince,Belleayre,1.0
-2476,David Milford,Sunrise Park,3.0
-2477,tom travis,Blue Mountain,4.0
-2479,Eric's iPhone,Bridger Bowl,5.0
-2480,David Milford,Arizona Snowbowl,4.0
-2481,David Milford,Red River,3.0
-2482,David Milford,Red River,3.0
-2483,Marie,Ski Brule,5.0
-2484,Miyah and Keira Washington,Ski Brule,5.0
-2485,Riley Mosher,Ski Brule,5.0
-2486,TODD BOLER,Blacktail Mountain,5.0
-2487,TODD BOLER,Blacktail Mountain,5.0
-2488,TODD BOLER,Blacktail Mountain,5.0
-2490,chernad,Bretton Woods,5.0
-2491,Tani Lucht,Ski Brule,5.0
-2492,Wendy,Ski Brule,5.0
-2493,Vince,Badger Pass,5.0
-2494,Vince,Badger Pass,5.0
-2495,Eli,Ski Brule,4.0
-2496,Tani Lucht,Ski Brule,5.0
-2497,Olivia,Trollhaugen,5.0
-2498,Olivia,Trollhaugen,5.0
-2499,lname,Big Sky,2.0
-2500,lname,Heavenly Mountain,5.0
-2505,Austin Jackson,Deer Valley,5.0
-2507,Jeffrey Cohen,Mt. Snow,5.0
-2511,Abe Gold,Arizona Snowbowl,4.0
-2513,Jane,Northstar California,2.0
-2514,T LAFRANCE,Gore Mountain,5.0
-2515,Jacob,Lookout Pass,1.0
-2516,leerampolla,Lee Canyon,1.0
-2521,Elizabeth,Ski Apache,5.0
-2522,lname,Steamboat,2.0
-2523,JJ,Steamboat,2.0
-2524,lname,Solitude Mountain,5.0
-2525,cath.haynes,Aspen Snowmass,1.0
-2527,cath.haynes,Aspen Snowmass,1.0
-2528,H Muns,Mt. La Crosse,1.0
-2529,C,Snowbird,4.0
-2533,Austin Jackson,Arapahoe Basin,4.0
-2534,cath.haynes,Breckenridge,4.0
-2535,Abe Gold,Steamboat,5.0
-2537,H Muns,Christie Mountain,3.0
-2538,lname,Snow King,5.0
-2539,tom travis,Elk Mountain Ski,4.0
-2540,B P,Mt. Southington,4.0
-2542,Kyle M,Northstar California,5.0
-2546,ChoochCharlie,Bear Creek Mountain,4.0
-2547,leerampolla,Brian Head,5.0
-2548,B P,Mt. Southington,5.0
-2550,Michael Lee,Telluride,5.0
-2551,Robert Kalantari,Waterville Valley,2.0
-2552,Robert Kalantari,Waterville Valley,2.0
-2553,Robert Kalantari,Waterville Valley,2.0
-2554,Tommy T,Solitude Mountain,5.0
-2555,ann phelan,Gunstock,4.0
-2556,ann phelan,Gunstock,4.0
-2557,Austin Jackson,Grand Targhee,4.0
-2558,Austin Jackson,Grand Targhee,4.0
-2562,Nate Moen,Jay Peak,5.0
-2563,Nate Moen,Big Boulder,4.0
-2564,Nate Moen,Hunter Mountain,4.0
-2565,ChoochCharlie,Bear Creek Mountain,4.0
-2566,Kyle M,Northstar California,5.0
-2568,Abe Gold,Loveland,5.0
-2569,David Milford,Brian Head,5.0
-2570,David Milford,Ski Apache,4.0
-2571,flatlander13,Granite Peak,5.0
-2575,Wendy,Camelback Mountain,4.0
-2577,kenneth morris,Big Sky,4.0
-2578,David Milford,Telluride,5.0
-2579,Prawn,Park City Mountain,5.0
-2582,David Milford,Ski Cooper,3.0
-2583,local skier,Whitefish Mountain,4.0
-2584,Elizabeth,Whitefish Mountain,5.0
-2585,Eli Cowperthwaite,Sugarloaf,4.0
-2586,Eli Cowperthwaite,Shawnee Mountain,4.0
-2587,Eli Cowperthwaite,Sunday River,5.0
-2588,Eli Cowperthwaite,Pico Mountain,3.0
-2590,T LAFRANCE,Gore Mountain,5.0
-2594,sharimcatee,Dry Hill,5.0
-2595,chernad,Wachusett Mountain,5.0
-2597,lname,Solitude Mountain,4.0
-2598,p_nut,Ski Butternut,2.0
-2599,Kris,Monarch Mountain,2.0
-2600,Peter Anania,Stowe Mountain,1.0
-2601,Peter Anania,Smugglers' Notch,4.0
-2602,Peter Anania,Smugglers' Notch,4.0
-2603,Peter Anania,Loon Mountain,5.0
-2604,Jim H,Timberline Mountain,1.0
-2605,Jim H,Timberline Mountain,1.0
-2606,John Martin,Sunrise Park,1.0
-2607,Wendy Fiel,Whiteface Mountain,5.0
-2609,Avi Plofsky,Crotched Mountain,4.0
-2610,Avi Plofsky,Crotched Mountain,4.0
-2611,Avi Plofsky,Crotched Mountain,4.0
-2615,Magic Mann,Magic Mountain Vermont,5.0
-2616,Magic Mann,Magic Mountain Vermont,5.0
-2617,Magic Mann,Magic Mountain Vermont,5.0
-2618,Jacob,Jiminy Peak,1.0
-2619,mpemail,Ski Santa Fe,4.0
-2620,mpemail,Sipapu Ski and Summer,3.0
-2621,mpemail,Pajarito Mountain,4.0
-2624,Wendy Fiel,Whiteface Mountain,5.0
-2625,Wendy Fiel,Whiteface Mountain,5.0
-2627,T LAFRANCE,Gore Mountain,5.0
-2628,jrg123,Ski Beech Mountain,5.0
-2629,jrg123,Ski Beech Mountain,5.0
-2630,jrg123,Ski Beech Mountain,5.0
-2634,ChoochCharlie,Bear Creek Mountain,4.0
-2637,Ian,Stowe Mountain,1.0
-2638,lname,Beaver Creek,4.0
-2639,lname,Beaver Creek,4.0
-2642,Michael Beck,Ski Brule,4.0
-2648,Wendy Fiel,Kirkwood,5.0
-2650,flatlander13,Devils Head,4.0
-2654,jrg123,Ski Beech Mountain,5.0
-2655,jrg123,Ski Beech Mountain,5.0
-2656,jrg123,Sugar Mountain,5.0
-2660,Ron,Bretton Woods,3.0
-2662,sharimcatee,Jackson Hole,5.0
-2663,Bill  Rymer,Timberline Mountain,3.0
-2664,Michael Lee,Belleayre,1.0
-2665,Michael Lee,Belleayre,2.0
-2666,Michael Lee,Belleayre,2.0
-2668,skijds,Canaan Valley,5.0
-2670,John Doe,Gore Mountain,5.0
-2671,John Doe,Gore Mountain,5.0
-2672,John Doe,Greek Peak,5.0
-2674,mpemail,Angel Fire,5.0
-2678,dude,Tamarack,5.0
-2679,dude,Tamarack,5.0
-2681,zac,Killington,4.0
-2682,zac,Jay Peak,4.0
-2683,zac,Bristol Mountain,4.0
-2684,flatlander13,Granite Peak,4.0
-2685,dude,Tamarack,5.0
-2687,jrg123,Loveland,5.0
-2688,jrg123,Loveland,5.0
-2690,Daniel undefined,Killington,5.0
-2692,Charles,Sunrise Park,5.0
-2693,Steve undefined,Belleayre,5.0
-2699,Snowboarder,Cannonsburg,5.0
-2700,James undefined,Gore Mountain,5.0
-2704,John undefined,Heavenly Mountain,2.0
-2710,James undefined,Hunter Mountain,5.0
-2711,John undefined,Ski Santa Fe,4.0
-2716,James undefined,Sandia Peak,3.0
-2718,Peter Anania,Jay Peak,4.0
-2721,ski bum,Stevens Pass,2.0
-2727,Morgan,Sugar Mountain,1.0
-2730,Cliff undefined,Mt. Crescent,1.0
-2731,Cliff undefined,Mt. Crescent,1.0
-2732,Cliff undefined,Mt. Crescent,1.0
-2733,Cliff undefined,Mt. Crescent,1.0
-2738,James undefined,Arizona Snowbowl,2.0
-2741,davo41,Mountain Creek,1.0
-2742,davo41,Mountain Creek,1.0
-2743,davo41,Mountain Creek,1.0
-2763,T LAFRANCE,Gore Mountain,5.0
-2771,Steve undefined,Ski Apache,1.0
-2773,Steve undefined,Holimont,4.0
-2778,John undefined,Bridger Bowl,5.0
-2781,Kyle M,Perfect North Slopes,5.0
-2790,Daniel undefined,Blacktail Mountain,5.0
-2791,Daniel undefined,Blacktail Mountain,5.0
-2798,Elizabeth,Whitefish Mountain,1.0
-2800,Steve undefined,Ski Apache,1.0
+0,anon_1,Winter Park,4
+1,anon_1,Arapahoe Basin,5
+2,anon_1,Steamboat,5
+3,anon_1,Copper Mountain,5
+4,anon_2,Solitude Mountain,5
+5,anon_2,Killington,5
+6,anon_2,Sugarbush,4
+7,anon_2,Stratton Mountain,3
+8,anon_3,Deer Valley,3
+9,anon_3,Telluride,4
+10,anon_3,Taos Ski Valley,4
+11,anon_3,Steamboat,5
+12,anon_4,Mammoth Mountain,5
+13,anon_4,Jackson Hole,4
+14,anon_4,Jackson Hole,5
+15,anon_4,Palisades Tahoe,5
+16,anon_5,Aspen Snowmass,4
+17,anon_5,Copper Mountain,2
+18,anon_5,Taos Ski Valley,5
+19,anon_5,Aspen Snowmass,4
+20,anon_5,Aspen Snowmass,5
+21,anon_6,Powder Mountain,3
+22,anon_6,Alta,5
+23,anon_6,Solitude Mountain,5
+24,anon_6,Brighton,5
+25,anon_7,Mt. Baker,5
+26,anon_7,Stevens Pass,2
+27,anon_7,Crystal Mountain Washington,2
+28,anon_8,Mammoth Mountain,5
+29,anon_8,Bear Valley,1
+30,anon_8,Mt. Rose Ski Tahoe,4
+31,anon_8,Dodge Ridge,4
+32,anon_8,Palisades Tahoe,4
+33,anon_9,Beaver Mountain,5
+34,anon_9,Nordic Mountain,4
+35,anon_9,Park City Mountain,3
+36,Stephanie Ciaccia,Hunter Mountain,1
+37,Stephanie Ciaccia,Vail,4
+38,Stephanie Ciaccia,Snowbird,5
+39,Stephanie Ciaccia,Breckenridge,4
+40,Stephanie Ciaccia,Park City Mountain,4
+41,Joseph Lew,Snow Ridge,3
+42,Joseph Lew,Gore Mountain,4
+43,Joseph Lew,Roundtop Mountain,3
+44,Joseph Lew,Woods Valley,3
+45,Joseph Lew,McCauley Mountain,5
+46,Alexandria K.,Stevens Pass,5
+47,Alexandria K.,Vail,3
+48,Alexandria K.,Snowbird,4
+49,Alexandria K.,Park City Mountain,2
+50,Deanna U.,Telluride,5
+51,Deanna U.,Breckenridge,3
+52,Deanna U.,Crested Butte Mountain,3
+53,Deanna U.,Alta,5
+54,Deanna U.,Vail,4
+55,Raghava K.,Breckenridge,4
+56,Raghava K.,Crested Butte Mountain,5
+57,Raghava K.,Vail,5
+58,Raghava K.,Beaver Creek,3
+59,Raghava K.,Telluride,5
+60,ericadyer,Palisades Tahoe,5
+61,ericadyer,Sun Valley,5
+62,FroDog,Donner Ski Ranch,3
+63,FroDog,Boreal,4
+64,FroDog,Diamond Peak,4
+65,jackson321,Mt. Baker,5
+66,jackson321,Alpental,5
+67,jackson321,Stevens Pass,3
+68,jackson321,Summit at Snoqualmie,5
+69,SammyG,Mt. Rose Ski Tahoe,5
+70,SammyG,Mountain High,5
+71,SammyG,Snowshoe Mountain,5
+72,SammyG,Alyeska,4
+73,ericadyer,Steamboat,4
+74,Jill Adler,Alta,5
+75,Jill Adler,Snowbird,5
+76,Jill Adler,Snowbasin,4
+77,Jill Adler,Brighton,3
+78,Jill Adler,Solitude Mountain,4
+79,Jill Adler,Deer Valley,4
+80,Jill Adler,Park City Mountain,4
+81,Jill Adler,Jackson Hole,5
+82,Jill Adler,Sundance,3
+83,Jill Adler,Brian Head,3
+84,Twenz,Bretton Woods,4
+85,Twenz,Loon Mountain,4
+86,ericadyer,Sierra at Tahoe,3
+87,ericadyer,Heavenly Mountain,5
+88,Twenz,Gunstock,4
+89,Twenz,Montage Mountain,4
+90,Twenz,Attitash,4
+91,anhillx,Palisades Tahoe,5
+92,anhillx,Alpental,5
+93,anhillx,Heavenly Mountain,3
+94,anhillx,Crystal Mountain Washington,5
+95,anhillx,Stevens Pass,4
+96,emj35,Vail,5
+97,emj35,Killington,5
+98,emj35,Loon Mountain,3
+99,emj35,Waterville Valley,3
+100,Benji Zimmerman,Kirkwood,5
+101,Benji Zimmerman,Brighton,5
+102,Benji Zimmerman,Heavenly Mountain,4
+103,Benji Zimmerman,Park City Mountain,4
+104,Benji Zimmerman,Copper Mountain,5
+105,Benji Zimmerman,Breckenridge,4
+106,Benji Zimmerman,Arapahoe Basin,4
+107,Benji Zimmerman,Vail,4
+108,Benji Zimmerman,Keystone,4
+109,Benji Zimmerman,Boyne Mountain,3
+110,Benji Zimmerman,Crystal Mountain Michigan,4
+111,Benji Zimmerman,Schuss Mountain,5
+112,Benji Zimmerman,Cannonsburg,2
+113,Benji Zimmerman,Boyne Highlands,4
+114,emj35,Aspen Snowmass,5
+115,emj35,Sunday River,5
+116,Roger Leo,Mt. Sunapee,4
+117,FroDog,Palisades Tahoe,5
+118,FroDog,Sugar Bowl,4
+119,FroDog,Kirkwood,4
+120,FroDog,Sierra at Tahoe,4
+121,FroDog,Mt. Rose Ski Tahoe,3
+122,FroDog,Soda Springs,4
+123,FroDog,Northstar California,4
+124,FroDog,Tahoe Donner,3
+125,FroDog,Heavenly Mountain,5
+126,Roger Leo,Cannon Mountain,5
+127,Roger Leo,Wachusett Mountain,5
+128,Roger Leo,Stratton Mountain,5
+129,Roger Leo,Bretton Woods,5
+130,Roger Leo,Sugarbush,5
+131,Roger Leo,Okemo Mountain,5
+132,filterban,Lutsen Mountains,5
+133,filterban,Hyland Ski,1
+134,filterban,Afton Alps,3
+135,filterban,Spirit Mountain,4
+136,Benji Zimmerman,Brighton,5
+137,JP,Mt. Hood Skibowl,3
+138,gkphi5,Vail,4
+139,RippinSkiers,Copper Mountain,5
+140,RippinSkiers,Breckenridge,3
+141,RippinSkiers,Arapahoe Basin,5
+142,RippinSkiers,Vail,5
+143,RippinSkiers,Loveland,5
+144,RippinSkiers,Beaver Creek,5
+145,RippinSkiers,Keystone,3
+146,filterban,Wild Mountain Ski,3
+147,gkphi5,Winter Park,5
+148,Jay C,Killington,5
+149,Mark Rosasco,Arapahoe Basin,4
+150,Dan Gibson,Taos Ski Valley,5
+151,stevenstclair,Hidden Valley,4
+152,stevenstclair,Paoli Peaks,4
+153,stevenstclair,Sugar Mountain,2
+154,Dan Gibson,Monarch Mountain,4
+155,anhillx,Crystal Mountain Washington,4
+156,anhillx,Alpental,4
+157,jwtime,Ski Snowstar,4
+158,Roger Leo,Okemo Mountain,5
+159,Roger Leo,Bromley Mountain,4
+160,Cherokee,Snowshoe Mountain,2
+161,Cherokee,Paoli Peaks,2
+162,Cherokee,Canaan Valley,4
+163,treesker,Silver Mountain,1
+164,hranee,Sunrise Park,2
+165,Cherokee,Canaan Valley,4
+166,anhillx,Alpental,4
+167,anhillx,Crystal Mountain Washington,2
+168,Mark Rosasco,Beaver Creek,5
+169,anhillx,Alpental,3
+170,gwiffie,Tahoe Donner,3
+171,anhillx,Alpental,3
+172,anhillx,Crystal Mountain Washington,2
+173,stevenam,Smugglers' Notch,4
+174,Gunny J,Big Bear,4
+175,Cherokee,Wisp,4
+176,Dan Gibson,Ski Santa Fe,4
+177,jim8588,Boyne Highlands,2
+178,RippinSkiers,Vail,5
+179,Bmorabito,Mammoth Mountain,4
+180,Bmorabito,Kirkwood,5
+181,Bmorabito,Mountain High,1
+182,Richard 1,Alta,5
+183,Richard 1,Snowbird,5
+184,Richard 1,Brighton,4
+185,Richard 1,Solitude Mountain,3
+186,airgarden94,Cascade Mountain,5
+187,Jay C,Attitash,4
+188,hranee,Breckenridge,4
+189,hranee,Vail,5
+190,joey58242,Devils Head,5
+191,Mike134,Big Powderhorn Mountain,5
+192,tom travis,Jay Peak,4
+193,tom travis,Stowe Mountain,5
+194,tom travis,Killington,4
+195,tom travis,Pico Mountain,4
+196,tom travis,Sugarbush,5
+197,tom travis,Elk Mountain Ski,5
+198,anhillx,Alpental,4
+199,anhillx,Crystal Mountain Washington,4
+200,anhillx,Stevens Pass,2
+201,jwtime,Ski Snowstar,5
+202,bobbert,Snowbird,5
+203,bobbert,Park City Mountain,2
+204,bobbert,Winter Park,5
+205,Jay C,Smugglers' Notch,3
+206,Dan Gibson,Pajarito Mountain,3
+207,noonito,Breckenridge,5
+208,tsfoust,Palisades Tahoe,3
+209,tsfoust,Kirkwood,3
+210,tsfoust,Sierra at Tahoe,3
+211,tsfoust,Northstar California,4
+212,stevenam,Winter Park,3
+213,anhillx,Telluride,5
+214,airgarden94,Devils Head,4
+215,Art Zinn,Belleayre,4
+216,Mike134,Big Powderhorn Mountain,5
+217,Dan Gibson,Angel Fire,4
+218,steffenwolf,Wolf Creek,5
+219,steffenwolf,Purgatory Mountain,4
+220,steffenwolf,Winter Park,4
+221,steffenwolf,Crested Butte Mountain,5
+222,seniordude,Mammoth Mountain,4
+223,Dan Gibson,Purgatory Mountain,4
+224,Shartron,Arizona Snowbowl,3
+225,Mikey Likes It,Bristol Mountain,4
+226,Mikey Likes It,Hunter Mountain,4
+227,Mikey Likes It,Snow Ridge,4
+228,jim8588,Caberfae Peaks Ski Golf,4
+229,Americansonofa,Canaan Valley,4
+230,Randy Agness,Song Mountain,4
+231,joey58242,Granite Peak,4
+232,joey58242,Sunburst,3
+233,joey58242,Sunburst,4
+234,sno_thing,Granite Peak,5
+235,sno_thing,Alpine Valley Wisconsin,4
+236,sno_thing,Grand Geneva,1
+237,sno_thing,Wilmot Mountain,3
+238,steffenwolf,Taos Ski Valley,5
+239,steffenwolf,Purgatory Mountain,4
+240,steffenwolf,Angel Fire,3
+241,steffenwolf,Angel Fire,3
+242,steffenwolf,Red River,3
+243,steffenwolf,Angel Fire,3
+244,seniordude,Bear Valley,4
+245,seniordude,Dodge Ridge,4
+246,seniordude,Heavenly Mountain,4
+247,sampanning,Telluride,5
+248,sampanning,Crested Butte Mountain,2
+249,Gunny J,Plattekill Mountain,5
+250,Art Zinn,Plattekill Mountain,5
+251,Gunny J,Mountain Creek,1
+252,steep n deep ,Killington,5
+253,steep n deep ,Gore Mountain,5
+254,steep n deep ,Whiteface Mountain,5
+255,steep n deep ,Woods Valley,2
+256,steep n deep ,McCauley Mountain,5
+257,steep n deep ,Snow Ridge,3
+258,noonito,Elk Mountain Ski,4
+259,Shartron,Snowbasin,4
+260,Dan Gibson,Ski Santa Fe,5
+261,Gunny J,Belleayre,5
+262,jestertatt,49 Degrees North,4
+263,jestertatt,Alyeska,3
+264,jestertatt,Silver Mountain,5
+265,Dantheman,Stowe Mountain,5
+266,swissnowtiger,Palisades Tahoe,5
+267,swissnowtiger,Donner Ski Ranch,4
+268,swissnowtiger,Tahoe Donner,4
+269,swissnowtiger,Dodge Ridge,4
+270,swissnowtiger,Timberline Lodge,4
+271,brandon,Wolf Creek,5
+272,brandon,Purgatory Mountain,5
+273,brandon,Sunrise Park,5
+274,flyersboy114,Loon Mountain,4
+275,Ritt,Berkshire East,4
+276,Bob Butts,Stowe Mountain,4
+277,sharimcatee,Dry Hill,5
+278,iLiveToRide17,Hunter Mountain,4
+279,iLiveToRide17,Mountain Creek,2
+280,jim8588,Caberfae Peaks Ski Golf,4
+281,bodibran,Grand Targhee,5
+282,bodibran,Powder Mountain,4
+283,bodibran,Pebble Creek,4
+284,bodibran,Bogus Basin,3
+285,bodibran,Tamarack,4
+286,yodeledihoo,Wolf Creek,5
+287,yodeledihoo,Taos Ski Valley,5
+288,yodeledihoo,Ski Santa Fe,4
+289,tourist from Texas,Powder Mountain,4
+290,airgarden94,Tyrol Basin,4
+291,p_nut,Winter Park,2
+292,p_nut,Blue Mountain,4
+293,highvoltageguy,Wolf Creek,4
+294,highvoltageguy,Winter Park,4
+295,highvoltageguy,Winter Park,5
+296,highvoltageguy,Arapahoe Basin,5
+297,highvoltageguy,Beaver Creek,4
+298,highvoltageguy,Keystone,1
+299,highvoltageguy,Vail,5
+300,highvoltageguy,Aspen Snowmass,4
+301,highvoltageguy,Copper Mountain,3
+302,highvoltageguy,Breckenridge,5
+303,highvoltageguy,Crested Butte Mountain,3
+304,highvoltageguy,Vail,2
+305,highvoltageguy,Loveland,4
+306,masterdel,Monarch Mountain,5
+307,govey80,Big Bear,2
+308,govey80,Palisades Tahoe,5
+309,govey80,Northstar California,4
+310,govey80,Steamboat,5
+311,Mike134,Big Powderhorn Mountain,4
+312,horse,Telluride,5
+313,fcherichel,Gunstock,5
+314,fcherichel,Holiday Valley,5
+315,mwolske,Granite Peak,5
+316,mwolske,Devils Head,3
+317,Jay C,Crotched Mountain,5
+318,mayham2k,Cataloochee,4
+319,mayham2k,Sugar Mountain,5
+320,mayham2k,Sugar Mountain,3
+321,Americansonofa,Snowshoe Mountain,4
+322,p_nut,Belleayre,2
+323,Jay C,Killington,5
+324,Adye 1,Boyne Mountain,3
+325,Adye 1,Nubs Nob,4
+326,mwolske,Cascade Mountain,5
+327,iLiveToRide17,Killington,4
+328,MgoBlue,Sugar Mountain,2
+329,MgoBlue,Snowshoe Mountain,4
+330,jim8588,Nubs Nob,5
+331,MgoBlue,Wintergreen,4
+332,Randy Rogers,Willamette Pass,5
+333,Randy Rogers,Hoodoo,2
+334,Bobby G,Jackson Hole,5
+335,flyersboy114,Killington,4
+336,flyersboy114,Smugglers' Notch,3
+337,Randy Rogers,Crystal Mountain Washington,4
+338,flyersboy114,Jack Frost,1
+339,govey80,Alta,5
+340,Hilferty,Camelback Mountain,5
+341,Randy Rogers,Mt. Ashland,4
+342,Randy Rogers,Willamette Pass,5
+343,apken,Mountain Creek,2
+344,Resort Travel,Alpental,4
+345,Americansonofa,Massanutten,4
+346,Americansonofa,Snowshoe Mountain,4
+347,stevenam,Breckenridge,5
+348,stevenam,Arapahoe Basin,5
+349,bodyflight,Cataloochee,2
+350,bodyflight,Wolf Ridge Ski,4
+351,Bartakamoose,Granite Peak,5
+352,Bartakamoose,Mt. La Crosse,4
+353,Bartakamoose,Devils Head,4
+354,kbone77,Sunrise Park,4
+355,swissnowtiger,June Mountain,3
+356,swetsb,Snowshoe Mountain,4
+357,thorne36,Deer Valley,5
+358,thorne36,Park City Mountain,4
+359,Resort Travel,Mt. Hood Meadows,4
+360,Resort Travel,Crystal Mountain Washington,4
+361,Resort Travel,Summit at Snoqualmie,4
+362,CopPsychDoc,Mountain Creek,2
+363,CopPsychDoc,Belleayre,5
+364,CopPsychDoc,Ski Butternut,3
+365,CopPsychDoc,Mt. Peter,5
+366,Frank Castellanos,Shawnee Mountain,5
+367,steffenwolf,Taos Ski Valley,5
+368,steffenwolf,Monarch Mountain,4
+369,steffenwolf,Beaver Creek,3
+370,thorne36,Montana Snowbowl,3
+371,flyersboy114,Crested Butte Mountain,5
+372,steffenwolf,Crested Butte Mountain,5
+373,apken,Windham Mountain,4
+374,soakandski,Sunday River,5
+375,Americansonofa,Winterplace Ski,4
+376,MgoBlue,Wolf Creek,5
+377,mt.bporru,Stowe Mountain,5
+378,mt.bporru,Okemo Mountain,4
+379,Gunny J,Montage Mountain,3
+380,Dantheman,Pats Peak,5
+381,mt.bporru,Gore Mountain,4
+382,daniwrites,Stratton Mountain,5
+383,daniwrites,Blue Mountain,4
+384,daniwrites,Shawnee Mountain,2
+385,Les,Winterplace Ski,2
+386,belindajk,Bear Valley,4
+387,echi,Breckenridge,5
+388,J Berlo,Nubs Nob,5
+389,kbone77,Kirkwood,5
+390,kbone77,Steamboat,5
+391,kbone77,Telluride,4
+392,soakandski,Camelback Mountain,4
+393,danmclaw,Spring Mountain,3
+394,Hilferty,Elk Mountain Ski,5
+395,markwittlich,Camelback Mountain,1
+396,markwittlich,Elk Mountain Ski,5
+397,Hilferty,Blue Mountain,4
+398,Les,Snowshoe Mountain,4
+399,bodyflight,Snowshoe Mountain,4
+400,sewardhorner,Bittersweet,5
+401,thereporter,Mammoth Mountain,3
+402,thereporter,Ski China Peak,5
+403,tourist from Texas,Wolf Creek,3
+404,jim8588,Crystal Mountain Michigan,4
+405,swetsb,Whiteface Mountain,5
+406,thereporter,Boreal,3
+407,thereporter,Bear Valley,3
+408,thereporter,Dodge Ridge,2
+409,apken,Killington,4
+410,belindajk,Sugar Bowl,5
+411,belindajk,Kirkwood,4
+412,hotdotsails,Liberty,5
+413,p_nut,Park City Mountain,4
+414,sewardhorner,Swiss Valley,4
+415,masterdel,Crested Butte Mountain,3
+416,mt.bporru,Whiteface Mountain,5
+417,nzh0tg,Nubs Nob,5
+418,Adye 1,Heavenly Mountain,4
+419,Aguilar 1,June Mountain,5
+420,Aguilar 1,Big Bear,3
+421,Aguilar 1,Sugarloaf,4
+422,Aguilar 1,New Hermon Mountain,4
+423,Americansonofa,Snowshoe Mountain,5
+424,ccampbell,Elk Mountain Ski,5
+425,attyWSW,Sunlight Mountain,5
+426,jim8588,Schuss Mountain,5
+427,Dantheman,Cannon Mountain,5
+428,herbsmen,Snow Valley,3
+429,Mike134,Big Powderhorn Mountain,5
+430,mt.bporru,Windham Mountain,2
+431,nzh0tg,Nubs Nob,4
+432,echi,Northstar California,5
+433,Gunny J,Elk Mountain Ski,2
+434,Jay C,Attitash,5
+435,Gunny J,Belleayre,5
+436,Philip H. Eckerberg,Snowy Range,3
+437,Adye 1,Devils Head,3
+438,apken,Hunter Mountain,2
+439,bermjl,Powder Mountain,5
+440,Shartron,Sunrise Park,3
+441,bermjl,Snowbasin,5
+442,Gunny J,Hunter Mountain,4
+443,bigw1313,Breckenridge,5
+444,pinkkid_2000,Sierra at Tahoe,4
+445,pinkkid_2000,Badger Pass,5
+446,Randy Rogers,Willamette Pass,5
+447,DoUcanoe2,Liberty,5
+448,John Gonzalez,Palisades Tahoe,5
+449,John Gonzalez,Kirkwood,5
+450,John Gonzalez,Mt. Rose Ski Tahoe,3
+451,John Gonzalez,Heavenly Mountain,4
+452,John Gonzalez,Diamond Peak,2
+453,John Gonzalez,Lee Canyon,2
+454,Ontheslopes,Ragged Mountain,4
+455,joe castelli,Breckenridge,5
+456,joe castelli,Arapahoe Basin,4
+457,joe castelli,Paoli Peaks,3
+458,joe castelli,Paoli Peaks,3
+459,sewardhorner,Copper Mountain,5
+460,Ontheslopes,Killington,3
+461,skylolow,Granite Peak,5
+462,skylolow,Lutsen Mountains,5
+463,govey80,Breckenridge,5
+464,Ontheslopes,Pats Peak,5
+465,Queensland Skier,Palisades Tahoe,5
+466,Queensland Skier,Northstar California,3
+467,ski_hike,Kirkwood,5
+468,Queensland Skier,Park City Mountain,5
+469,Queensland Skier,Sugar Bowl,4
+470,Queensland Skier,Beaver Creek,5
+471,ski_hike,Mt. Rose Ski Tahoe,4
+472,SweetSki,Lookout Pass,5
+473,Juan,Whiteface Mountain,4
+474,Juan,Liberty,3
+475,Juan,Whitetail,3
+476,Queensland Skier,Deer Valley,4
+477,Queensland Skier,Vail,5
+478,Juan,Wintergreen,3
+479,bwm30,Alyeska,4
+480,govey80,Snowbird,4
+481,Ontheslopes,Okemo Mountain,4
+482,Queensland Skier,Steamboat,5
+483,Doodski,Welch Village,1
+484,Doodski,Buck Hill,5
+485,Doodski,Afton Alps,3
+486,swissnowtiger,Timberline Lodge,4
+487,Shane Wicken,Smugglers' Notch,4
+488,Shane Wicken,Pico Mountain,4
+489,Shane Wicken,Pats Peak,3
+490,Ontheslopes,Pico Mountain,5
+491,Shane Wicken,Wachusett Mountain,3
+492,ski_hike,Boreal,3
+493,ski_hike,Diamond Peak,2
+494,p_nut,Arapahoe Basin,5
+495,p_nut,Camelback Mountain,2
+496,p_nut,Camelback Mountain,2
+497,p_nut,Elk Mountain Ski,5
+498,psuguy43094,Sugar Bowl,5
+499,psuguy43094,Mt. Rose Ski Tahoe,5
+500,psuguy43094,Northstar California,3
+501,psuguy43094,Heavenly Mountain,5
+502,psuguy43094,Park City Mountain,5
+503,psuguy43094,Breckenridge,5
+504,p_nut,Hunter Mountain,4
+505,psuguy43094,Blue Mountain,3
+506,Ontheslopes,Cannon Mountain,2
+507,Ontheslopes,Sugarloaf,5
+508,Philip H. Eckerberg,Terry Peak,4
+509,p_nut,Spring Mountain,1
+510,psuguy43094,Breckenridge,5
+511,joey440,Wolf Creek,5
+512,joey440,Angel Fire,4
+513,joey440,Ski Apache,3
+514,Ontheslopes,Wachusett Mountain,2
+515,Ontheslopes,Whiteface Mountain,5
+516,psuguy43094,Heavenly Mountain,5
+517,volklmom,Jay Peak,4
+518,volklmom,Wildcat Mountain,5
+519,volklmom,Cranmore Mountain,2
+520,volklmom,Attitash,5
+521,psuguy43094,Breckenridge,4
+522,dane Koncan,Crested Butte Mountain,5
+523,mcc100,Snowbird,5
+524,mcc100,Copper Mountain,5
+525,mcc100,Breckenridge,5
+526,mcc100,Killington,5
+527,mcc100,Sugarbush,5
+528,mcc100,Stratton Mountain,4
+529,dave figenshu,Jack Frost,5
+530,SFCSkiGirl,Killington,5
+531,SFCSkiGirl,Montage Mountain,5
+532,SFCSkiGirl,Blue Mountain,5
+533,Randy Rogers,Willamette Pass,5
+534,Randy Rogers,Hoodoo,3
+535,Frank Castellanos,Killington,4
+536,psuguy43094,Bear Creek Mountain,2
+537,joe castelli,Sugar Mountain,4
+538,mt.skier,Big Sky,5
+539,mt.skier,Lost Trail Powder Mountain,3
+540,mt.skier,Montana Snowbowl,3
+541,mt.skier,Discovery,4
+542,mt.skier,Discovery,4
+543,wisp,Eldora Mountain,5
+544,Ron,Alyeska,4
+545,rt,Wolf Creek,4
+546,rt,Taos Ski Valley,5
+547,rt,Ski Apache,2
+548,wisp,Wisp,5
+549,dane Koncan,Mammoth Mountain,3
+550,pdxboarder,Timberline Lodge,3
+551,pdxboarder,Crystal Mountain Washington,4
+552,pdxboarder,Mt. Hood Skibowl,5
+553,Eli,Alpental,4
+554,Eli,Summit at Snoqualmie,3
+555,cmustard,Pebble Creek,2
+556,dane Koncan,Kirkwood,5
+557,Dave Varney,Gunstock,4
+558,leerampolla,Lee Canyon,3
+559,mjurkiewicz,Blue Mountain,4
+560,Randy Rogers,Willamette Pass,5
+561,andrew Balcom,Crystal Mountain Michigan,4
+562,andrew Balcom,Bittersweet,3
+563,frankpa,Eldora Mountain,4
+564,andrew Balcom,Caberfae Peaks Ski Golf,4
+565,Gunny J,Belleayre,5
+566,Dave&DJ,Big Powderhorn Mountain,5
+567,Dave&DJ,Big Powderhorn Mountain,5
+568,max caswell,Alta,5
+569,govey80,Bear Mountain,1
+570,dane Koncan,Palisades Tahoe,5
+571,Ontheslopes,Bretton Woods,4
+572,molly young,Blue Mountain,4
+573,skifiend,Blue Mountain,4
+574,bulldogmom,Magic Mountain Idaho,5
+575,bulldogmom,Magic Mountain Idaho,4
+576,bulldogmom,Pomerelle Mountain,3
+577,nzh0tg,Vail,4
+578,nzh0tg,Boyne Highlands,4
+579,max caswell,Keystone,3
+580,skibum40,Taos Ski Valley,5
+581,skibum40,Purgatory Mountain,4
+582,skibum40,Crested Butte Mountain,5
+583,skibum40,Ski Santa Fe,4
+584,skibum40,Sipapu Ski and Summer,4
+585,skibum40,Pajarito Mountain,5
+586,skibum40,Ski Apache,3
+587,max caswell,Snowbird,5
+588,max caswell,Crested Butte Mountain,5
+589,A. cooper,Snowriver Mountain Resort,2
+590,iwill,Mt. Baker,5
+591,TanMan,Lost Trail Powder Mountain,5
+592,TanMan,Discovery,5
+593,max caswell,Grand Targhee,4
+594,max caswell,Jackson Hole,5
+595,max caswell,Steamboat,4
+596,max caswell,Snow King,4
+597,Randy Rogers,Willamette Pass,5
+598,Ritt,Berkshire East,4
+599,ccampbell,Camelback Mountain,2
+600,Ian Yuh,Northstar California,4
+601,Ritt,Eldora Mountain,5
+602,Ian Yuh,Mammoth Mountain,5
+603,Ian Yuh,Ski China Peak,5
+604,Ian Yuh,Badger Pass,4
+605,Julie79,Wachusett Mountain,4
+606,Ronald,Taos Ski Valley,5
+607,noonito,Camelback Mountain,2
+608,Robert Turner,Mammoth Mountain,2
+609,Robert Turner,Vail,5
+610,Robert Turner,Lee Canyon,3
+611,jay_bone_22,Taos Ski Valley,3
+612,Ontheslopes,Mt. Sunapee,4
+613,ccampbell,Roundtop Mountain,4
+614,Cody March,Whitetail,3
+615,Cody March,Wintergreen,5
+616,Shane Wicken,Okemo Mountain,5
+617,vedhed,Sugar Bowl,4
+618,bermjl,Taos Ski Valley,4
+619,danmclaw,Bear Creek Mountain,4
+620,danmclaw,Spring Mountain,3
+621,ENWR,Devils Head,2
+622,George P,Okemo Mountain,5
+623,Ian Yuh,Kirkwood,5
+624,Likeabat,Timberline Mountain,4
+625,attyWSW,Powderhorn,5
+626,mjurkiewicz,Montage Mountain,4
+627,beefcake1313,Jackson Hole,5
+628,Frank Castellanos,Camelback Mountain,3
+629,Likeabat,Perfect North Slopes,3
+630,Les,Liberty,3
+631,TanMan,Lost Trail Powder Mountain,5
+632,A. cooper,Heavenly Mountain,3
+633,A. cooper,Steamboat,5
+634,Philip H. Eckerberg,Deer Mountain,4
+635,mt.skier,Blacktail Mountain,3
+636,mt.skier,Bridger Bowl,5
+637,offwallstreet,Blue Hills,2
+638,offwallstreet,Blue Hills,2
+639,sewardhorner,Swiss Valley,4
+640,smezhir,Copper Mountain,5
+641,Terry,Schweitzer,5
+642,kooter,Ski Snowstar,5
+643,mt.skier,Whitefish Mountain,4
+644,mt.skier,Great Divide,3
+645,Alan M,Bittersweet,4
+646,Alan M,Swiss Valley,4
+647,Christopher Horner,Montage Mountain,3
+648,Christopher Horner,Blue Mountain,4
+649,Christopher Horner,Elk Mountain Ski,5
+650,jssctrent,Snowshoe Mountain,5
+651,Fauster,Liberty,4
+652,swetsb,Burke Mountain,4
+653,A. cooper,Park City Mountain,5
+654,A. cooper,Beaver Creek,5
+655,bwm30,Snowshoe Mountain,2
+656,dubisaweapon,Mad River Glen,5
+657,govey80,Mammoth Mountain,5
+658,hotdotsails,Blue Mountain,5
+659,joegregdon,Copper Mountain,4
+660,joegregdon,Vail,5
+661,Julie79,Loon Mountain,5
+662,Julie79,Waterville Valley,4
+663,Karl,Boyne Mountain,4
+664,kooter,Ski Snowstar,5
+665,Mark Rosasco,Winter Park,3
+666,molly young,Sunlight Mountain,5
+667,molly young,Bear Creek Mountain,5
+668,molly young,Spring Mountain,4
+669,p_nut,Killington,4
+670,p_nut,Stratton Mountain,5
+671,Ronald,Jackson Hole,5
+672,Terry,Mammoth Mountain,4
+673,Terry,Wolf Creek,5
+674,tourist from Texas,Snowbasin,4
+675,tourist from Texas,Park City Mountain,3
+676,A. cooper,Alta,5
+677,A. cooper,Snowbasin,4
+678,bangsezmax,Appalachian Ski Mountain,5
+679,bangsezmax,Ski Beech Mountain,3
+680,bangsezmax,Sugar Mountain,5
+681,Brian Thayer,Sunday River,5
+682,gwiffie,Mt. Rose Ski Tahoe,3
+683,gwiffie,Tahoe Donner,5
+684,J Berlo,Breckenridge,5
+685,J Berlo,Attitash,4
+686,J Berlo,Boyne Highlands,4
+687,jssctrent,Ober Gatlinburg Ski,3
+688,jssctrent,Winterplace Ski,4
+689,jwtime,Ski Snowstar,5
+690,MCPG,Paoli Peaks,3
+691,wisp,Snow Creek,4
+692,zakk,Sierra at Tahoe,5
+693,A. cooper,Deer Valley,5
+694,A. cooper,Jackson Hole,5
+695,A. cooper,Granite Peak,5
+696,Fauster,Roundtop Mountain,4
+697,gkphi5,Heavenly Mountain,5
+698,MCPG,Sundance,5
+699,offwallstreet,Pats Peak,4
+700,Unionhawk,Steamboat,5
+701,Unionhawk,Perfect North Slopes,3
+702,Randy Whitson,Sipapu Ski and Summer,2
+703,Randy Whitson,Angel Fire,5
+704,Randy Whitson,Red River,4
+705,hparks,Snowy Range,3
+706,WilleA,Loon Mountain,4
+707,cpt0bvi0u5,Snow Valley,4
+708,jay_bone_22,Angel Fire,5
+709,MCPG,Ski China Peak,4
+710,ndboarder,Buck Hill,4
+711,Shane Wicken,Okemo Mountain,5
+712,cpt0bvi0u5,Mountain High,3
+713,ndboarder,Andes Tower Hills,4
+714,smk1945,Keystone,5
+715,winstonwolf,Big Powderhorn Mountain,4
+716,Yoonseok Song,Granite Peak,4
+717,Yoonseok Song,Cascade Mountain,5
+718,Yoonseok Song,Devils Head,4
+719,ndboarder,Andes Tower Hills,4
+720,Yoonseok Song,Keystone,4
+721,Yoonseok Song,Alpine Valley Wisconsin,3
+722,Yoonseok Song,Wilmot Mountain,3
+723,Barbra Pasker,Snowbird,5
+724,Barbra Pasker,Solitude Mountain,4
+725,Barbra Pasker,Park City Mountain,4
+726,Jay C,Attitash,5
+727,mjnecaise,Telluride,5
+728,mjnecaise,Big Sky,4
+729,perrmj02,Plattekill Mountain,5
+730,skinomad,Keystone,5
+731,haineroid,Anthony Lakes Mountain,4
+732,p_nut,Snowbird,5
+733,skinomad,Heavenly Mountain,5
+734,Gunny J,Plattekill Mountain,5
+735,MCPG,Ober Gatlinburg Ski,2
+736,ndboarder,Andes Tower Hills,4
+737,Catherine D,Alpental,3
+738,Catherine D,Arapahoe Basin,5
+739,Catherine D,Vail,4
+740,Philip H. Eckerberg,Hogadon,3
+741,Richard B,Snowbird,5
+742,Richard B,Brighton,4
+743,hparks,Spirit Mountain,4
+744,J Berlo,Waterville Valley,4
+745,joe castelli,Breckenridge,5
+746,joe castelli,Sugar Mountain,4
+747,kooter,Ski Snowstar,5
+748,Terry,Snowy Range,4
+749,resa 1,Big Boulder,3
+750,vedhed,Kirkwood,4
+751,vedhed,Sierra at Tahoe,4
+752,fcherichel,Mountain Creek,3
+753,gwiffie,Mt. Rose Ski Tahoe,4
+754,Les,Wintergreen,4
+755,MCPG,Alta,5
+756,perrmj02,Brundage Mountain,5
+757,Scott Dillman,Gore Mountain,5
+758,SkiBadger,Whitetail,2
+759,SkiBadger,Wintergreen,4
+760,tc5,Timberline Mountain,4
+761,tc5,Liberty,2
+762,tc5,Roundtop Mountain,2
+763,tc5,Snowshoe Mountain,4
+764,tc5,Whitetail,4
+765,fcherichel,Mountain Creek,4
+766,smk1945,Breckenridge,4
+767,tc5,Canaan Valley,3
+768,safer_66,Alta,5
+769,safer_66,Brighton,5
+770,safer_66,Park City Mountain,5
+771,spack,Vail,5
+772,Barker,Mountain Creek,4
+773,ndboarder,Andes Tower Hills,4
+774,tc5,Killington,4
+775,Barker,Bear Creek Mountain,3
+776,Barker,Shawnee Mountain,3
+777,cpt0bvi0u5,Mt. Baldy,5
+778,Dave Freeman,Snowbasin,5
+779,Kyle Harmon Townsend,Appalachian Ski Mountain,2
+780,Kyle Harmon Townsend,Snowshoe Mountain,4
+781,Kyle Harmon Townsend,Sugar Mountain,3
+782,ryan,Bear Mountain,4
+783,WilleA,Loon Mountain,4
+784,winstonwolf,Whitecap Mountain,2
+785,smk1945,Beaver Creek,5
+786,resa 1,Blue Mountain,4
+787,J,Cascade Mountain,5
+788,J,Wilmot Mountain,4
+789,Reaper,Bear Mountain,5
+790,alvlee01,Sierra at Tahoe,4
+791,chris  Bjornmose,Dodge Ridge,4
+792,Ian Yuh,Boreal,2
+793,istink,Chestnut Mountain,4
+794,istink,Grand Geneva,4
+795,istink,Villa Olivia,2
+796,smk1945,Copper Mountain,4
+797,J,Alpine Valley Wisconsin,4
+798,J,Chestnut Mountain,5
+799,J,Nordic Mountain,4
+800,J,Ski Snowstar,4
+801,Les,Copper Mountain,4
+802,Les,Steamboat,4
+803,Les,Winter Park,5
+804,dancinjrl,Appalachian Ski Mountain,4
+805,dancinjrl,Ski Beech Mountain,3
+806,dancinjrl,Ski Beech Mountain,4
+807,hparks,Copper Mountain,5
+808,hparks,Winter Park,4
+809,J,Norway Mountain,4
+810,J,Swiss Valley,5
+811,shari ann,Granite Peak,4
+812,resa 1,Jack Frost,4
+813,offwallstreet,Sugarbush,2
+814,Unionhawk,Snowshoe Mountain,4
+815,zakk,Powder Mountain,5
+816,BSbost,Breckenridge,5
+817,crust,Timberline Lodge,5
+818,Dave Freeman,Killington,4
+819,echi,Winter Park,3
+820,ENWR,Welch Village,5
+821,ENWR,Granite Peak,5
+822,gwiffie,Mt. Rose Ski Tahoe,4
+823,haineroid,Anthony Lakes Mountain,5
+824,john mosher,Aspen Snowmass,5
+825,john mosher,Steamboat,5
+826,john mosher,Vail,5
+827,masterdel,Purgatory Mountain,4
+828,pattwins,Mt. Southington,4
+829,Ronald,Vail,5
+830,spack,Killington,3
+831,wespac187,Wachusett Mountain,3
+832,wespac187,Stratton Mountain,5
+833,wisp,Breckenridge,5
+834,zakk,Sugar Bowl,4
+835,zakk,Snowbird,5
+836,zakk,Timberline Lodge,4
+837,zakk,Ski China Peak,4
+838,istink,Devils Head,4
+839,J,Cascade Mountain,5
+840,J,Hidden Valley,2
+841,J,Snow Creek,3
+842,Richard Min,Welch Village,2
+843,Richard Min,Lutsen Mountains,4
+844,Richard Min,Spirit Mountain,3
+845,jim8588,Schuss Mountain,5
+846,joancoburn,Gunstock,3
+847,Les,Steamboat,4
+848,Maureen,Bolton Valley,4
+849,Maureen,Smugglers' Notch,2
+850,Maureen,Sugarbush,5
+851,mjurkiewicz,Okemo Mountain,5
+852,Robert Turner,Deer Valley,4
+853,SweetSki,Schweitzer,4
+854,jfoldno7,Monarch Mountain,3
+855,jfoldno7,Ski Cooper,2
+856,jfoldno7,Crested Butte Mountain,5
+857,jfoldno7,Beaver Creek,3
+858,jfoldno7,Sunlight Mountain,2
+859,jfoldno7,Burke Mountain,3
+860,jfoldno7,Okemo Mountain,5
+861,jfoldno7,Magic Mountain Vermont,3
+862,Randy Agness,Stowe Mountain,5
+863,Randy Agness,Whiteface Mountain,5
+864,Randy Agness,McCauley Mountain,4
+865,apken,Belleayre,4
+866,Ian England,Aspen Snowmass,3
+867,Ian England,Vail,3
+868,Ian England,Keystone,4
+869,J,Boyne Mountain,5
+870,J,Crystal Mountain Michigan,4
+871,J,Nubs Nob,5
+872,Ryan Pringnitz,Caberfae Peaks Ski Golf,2
+873,skiergirl27 ,Loon Mountain,3
+874,skiergirl27 ,Mt. Snow,5
+875,resa 1,Shawnee Mountain,3
+876,bostowyo,Ragged Mountain,4
+877,J,Christie Mountain,5
+878,J,Christmas Mountain,4
+879,J,Tyrol Basin,3
+880,J,Villa Olivia,2
+881,Jim Dana,Norway Mountain,5
+882,Jim Dana,Pine Mountain,1
+883,Mike134,Big Powderhorn Mountain,5
+884,Richard Min,Spirit Mountain,4
+885,Ryan Pringnitz,Nubs Nob,5
+886,brtn551,Copper Mountain,5
+887,brtn551,Breckenridge,5
+888,brtn551,Breckenridge,5
+889,George P,Cannon Mountain,5
+890,J,Grand Geneva,3
+891,J,Sunburst,4
+892,J,Whitecap Mountain,5
+893,Jim Dana,Big Powderhorn Mountain,5
+894,Richard Min,Spirit Mountain,3
+895,RICK STEPHENS,Copper Mountain,5
+896,skinomad,Devils Head,5
+897,Art Zinn,Camelback Mountain,4
+898,bostowyo,Wildcat Mountain,4
+899,bostowyo,Pats Peak,3
+900,fcherichel,Jiminy Peak,5
+901,HelderbergComplainer,Stowe Mountain,5
+902,nastarfan,Pine Mountain,5
+903,RICK STEPHENS,Vail,5
+904,shari ann,Powder Ridge Minnesota,4
+905,Alan M,Eldora Mountain,5
+906,haineroid,Anthony Lakes Mountain,5
+907,mjurkiewicz,Elk Mountain Ski,2
+908,RICK STEPHENS,Keystone,5
+909,john mosher,Snowbasin,5
+910,treesker,Silver Mountain,1
+911,Ian,Mt. Snow,4
+912,Ian,Mt. Southington,3
+913,Richard Min,Spirit Mountain,5
+914,soakandski,Camelback Mountain,4
+915,crust,Silver Mountain,1
+916,isaac reule,Snowbasin,5
+917,resa 1,Mt. Snow,5
+918,isaac reule,Silverton Mountain,3
+919,Richard Min,Spirit Mountain,4
+920,tandmkirk,Boyne Mountain,5
+921,bwm30,Steamboat,5
+922,dubisaweapon,Alta,5
+923,H3NDR1X15,Wachusett Mountain,3
+924,H3NDR1X15,Jiminy Peak,5
+925,jay_bone_22,Angel Fire,1
+926,Ryan Pringnitz,Timber Ridge,2
+927,zakk,Mammoth Mountain,5
+928,zakk,Bear Valley,4
+929,zakk,Heavenly Mountain,3
+930,fcherichel,Park City Mountain,5
+931,Jase,Grand Targhee,5
+932,Richard Min,Spirit Mountain,3
+933,LDT,Alta,5
+934,mrcompgov,Bear Creek Mountain,5
+935,mrcompgov,Elk Mountain Ski,5
+936,smk1945,Vail,5
+937,brianwatts,Okemo Mountain,5
+938,brianwatts,Elk Mountain Ski,5
+939,brtn551,Park City Mountain,5
+940,brtn551,Granite Peak,5
+941,brtn551,Devils Head,5
+942,brtn551,Aspen Snowmass,4
+943,brtn551,Snowy Range,3
+944,Adye 1,Vail,5
+945,zakk,Dodge Ridge,4
+946,beefcake1313,Snow King,4
+947,beefcake1313,Snow King,4
+948,Bmorabito,Brian Head,5
+949,brianwatts,Mt. Peter,3
+950,cmustard,Snowbird,5
+951,cmustard,Grand Targhee,5
+952,crust,49 Degrees North,5
+953,davidlau123,Alpine Valley Wisconsin,4
+954,davidlau123,Cascade Mountain,5
+955,davidlau123,Devils Head,3
+956,davidlau123,Wilmot Mountain,3
+957,HelderbergComplainer,Bromley Mountain,4
+958,Hunter McPherson,Boston Mills and Brandywine,3
+959,Hunter McPherson,Boston Mills and Brandywine,3
+960,Hunter McPherson,Peekn Peak,4
+961,iwill,Sun Valley,2
+962,iwill,Mt. Hood Skibowl,5
+963,jim8588,Nubs Nob,5
+964,jim8588,Boyne Highlands,5
+965,nmkelley,Catamount Ski Ride Area,4
+966,perrmj02,Sugarbush,5
+967,shari ann,Andes Tower Hills,3
+968,shari ann,Andes Tower Hills,3
+969,steep n deep ,Okemo Mountain,4
+970,SweetSki,49 Degrees North,5
+971,bigw1313,Cannon Mountain,4
+972,BO$$,Arizona Snowbowl,5
+973,BO$$,Hoodoo,4
+974,BO$$,Cataloochee,4
+975,BO$$,Ober Gatlinburg Ski,3
+976,frankpa,Breckenridge,3
+977,frankpa,Vail,5
+978,gkphi5,Kirkwood,5
+979,RICK STEPHENS,Arapahoe Basin,3
+980,Scott Dillman,Sugarbush,4
+981,Scott Dillman,Stratton Mountain,5
+982,Bobby G,Grand Targhee,5
+983,Bobby G,Beaver Mountain,5
+984,brtn551,Jackson Hole,5
+985,horse,Crested Butte Mountain,4
+986,joancoburn,Jay Peak,4
+987,joancoburn,Gunstock,3
+988,pinkkid_2000,Kirkwood,5
+989,pinkkid_2000,Kirkwood,4
+990,Ryan Pringnitz,Boyne Mountain,4
+991,BSbost,Purgatory Mountain,3
+992,herbsmen,Heavenly Mountain,3
+993,pattwins,Ski Butternut,4
+994,newby24,Nubs Nob,5
+995,newby24,Big Powderhorn Mountain,5
+996,newby24,Pine Mountain,2
+997,passanto1,Mt. Rose Ski Tahoe,5
+998,passanto1,Heavenly Mountain,3
+999,psuguy43094,Loon Mountain,5
+1000,RICK STEPHENS,Winter Park,4
+1001,bluemoon1975,Burke Mountain,4
+1002,bluemoon1975,West Mountain,4
+1003,bluemoon1975,Saskadena Six,4
+1004,newsance,Monarch Mountain,5
+1005,newsance,Keystone,2
+1006,skiergirl27 ,Attitash,5
+1007,LDT,Palisades Tahoe,4
+1008,LDT,Northstar California,5
+1009,resa 1,Bear Creek Mountain,5
+1010,alex,White Pass,5
+1011,Diane Saraceni,Bolton Valley,4
+1012,Diane Saraceni,Mt. Snow,5
+1013,mjnecaise,Alta,4
+1014,mjnecaise,Deer Valley,4
+1015,Richard Min,Lutsen Mountains,3
+1016,alvlee01,Palisades Tahoe,3
+1017,alvlee01,Northstar California,4
+1018,alvlee01,Heavenly Mountain,3
+1019,Ryan Pringnitz,Bittersweet,3
+1020,Ryan Pringnitz,Boyne Highlands,2
+1021,iwill,White Pass,3
+1022,iwill,Stevens Pass,4
+1023,LDT,Heavenly Mountain,4
+1024,star1201,Giants Ridge,5
+1025,star1201,Giants Ridge,5
+1026,star1201,Hyland Ski,1
+1027,Gunny J,Windham Mountain,4
+1028,lumaye64,Ski Brule,5
+1029,Gunny J,Big Boulder,3
+1030,Thomas,Telluride,3
+1031,SkiGalveston,Vail,5
+1032,SkiGalveston,Ski Apache,2
+1033,Gunny J,Hunter Mountain,4
+1034,Ryan Pringnitz,Nubs Nob,5
+1035,papi6022,Smugglers' Notch,5
+1036,SkiGalveston,Beaver Creek,5
+1037,isaac reule,Snowbird,5
+1038,J,Keystone,5
+1039,Ryan Pringnitz,Schuss Mountain,5
+1040,Simon,Snowbasin,5
+1041,Simon,Breckenridge,5
+1042,Simon,Beaver Creek,4
+1043,Thomas,Vail,5
+1044,gma,Berkshire East,3
+1045,gma,Ski Butternut,3
+1046,flatlander13,Lutsen Mountains,5
+1047,gma,Bousquet,3
+1048,Ryan Pringnitz,Cannonsburg,2
+1049,dancinjrl,Breckenridge,5
+1050,gma,Bromley Mountain,5
+1051,Likeabat,Solitude Mountain,4
+1052,gma,Otis Ridge,3
+1053,gma,Catamount Ski Ride Area,2
+1054,psuguy43094,Waterville Valley,4
+1055,Gunny J,Hunter Mountain,4
+1056,gma,Blandford,3
+1057,gma,Windham Mountain,3
+1058,mir0yan222,Dodge Ridge,2
+1059,mir0yan222,Heavenly Mountain,5
+1060,gma,Wachusett Mountain,3
+1061,gma,Hunter Mountain,3
+1062,Thomas,Jackson Hole,2
+1063,gma,Montage Mountain,2
+1064,Burtoncustomjon,Mammoth Mountain,5
+1065,Burtoncustomjon,Snow Valley,4
+1066,Burtoncustomjon,Bear Mountain,4
+1067,Peter Mende,Alpine Valley Wisconsin,4
+1068,Unionhawk,Snowshoe Mountain,4
+1069,mkt,Ski Brule,5
+1070,JakeS513,Arapahoe Basin,3
+1071,JakeS513,Loveland,4
+1072,JakeS513,Keystone,5
+1073,gma,Elk Mountain Ski,3
+1074,gma,Killington,4
+1075,Justin Howell,Vail,4
+1076,mkt,Snowriver Mountain Resort,4
+1077,mkt,Norway Mountain,4
+1078,mkt,Norway Mountain,4
+1079,mkt,Pine Mountain,2
+1080,mkt,Lutsen Mountains,5
+1081,mkt,Marquette Mountain,3
+1082,Justin Howell,Killington,4
+1083,apken,Mountain Creek,1
+1084,Ryan Pringnitz,Crystal Mountain Michigan,4
+1085,JP,Breckenridge,5
+1086,Matt Woodruff,Nubs Nob,5
+1087,JP,Winter Park,4
+1088,Matt Woodruff,Schuss Mountain,4
+1089,Matt Woodruff,Marquette Mountain,5
+1090,Matt Woodruff,Mt. Holiday,3
+1091,Matt Woodruff,Mt. Holiday,3
+1092,Dylan,Killington,5
+1093,JP,Keystone,5
+1094,popski boy,Loveland,5
+1095,cane700,Alpine Valley Wisconsin,4
+1096,cane700,Wilmot Mountain,3
+1097,fcherichel,Loveland,4
+1098,Canadian,Sugarbush,5
+1099,Canadian,Jay Peak,5
+1100,Canadian,Mad River Glen,5
+1101,Heather,Appalachian Ski Mountain,2
+1102,Heather,Keystone,5
+1103,Heather,Sugar Mountain,4
+1104,psuguy43094,Cannon Mountain,4
+1105,Chad,Big Sky,4
+1106,popski boy,Wolf Creek,5
+1107,popski boy,Winter Park,5
+1108,quinnman,Andes Tower Hills,4
+1109,A. cooper,Boyne Mountain,4
+1110,Mike Barrett,Whitefish Mountain,4
+1111,adube 1,Jay Peak,5
+1112,adube 1,Bretton Woods,1
+1113,adube 1,Mad River Glen,5
+1114,Vance Boyer,Kelly Canyon,4
+1115,Vance Boyer,Kelly Canyon,4
+1116,Taos Rules,Silverton Mountain,4
+1117,Taos Rules,Taos Ski Valley,5
+1118,Taos Rules,Ski Santa Fe,2
+1119,thesnowboarder,Gunstock,4
+1120,thesnowboarder,Pats Peak,4
+1121,herbsmen,Kirkwood,5
+1122,herbsmen,Sierra at Tahoe,5
+1123,herbsmen,Northstar California,4
+1124,Greg morell,Berkshire East,4
+1125,snowboarderboi,Arapahoe Basin,4
+1126,A. cooper,Vail,5
+1127,mkt,Snowriver Mountain Resort,5
+1128,DubbelSac,Copper Mountain,4
+1129,DubbelSac,Arapahoe Basin,5
+1130,DubbelSac,Jay Peak,5
+1131,DubbelSac,Bretton Woods,4
+1132,DubbelSac,Shawnee Mountain,4
+1133,DubbelSac,Sunday River,4
+1134,DubbelSac,Okemo Mountain,2
+1135,DubbelSac,Cranmore Mountain,3
+1136,GuyinNM,Ski Santa Fe,4
+1137,wolfman,Park City Mountain,5
+1138,Jeff Gibson,Mt. Rose Ski Tahoe,5
+1139,snowboarderboi,Wolf Creek,4
+1140,snowboarderboi,Taos Ski Valley,4
+1141,snowboarderboi,Loveland,4
+1142,wolfman,Sugar Bowl,3
+1143,wolfman,Northstar California,4
+1144,wolfman,Snowbird,5
+1145,wolfman,Brighton,4
+1146,wolfman,Telluride,5
+1147,GOOFY RIDER,Ski Butternut,4
+1148,GOOFY RIDER,Ski Sundown,2
+1149,GuyinNM,Wolf Creek,4
+1150,Justin Howell,Breckenridge,5
+1151,nastarfan,Pine Mountain,5
+1152,quinnman,Lutsen Mountains,5
+1153,quinnman,Buck Hill,4
+1154,quinnman,Powder Ridge Minnesota,4
+1155,GOOFY RIDER,Mt. Southington,2
+1156,GOOFY RIDER,Snowshoe Mountain,5
+1157,MCPG,Perfect North Slopes,3
+1158,Ontheslopes,Mt. Snow,4
+1159,quinnman,Welch Village,4
+1160,quinnman,Andes Tower Hills,4
+1161,quinnman,Spirit Mountain,4
+1162,wolfman,Solitude Mountain,4
+1163,wolfman,Crested Butte Mountain,4
+1164,quinnman,Andes Tower Hills,4
+1165,Nathan Dively,Sugar Mountain,4
+1166,Nathan Dively,Wolf Ridge Ski,4
+1167,wolfman,Bear Mountain,4
+1168,wolfman,Alpine Valley Wisconsin,3
+1169,wolfman,Wilmot Mountain,3
+1170,keneikirk,Bretton Woods,4
+1171,A. cooper,Snowriver Mountain Resort,4
+1172,mkt,Ski Brule,5
+1173,winstonwolf,Snowriver Mountain Resort,4
+1174,winstonwolf,Spirit Mountain,4
+1175,winstonwolf,Sundown Mountain,4
+1176,wolfman,Palisades Tahoe,4
+1177,papi6022,Sun Valley,3
+1178,Dave&DJ,Big Powderhorn Mountain,5
+1179,jfoldno7,Crested Butte Mountain,5
+1180,wolfman,Grand Targhee,4
+1181,wolfman,Jackson Hole,4
+1182,wolfman,Snow King,3
+1183,wolfman,Cascade Mountain,4
+1184,wolfman,Chestnut Mountain,4
+1185,wolfman,Devils Head,4
+1186,wolfman,Sundown Mountain,4
+1187,Dave Freeman,Snowbasin,5
+1188,ryan dunlap,Snowshoe Mountain,1
+1189,SGTDBP,Bradford,3
+1190,swetsb,Massanutten,1
+1191,wolfman,Breckenridge,3
+1192,wolfman,Breckenridge,3
+1193,wolfman,Keystone,3
+1194,wolfman,Villa Olivia,2
+1195,R Lee Stump,Mt. Baker,4
+1196,R Lee Stump,Jiminy Peak,4
+1197,sewardhorner,Bittersweet,4
+1198,Damon,June Mountain,5
+1199,DubbelSac,Sugarloaf,4
+1200,ryan dunlap,Snowshoe Mountain,1
+1201,R Lee Stump,Okemo Mountain,4
+1202,R Lee Stump,Mt. Sunapee,4
+1203,ryan dunlap,Bryce,5
+1204,ryan dunlap,Winterplace Ski,1
+1205,keneikirk,Stowe Mountain,5
+1206,mrcompgov,Crotched Mountain,5
+1207,tandmkirk,Bittersweet,3
+1208,tandmkirk,Timber Ridge,3
+1209,Vance Boyer,Grand Targhee,5
+1210,ryannw,Silver Mountain,4
+1211,nanaandpapa,Big Powderhorn Mountain,5
+1212,runner/skier,Sunlight Mountain,5
+1213,MCPG,Paoli Peaks,4
+1214,otgoal21,Palisades Tahoe,4
+1215,otgoal21,Ober Gatlinburg Ski,2
+1216,otgoal21,Ober Gatlinburg Ski,2
+1217,Bobby G,Whiteface Mountain,4
+1218,djgray,Ski China Peak,5
+1219,RidersProject,Brighton,4
+1220,flyersboy114,Mt. Snow,1
+1221,Nathan Dively,Appalachian Ski Mountain,4
+1222,Nathan Dively,Ski Beech Mountain,4
+1223,Nathan Dively,Wolf Ridge Ski,4
+1224,Dave O,Timberline Mountain,3
+1225,Dave O,Roundtop Mountain,4
+1226,Dave O,Roundtop Mountain,4
+1227,joegregdon,Mt. Snow,4
+1228,skifiend,Peekn Peak,4
+1229,Dave&DJ,Big Powderhorn Mountain,5
+1230,papi6022,Sun Valley,3
+1231,SGTDBP,Crotched Mountain,4
+1232,skifiend,Blue Mountain,4
+1233,GuyinNM,Angel Fire,3
+1234,snowboarderboi,Timberline Lodge,4
+1235,thesnowboarder,Cannon Mountain,5
+1236,eewdad,Crotched Mountain,4
+1237,mkt,Granite Peak,4
+1238,Gunny J,Elk Mountain Ski,3
+1239,Shane Wicken,Mt. Sunapee,4
+1240,flyingrabbit,Blue Knob,4
+1241,Carrie,Jay Peak,5
+1242,Carrie,Mt. Snow,3
+1243,Alan M,Mt. Snow,5
+1244,Dave O,Liberty,3
+1245,SkiBadger,Timberline Mountain,3
+1246,Dave O,Whitetail,4
+1247,djgray,Ski China Peak,5
+1248,eewdad,Ragged Mountain,1
+1249,sewardhorner,Swiss Valley,3
+1250,thesnowboarder,Crotched Mountain,4
+1251,dubisaweapon,Jay Peak,5
+1252,Ontheslopes,Smugglers' Notch,4
+1253,eewdad,Loon Mountain,4
+1254,Mike Barrett,Solitude Mountain,4
+1255,Mike Barrett,Park City Mountain,4
+1256,Mike Barrett,Jackson Hole,4
+1257,Reaper,Mountain High,2
+1258,runner/skier,Vail,3
+1259,Brian Lewis,Jiminy Peak,5
+1260,Brian Lewis,Ski Butternut,5
+1261,Brian Lewis,Mohawk Mountain,5
+1262,Brian Lewis,Mt. Southington,4
+1263,Shane Wicken,Attitash,4
+1264,flyingrabbit,Tussey Mountain,2
+1265,R Lee Stump,Mt. Snow,4
+1266,R Lee Stump,Bromley Mountain,4
+1267,popski boy,Wolf Creek,5
+1268,runner/skier,Beaver Creek,5
+1269,ryanscottmac,Elk Mountain Ski,4
+1270,treesker,Silver Mountain,1
+1271,gma,Wintergreen,4
+1272,Alan M,Catamount Ski Ride Area,4
+1273,Alan M,Catamount Ski Ride Area,5
+1274,Brian Lewis,Okemo Mountain,5
+1275,sampanning,Telluride,5
+1276,gma,Snowshoe Mountain,4
+1277,Damon,Arizona Snowbowl,3
+1278,Cody March,Liberty,5
+1279,Olivia,Sugarbush,4
+1280,wolfman,Snowbasin,4
+1281,wolfman,Steamboat,4
+1282,andy D,Winterplace Ski,4
+1283,Mike134,Big Powderhorn Mountain,5
+1284,beachbumltj,Liberty,1
+1285,beachbumltj,Whitetail,2
+1286,beachbumltj,Wisp,4
+1287,purplebunyz,Killington,5
+1288,swetsb,Smugglers' Notch,4
+1289,Debbi,Mountain Creek,2
+1290,Dedmond,Bridger Bowl,5
+1291,Dedmond,Wolf Ridge Ski,3
+1292,Bill Deaton,Big Bear,4
+1293,djgray,Palisades Tahoe,2
+1294,drdevon,Mt. Hood Meadows,5
+1295,drdevon,Sun Valley,4
+1296,leerampolla,Lee Canyon,2
+1297,Reaper,Bear Mountain,5
+1298,R Lee Stump,Sugarbush,5
+1299,Debbi,Belleayre,4
+1300,Debbi,Elk Mountain Ski,3
+1301,smk1945,Winter Park,4
+1302,snowboarderboi,Mt. Baker,4
+1303,thesnowboarder,Pats Peak,2
+1304,Les,Copper Mountain,3
+1305,Les,Winter Park,5
+1306,ONTHESHITER,Bear Valley,5
+1307,Ryan Pringnitz,Alta,5
+1308,wespac187,Ragged Mountain,4
+1309,brian watts,Okemo Mountain,5
+1310,brian watts,Elk Mountain Ski,5
+1311,Mark Lang,Bretton Woods,5
+1312,Mark Lang,Shawnee Mountain,4
+1313,nnypa,Titus Mountain,5
+1314,nnypa,Woods Valley,4
+1315,nnypa,Woods Valley,4
+1316,nnypa,Dry Hill,3
+1317,nnypa,Dry Hill,3
+1318,Kase1,Mountain Creek,2
+1319,ONTHESHITER,Kirkwood,5
+1320,ONTHESHITER,Heavenly Mountain,4
+1321,papi6022,Stratton Mountain,5
+1322,skibum40,Ski Santa Fe,4
+1323,cody hamlin,Camelback Mountain,3
+1324,Dave O,Liberty,4
+1325,DubbelSac,Attitash,4
+1326,isaac reule,Beaver Creek,2
+1327,Elliot Green,Liberty,3
+1328,humanmap,Breckenridge,5
+1329,humanmap,Arapahoe Basin,5
+1330,humanmap,Vail,3
+1331,humanmap,Keystone,5
+1332,medford_mike,Wachusett Mountain,5
+1333,medford_mike,Berkshire East,4
+1334,purplebunyz,Wisp,4
+1335,Dave O,Roundtop Mountain,4
+1336,mrcompgov,Bear Creek Mountain,5
+1337,thesnowboarder,Mt. Sunapee,3
+1338,Lori Kushar,Snowriver Mountain Resort,4
+1339,mir0yan222,Schweitzer,5
+1340,R Lee Stump,Catamount Ski Ride Area,3
+1341,Vance Boyer,Jackson Hole,5
+1342,Three2Ski,Mt. Sunapee,5
+1343,Bill Deaton,Bromley Mountain,5
+1344,Bill Deaton,Montage Mountain,2
+1345,bandanasFTL,Copper Mountain,4
+1346,bandanasFTL,Steamboat,5
+1347,bandanasFTL,Winter Park,3
+1348,skijds,Canaan Valley,5
+1349,vadoc,Massanutten,3
+1350,vadoc,Wintergreen,4
+1351,mkt,Snowriver Mountain Resort,4
+1352,mkt,Big Powderhorn Mountain,5
+1353,eewdad,Mt. Sunapee,4
+1354,runner/skier,Telluride,5
+1355,eewdad,Pats Peak,3
+1356,J,Granite Peak,5
+1357,keneikirk,Heavenly Mountain,5
+1358,runner/skier,Silverton Mountain,5
+1359,runner/skier,Purgatory Mountain,5
+1360,R Lee Stump,Stratton Mountain,5
+1361,R Lee Stump,Magic Mountain Vermont,4
+1362,Seth Christopher Bjorkman,Mt. Southington,3
+1363,mrcompgov,Elk Mountain Ski,5
+1364,passanto1,Aspen Snowmass,5
+1365,Seth Christopher Bjorkman,Ski Butternut,4
+1366,Three2Ski,Smugglers' Notch,4
+1367,bluemoon1975,Grand Targhee,4
+1368,bluemoon1975,Bolton Valley,3
+1369,jim8588,Alta,4
+1370,ryanscottmac,Liberty,3
+1371,skijds,Bryce,5
+1372,ryanscottmac,Montage Mountain,3
+1373,Dave O,Whitetail,2
+1374,stuck_in_614,Mad River Mountain,5
+1375,johnny mack,Granite Peak,5
+1376,powhound820,Windham Mountain,4
+1377,conboc,Bristol Mountain,5
+1378,johnny mack,Afton Alps,5
+1379,Seth Christopher Bjorkman,King Pine,4
+1380,thesnowboarder,Wildcat Mountain,5
+1381,thesnowboarder,Cranmore Mountain,2
+1382,Damon,Sunrise Park,5
+1383,Jack Frost,Ski Beech Mountain,5
+1384,powhound820,Mountain Creek,3
+1385,powhound820,Camelback Mountain,3
+1386,powhound820,Campgaw Mountain,2
+1387,powhound820,Shawnee Mountain,3
+1388,runner/skier,Shawnee Mountain,4
+1389,Bruce,Wolf Creek,5
+1390,Bruce,Purgatory Mountain,4
+1391,smezhir,Breckenridge,3
+1392,conboc,Gore Mountain,2
+1393,mjd2646,Appalachian Ski Mountain,3
+1394,mjd2646,Ski Beech Mountain,4
+1395,mjd2646,Sugar Mountain,4
+1396,Jack Frost,Ski Beech Mountain,5
+1397,markiemark,Angel Fire,5
+1398,Ryan Pringnitz,Snowbird,5
+1399,Bill Deaton,Snowshoe Mountain,4
+1400,Dave O,Arapahoe Basin,4
+1401,JonIngalls,Lookout Pass,5
+1402,markiemark,Ski Santa Fe,2
+1403,Brian Thayer,Snowbird,5
+1404,Diane Saraceni,Whiteface Mountain,5
+1405,DoUcanoe2,Whitetail,2
+1406,HelderbergComplainer,Hunter Mountain,5
+1407,hotdotsails,Blue Mountain,5
+1408,johnny mack,Wild Mountain Ski,2
+1409,johnny mack,Spirit Mountain,5
+1410,Mark Rosasco,Winter Park,3
+1411,sewardhorner,Timber Ridge,4
+1412,stmad12,Copper Mountain,5
+1413,brian watts,Greek Peak,3
+1414,conboc,Woods Valley,5
+1415,Daniel Morris,Crystal Mountain Washington,5
+1416,Daniel Morris,Summit at Snoqualmie,4
+1417,drdevon,Taos Ski Valley,5
+1418,drdevon,Arapahoe Basin,4
+1419,JakeS513,Breckenridge,5
+1420,JC,Palisades Tahoe,4
+1421,JC,Kirkwood,4
+1422,Les,Breckenridge,4
+1423,Les,Keystone,5
+1424,markiemark,Purgatory Mountain,5
+1425,noonito,Steamboat,5
+1426,perrmj02,Heavenly Mountain,4
+1427,perrmj02,Magic Mountain Vermont,5
+1428,Ryan Pringnitz,Deer Valley,4
+1429,smk1945,Crested Butte Mountain,4
+1430,JC,Sierra at Tahoe,4
+1431,mkt,Ski Brule,5
+1432,mkt,Marquette Mountain,5
+1433,pattwins,Ski Sundown,4
+1434,nanaandpapa,Big Powderhorn Mountain,5
+1435,psuguy43094,Vail,5
+1436,Al Cipparone,Blue Mountain,4
+1437,Al Cipparone,Liberty,4
+1438,Al Cipparone,Canaan Valley,5
+1439,nanaandpapa,Snowriver Mountain Resort,3
+1440,R Lee Stump,Whiteface Mountain,5
+1441,Mike134,Big Powderhorn Mountain,5
+1442,skiwithkids,Big Powderhorn Mountain,5
+1443,Barbra Pasker,Snowbird,4
+1444,Brian Thayer,Alta,5
+1445,Gunny J,Camelback Mountain,4
+1446,H3NDR1X15,Bolton Valley,5
+1447,Jeff Gibson,Big Bear,4
+1448,Mark Lang,Killington,5
+1449,markwittlich,Angel Fire,1
+1450,nmkelley,Jiminy Peak,5
+1451,nmkelley,Ski Butternut,3
+1452,ParkLife,Sunday River,5
+1453,ParkLife,Sugarbush,3
+1454,passanto1,Stratton Mountain,4
+1455,ryanscottmac,Whitetail,2
+1456,skiergirl27 ,Attitash,5
+1457,bostowyo,Bretton Woods,5
+1458,DoUcanoe2,Bear Creek Mountain,4
+1459,Tim Zheng,Palisades Tahoe,5
+1460,Tim Zheng,Kirkwood,4
+1461,Tim Zheng,Sierra at Tahoe,4
+1462,Tim Zheng,Snowbird,5
+1463,Tim Zheng,Northstar California,4
+1464,Tim Zheng,Snowbasin,5
+1465,Tim Zheng,Brighton,4
+1466,Tim Zheng,Solitude Mountain,3
+1467,Tim Zheng,Heavenly Mountain,3
+1468,Tim Zheng,Park City Mountain,4
+1469,Tim Zheng,Powder Mountain,4
+1470,Tim Zheng,Big Sky,5
+1471,Tim Zheng,Bridger Bowl,4
+1472,Tim Zheng,Jay Peak,4
+1473,Tim Zheng,Stowe Mountain,4
+1474,Tim Zheng,Killington,3
+1475,conboc,Belleayre,5
+1476,wolfman,Telluride,5
+1477,wolfman,Telluride,5
+1478,djgray,Bear Valley,1
+1479,Jack Frost,Appalachian Ski Mountain,4
+1480,Jack Frost,Breckenridge,4
+1481,Jack Frost,Vail,4
+1482,Jack Frost,Beaver Creek,5
+1483,Jack Frost,Sugar Mountain,4
+1484,Tim Zheng,Breckenridge,4
+1485,Tim Zheng,Arapahoe Basin,4
+1486,Tim Zheng,Vail,4
+1487,Tim Zheng,Loveland,4
+1488,Tim Zheng,Beaver Creek,3
+1489,Tim Zheng,Keystone,3
+1490,cheezywhiz,Stratton Mountain,5
+1491,psuguy43094,Beaver Creek,5
+1492,Dave O,Timberline Mountain,4
+1493,mkt,Ski Brule,5
+1494,gma,Wisp,2
+1495,H3NDR1X15,Sunday River,3
+1496,Bruce,Sunday River,5
+1497,Daniel Morris,Stevens Pass,4
+1498,Jeff Gibson,Mammoth Mountain,5
+1499,Mark Rosasco,Vail,5
+1500,bigw1313,Heavenly Mountain,5
+1501,ONTHESHITER,Northstar California,2
+1502,ONTHESHITER,Sierra at Tahoe,2
+1503,gma,Magic Mountain Vermont,5
+1504,Bob Butts,Loon Mountain,3
+1505,Bob Butts,Mt. Sunapee,4
+1506,Bob Butts,Pats Peak,3
+1507,Bob Butts,Crotched Mountain,3
+1508,stmad12,Copper Mountain,5
+1509,stmad12,Snow Creek,4
+1510,papi6022,Taos Ski Valley,5
+1511,Colin,Bogus Basin,1
+1512,Danny Zhang,Bretton Woods,4
+1513,JJ,Mt. Baldy,1
+1514,Jack Frost,Arapahoe Basin,5
+1515,Jack Frost,Deer Valley,5
+1516,Peter Mende,Pine Mountain,1
+1517,Peter Mende,Pine Mountain,1
+1518,Ontheslopes,Smugglers' Notch,2
+1519,rar768,Woods Valley,2
+1520,rar768,McCauley Mountain,4
+1521,rar768,McCauley Mountain,4
+1522,sampanning,Snowbird,5
+1523,papi6022,Sugarbush,5
+1524,Erik Szayna,Mountain High,3
+1525,S. Areno,Big Sky,5
+1526,S. Areno,Terry Peak,4
+1527,S. Areno,Deer Mountain,4
+1528,Erik Szayna,Mt. Baldy,4
+1529,S. Areno,Breckenridge,4
+1530,christopher griffin,Palisades Tahoe,5
+1531,christopher griffin,Snowbird,5
+1532,christopher griffin,Winter Park,5
+1533,Nick Pope,Kirkwood,4
+1534,Nick Pope,Wolf Creek,4
+1535,Nick Pope,Heavenly Mountain,4
+1536,Nick Pope,Silverton Mountain,5
+1537,Nick Pope,Purgatory Mountain,4
+1538,Nick Pope,Ski Apache,4
+1539,Nick Pope,Taos Ski Valley,5
+1540,johnny alonso,Whitetail,4
+1541,Nick Pope,Palisades Tahoe,4
+1542,johnny alonso,Liberty,3
+1543,johnny alonso,Bear Mountain,4
+1544,Jason Tubbs,Wolf Creek,4
+1545,Jason Tubbs,Telluride,5
+1546,Jason Tubbs,Breckenridge,4
+1547,Jason Tubbs,Vail,4
+1548,Jason Tubbs,Blue Knob,4
+1549,andy D,Heavenly Mountain,5
+1550,andy D,Wintergreen,3
+1551,Greg morell,Wildcat Mountain,5
+1552,wolfman,Perfect North Slopes,4
+1553,Nick Park,Holiday Valley,4
+1554,Nick Park,Alpine Valley Ohio,3
+1555,Nick Park,Peekn Peak,4
+1556,wolfman,Vail,4
+1557,wolfman,Park City Mountain,5
+1558,Charles Ball,Song Mountain,3
+1559,Charles Ball,Holimont,5
+1560,Charles Ball,Bristol Mountain,4
+1561,Charles Ball,Gore Mountain,4
+1562,Colin,Bogus Basin,3
+1563,Erik Szayna,Mammoth Mountain,5
+1564,Peter Mende,Mt. Bohemia,5
+1565,loricipheran,Snow Trails,4
+1566,ryanscottmac,Big Bear,4
+1567,dave figenshu,Jack Frost,5
+1568,Bill Deaton,Big Boulder,2
+1569,cheezywhiz,Snowbird,5
+1570,cheezywhiz,Brighton,5
+1571,cheezywhiz,Solitude Mountain,4
+1572,ryan,Montage Mountain,3
+1573,johnny alonso,Whitetail,5
+1574,loricipheran,Alpine Valley Ohio,2
+1575,Seth Christopher Bjorkman,Mt. Snow,4
+1576,ParkLife,Copper Mountain,5
+1577,ParkLife,Sunday River,5
+1578,skigenome57,Sunday River,4
+1579,skigenome57,Sugarbush,5
+1580,Evan Wright,Devils Head,5
+1581,loricipheran,Boston Mills and Brandywine,3
+1582,loricipheran,Boston Mills and Brandywine,4
+1583,skigenome57,Wachusett Mountain,4
+1584,Brian K Palmer,Mt. Bachelor,5
+1585,Brian K Palmer,Heavenly Mountain,5
+1586,Brian K Palmer,Park City Mountain,5
+1587,Brian K Palmer,Brian Head,5
+1588,Brian K Palmer,Lee Canyon,2
+1589,flyingrabbit,Whiteface Mountain,5
+1590,loricipheran,Peekn Peak,4
+1591,chris  Bjornmose,Dodge Ridge,4
+1592,loricipheran,Nubs Nob,5
+1593,chris  Bjornmose,Dodge Ridge,4
+1594,keneikirk,Shawnee Mountain,3
+1595,A. cooper,Mt. Bohemia,5
+1596,Daniel Morris,Summit at Snoqualmie,4
+1597,treesker,Big Bear,1
+1598,chris  Bjornmose,Dodge Ridge,4
+1599,Quinn,Bear Creek Mountain,5
+1600,ryannw,49 Degrees North,3
+1601,ryannw,Lookout Pass,4
+1602,ryannw,Schweitzer,4
+1603,Devon Marques,Jiminy Peak,4
+1604,Jack Frost,Ski Beech Mountain,4
+1605,mrcompgov,Crotched Mountain,5
+1606,Dave O,Timberline Mountain,4
+1607,purplebunyz,Okemo Mountain,4
+1608,Tahsha LePage,Devils Head,5
+1609,Tahsha LePage,Whitecap Mountain,3
+1610,thowes,Ragged Mountain,5
+1611,thowes,Gunstock,3
+1612,thowes,Crotched Mountain,5
+1613,gma,Arizona Snowbowl,3
+1614,Tahsha LePage,Nordic Mountain,3
+1615,Tahsha LePage,Tyrol Basin,2
+1616,Dedmond,Arapahoe Basin,3
+1617,Dedmond,Loveland,5
+1618,J Berlo,Nubs Nob,5
+1619,Evan Wright,Alpine Valley Wisconsin,4
+1620,George P,Sugarloaf,5
+1621,George P,Greek Peak,4
+1622,Tahsha LePage,Granite Peak,5
+1623,loricipheran,Schuss Mountain,4
+1624,Seth Christopher Bjorkman,Jiminy Peak,5
+1625,Helenbry,Ski Brule,5
+1626,Helenbry,Ski Brule,5
+1627,Helenbry,Ski Brule,5
+1628,Ray Baucum,Camelback Mountain,5
+1629,beachbumltj,Timberline Mountain,4
+1630,Kase1,Sugarbush,4
+1631,andy D,Liberty,4
+1632,Greg morell,Mt. Abram Ski,4
+1633,Ktown,Killington,5
+1634,Lori Kushar,Snowriver Mountain Resort,5
+1635,BSbost,Deer Valley,5
+1636,Ktown,Loveland,3
+1637,stuck_in_614,Boston Mills and Brandywine,1
+1638,Alan M,Bretton Woods,5
+1639,Jackson,Jackson Hole,5
+1640,Ktown,Caberfae Peaks Ski Golf,3
+1641,loricipheran,Gore Mountain,4
+1642,loricipheran,Pomerelle Mountain,4
+1643,Alan M,Stowe Mountain,5
+1644,Dave O,Liberty,3
+1645,Evan O'Connell,Keystone,4
+1646,Ktown,Pico Mountain,4
+1647,Henry Hartley,Cranmore Mountain,5
+1648,Stan,Schweitzer,5
+1649,R Lee Stump,Stowe Mountain,5
+1650,R Lee Stump,Killington,5
+1651,stuck_in_614,Snow Trails,2
+1652,alex,Hyland Ski,4
+1653,andy D,Wisp,4
+1654,Gary,Boyne Mountain,5
+1655,Henry Hartley,King Pine,4
+1656,Henry Hartley,King Pine,4
+1657,Mark Fortin,Alpine Valley Wisconsin,4
+1658,Mark Fortin,Cascade Mountain,5
+1659,Mark Fortin,Grand Geneva,2
+1660,Mark Fortin,Ski Brule,5
+1661,Evan O'Connell,Crested Butte Mountain,5
+1662,Garrett Serwatka,Blue Mountain,3
+1663,Garrett Serwatka,Elk Mountain Ski,5
+1664,Garrett Serwatka,Shawnee Mountain,4
+1665,Jackson,Jay Peak,4
+1666,Jackson,Montage Mountain,4
+1667,Jackson,Elk Mountain Ski,4
+1668,Mark Fortin,Whitecap Mountain,4
+1669,otgoal21,Cataloochee,3
+1670,gma,Woodbury,2
+1671,Alan M,Shawnee Mountain,4
+1672,Tremblay,Sugarbush,3
+1673,beachbumltj,Keystone,4
+1674,Dave Varney,Big Sky,5
+1675,tom travis,Roundtop Mountain,3
+1676,tom travis,Whitetail,4
+1677,RidersProject,Snowbird,4
+1678,loricipheran,Kissing Bridge,4
+1679,swetsb,Killington,4
+1680,swetsb,Ski Sundown,3
+1681,Doug,Snow Creek,4
+1682,Dave O,Roundtop Mountain,4
+1683,eewdad,Cannon Mountain,2
+1684,eewdad,Gunstock,3
+1685,Evan Wright,Chestnut Mountain,5
+1686,skigenome57,Mt. Snow,3
+1687,Les,Palisades Tahoe,4
+1688,Les,Sugar Bowl,4
+1689,Evan O'Connell,Arapahoe Basin,5
+1690,R Lee Stump,Winter Park,5
+1691,RidersProject,Park City Mountain,4
+1692,Vicente Pinaula,Bear Creek Mountain,4
+1693,Vicente Pinaula,Spring Mountain,2
+1694,andy D,Snowshoe Mountain,5
+1695,beachbumltj,Sugarloaf,4
+1696,Vicente Pinaula,Elk Mountain Ski,4
+1697,Jeff Graham,Liberty,3
+1698,Jeff Graham,Roundtop Mountain,3
+1699,Jeff Graham,Whitetail,3
+1700,Ross Bretherton,Alpental,4
+1701,Ross Bretherton,Crystal Mountain Washington,5
+1702,skigenome57,Okemo Mountain,3
+1703,johnny alonso,Big Bear,5
+1704,smezhir,Beaver Creek,5
+1705,Al Cipparone,Wisp,4
+1706,gma,Belleayre,3
+1707,beachbumltj,Arapahoe Basin,5
+1708,gma,Plattekill Mountain,5
+1709,Kase1,Killington,3
+1710,Ross Bretherton,Stevens Pass,4
+1711,SGTDBP,Sunday River,5
+1712,Jonathan,Waterville Valley,4
+1713,Karver,Mountain Creek,2
+1714,Karver,Mt. Peter,3
+1715,Nick Franchino,Alta,5
+1716,Nick Franchino,Paoli Peaks,4
+1717,Nick Franchino,Perfect North Slopes,3
+1718,Ross Bretherton,Summit at Snoqualmie,2
+1719,Nick Franchino,Snowbird,4
+1720,Nick Franchino,Brighton,4
+1721,Nick Franchino,Solitude Mountain,4
+1722,govey80,Vail,4
+1723,Greg morell,Black Mountain,4
+1724,lumaye64,Ski Brule,5
+1725,spack,Elk Mountain Ski,4
+1726,Amber,Ski Brule,5
+1727,johnny alonso,Mountain High,5
+1728,ryanscottmac,Belleayre,5
+1729,slcrazy00,Ski Brule,5
+1730,Tremblay,Arapahoe Basin,4
+1731,Tremblay,Vail,5
+1732,Tremblay,Beaver Creek,2
+1733,Erik Szayna,Palisades Tahoe,5
+1734,Erik Szayna,Mammoth Mountain,5
+1735,Tremblay,Copper Mountain,4
+1736,Tremblay,Breckenridge,4
+1737,Evan Wright,Wilmot Mountain,3
+1738,Pierre,Nubs Nob,4
+1739,Pierre,Boyne Highlands,3
+1740,Pierre,Mt. Holly,4
+1741,skylolow,Mt. Bohemia,5
+1742,Tremblay,Alta,5
+1743,Tremblay,Snowbasin,5
+1744,Karver,Heavenly Mountain,5
+1745,Vicente Pinaula,Camelback Mountain,4
+1746,Charles Hallett,Alpental,3
+1747,Charles Hallett,Snowbasin,5
+1748,Charles Hallett,Brundage Mountain,4
+1749,Charles Hallett,Crystal Mountain Washington,4
+1750,Tremblay,Keystone,4
+1751,skigenome57,Killington,5
+1752,WilleA,Gunstock,4
+1753,cody hamlin,Sugarbush,5
+1754,cody hamlin,Sugarbush,5
+1755,gma,Pico Mountain,3
+1756,medford_mike,Crotched Mountain,3
+1757,Danny Zhang,Cannon Mountain,5
+1758,Danny Zhang,Wachusett Mountain,3
+1759,shaun,Peekn Peak,5
+1760,Keith,Loon Mountain,5
+1761,Three2Ski,Jay Peak,2
+1762,Dave O,Liberty,3
+1763,Stan,Red River,4
+1764,Tj 1,Montage Mountain,4
+1765,David Moores,Cannon Mountain,5
+1766,David Moores,Bretton Woods,1
+1767,David Moores,Attitash,5
+1768,David Moores,King Pine,4
+1769,thesnowboarder,Burke Mountain,3
+1770,Jack Frost,Ski Beech Mountain,5
+1771,Jeff Graham,Wisp,3
+1772,jessepollock,Cascade Mountain,4
+1773,jessepollock,Tyrol Basin,3
+1774,SkiGirlie,Heavenly Mountain,5
+1775,SkiGirlie,Big Powderhorn Mountain,5
+1776,SkiGirlie,Bittersweet,3
+1777,CTskinerd,Jiminy Peak,5
+1778,CTskinerd,Catamount Ski Ride Area,3
+1779,CTskinerd,Berkshire East,3
+1780,CTskinerd,Stratton Mountain,5
+1781,CTskinerd,Bousquet,2
+1782,CTskinerd,Mohawk Mountain,4
+1783,CTskinerd,Ski Sundown,4
+1784,gma,Saskadena Six,4
+1785,CTskinerd,Mt. Southington,2
+1786,Daniel Morris,Mission Ridge,4
+1787,dave figenshu,Jack Frost,5
+1788,Nick Franchino,Wisp,5
+1789,iceskier,Stowe Mountain,4
+1790,iceskier,Smugglers' Notch,3
+1791,iceskier,Whiteface Mountain,5
+1792,iceskier,Blue Mountain,4
+1793,iceskier,Shawnee Mountain,2
+1794,curbdog,Mountain Creek,3
+1795,curbdog,Blue Mountain,4
+1796,curbdog,Jack Frost,3
+1797,Mike134,Snowriver Mountain Resort,5
+1798,gma,Burke Mountain,4
+1799,Dave O,Timberline Mountain,4
+1800,Tremblay,Jay Peak,3
+1801,nanaandpapa,Granite Peak,4
+1802,nanaandpapa,Big Powderhorn Mountain,5
+1803,runner/skier,Sunday River,4
+1804,jaynjay21,Killington,4
+1805,jaynjay21,Mt. Snow,3
+1806,jaynjay21,Ski Sundown,3
+1807,Dave Varney,Cannon Mountain,5
+1808,Dave Varney,Bretton Woods,3
+1809, Merry's,Wolf Creek,4
+1810, Merry's,Winter Park,5
+1811,JonIngalls,Lookout Pass,5
+1812,Erik Szayna,Big Bear,4
+1813,sampanning,Vail,4
+1814,beachbumltj,Winter Park,5
+1815,Snowboarder2424,Song Mountain,4
+1816,Snowboarder2424,Whiteface Mountain,5
+1817,Snowboarder2424,Toggenburg Mountain,2
+1818,Al Cipparone,Okemo Mountain,5
+1819,Al Cipparone,Ski Butternut,3
+1820,Snowboarder2424,Bristol Mountain,4
+1821,Tj 1,Elk Mountain Ski,3
+1822,Tj 1,Ski Sawmill,2
+1823,Tj 1,Windham Mountain,4
+1824,Dave O,Breckenridge,5
+1825,Drake,Boston Mills and Brandywine,2
+1826,Brian Campbell,Solitude Mountain,5
+1827,Brian Campbell,Deer Valley,5
+1828,Brian Campbell,Park City Mountain,5
+1829,Brian Campbell,Vail,5
+1830,Brian Campbell,Solitude Mountain,5
+1831,Clay King,Wolf Creek,2
+1832,Clay King,Winter Park,5
+1833,Clay King,Loveland,3
+1834,Clay King,Keystone,4
+1835,Clay King,Angel Fire,4
+1836,Clay King,Ski Santa Fe,2
+1837,Clay King,Pajarito Mountain,4
+1838,Clay King,Sipapu Ski and Summer,3
+1839,Clay King,Ski Cooper,3
+1840,Clay King,Vail,5
+1841,Clay King,Sandia Peak,2
+1842,Mark Gerardy,Copper Mountain,4
+1843,Mark Gerardy,Breckenridge,5
+1844,Mark Gerardy,Winter Park,3
+1845,Mark Gerardy,Arapahoe Basin,3
+1846,Mark Gerardy,Vail,2
+1847,Mark Gerardy,Vail,2
+1848,Mark Gerardy,Beaver Creek,5
+1849,Mark Gerardy,Keystone,4
+1850,Drake,Holiday Valley,5
+1851,Clay King,Copper Mountain,3
+1852,Clay King,Arapahoe Basin,5
+1853,Lorenzo A,Camelback Mountain,4
+1854,Lorenzo A,Killington,5
+1855,Lorenzo A,Liberty,2
+1856,Lorenzo A,Whitetail,3
+1857,Elliot Green,Whitefish Mountain,4
+1858,jessepollock,Snowriver Mountain Resort,4
+1859,jessepollock,Cascade Mountain,4
+1860,jessepollock,Devils Head,4
+1861,andrew Harris,Liberty,3
+1862,andrew Harris,Cannon Mountain,4
+1863,andrew Harris,Killington,5
+1864,Ross Bretherton,Summit at Snoqualmie,3
+1865,Mark Gerardy,Wolf Creek,4
+1866,M,Bristol Mountain,5
+1867,Tahsha LePage,Ski Brule,3
+1868,Nick Park,Snowbird,5
+1869,Nick Park,Stowe Mountain,4
+1870,Nick Park,Snowshoe Mountain,4
+1871,Justin Howell,Big Sky,5
+1872,Clay King,Alta,5
+1873,Clay King,Snowbasin,5
+1874,Clay King,Park City Mountain,3
+1875,SkiForFree,Mt. Baldy,4
+1876,Three2Ski,Wachusett Mountain,3
+1877,Dave O,Timberline Mountain,2
+1878,SkiForFree,Mountain High,4
+1879,SkiForFree,Snow Valley,4
+1880,Dave O,Blue Mountain,2
+1881,Evan Wright,Cascade Mountain,4
+1882,jaynjay21,Killington,4
+1883,jaynjay21,Ski Sundown,4
+1884,slcrazy00,Ski Brule,5
+1885,Tahsha LePage,Devils Head,5
+1886,Elliot Green,Jackson Hole,4
+1887,Elliot Green,Snow King,3
+1888,Dave O,Liberty,3
+1889,Tommy T,Snowbird,5
+1890,Mark Gerardy,Silverton Mountain,4
+1891,Jason Buchta,Red River,1
+1892,nastarfan,Pine Mountain,5
+1893,Vance Boyer,Sun Valley,5
+1894,Les,Winterplace Ski,2
+1895,Alan M,Okemo Mountain,5
+1896,cane700,Alpine Valley Wisconsin,4
+1897,Jason Buchta,Angel Fire,4
+1898,Bill  Rymer,Brian Head,4
+1899,Alan M,Mohawk Mountain,4
+1900,Jason Buchta,Pajarito Mountain,5
+1901,rocketal,Holimont,4
+1902,Tommy T,Snowbird,4
+1903,Joseph O'Brien,Killington,3
+1904,Joseph O'Brien,Killington,3
+1905,Tommy T,Snowbird,5
+1906,Devon Marques,Jiminy Peak,4
+1907,Devon Marques,Gore Mountain,5
+1908,Devon Marques,Ski Butternut,3
+1909,sewardhorner,Bittersweet,4
+1910,Joseph O'Brien,Killington,4
+1911,SkiForFree,Mammoth Mountain,4
+1912,rbericson,Kirkwood,4
+1913,rbericson,Northstar California,4
+1914,rbericson,Heavenly Mountain,4
+1915,Dave O,Roundtop Mountain,3
+1916,skier11,Snowriver Mountain Resort,5
+1917,skier11,Granite Peak,5
+1918,skier11,Cascade Mountain,5
+1919,Joseph O'Brien,Killington,4
+1920,Dave O,Liberty,2
+1921,Jase,Silver Mountain,5
+1922,Les,Big Sky,5
+1923,runner/skier,Alta,5
+1924,Adye 1,Mt. Bohemia,5
+1925,runner/skier,Park City Mountain,5
+1926,tom,Labrador Mt.,5
+1927,Dave O,Roundtop Mountain,3
+1928,tom,Toggenburg Mountain,4
+1929,tom,Song Mountain,4
+1930,Benjamin Sawyer,Monarch Mountain,3
+1931,Benjamin Sawyer,Vail,5
+1932,Benjamin Sawyer,Keystone,5
+1933,Benjamin Sawyer,Eldora Mountain,5
+1934,Al Cipparone,Stowe Mountain,5
+1935,Al Cipparone,Smugglers' Notch,4
+1936,shaun,Whitefish Mountain,5
+1937,shaun,Whitefish Mountain,5
+1938,shaun,Okemo Mountain,5
+1939,shaun,Okemo Mountain,5
+1940,spack,Stowe Mountain,5
+1941,Bill Deaton,Montage Mountain,3
+1942,C,Elk Mountain Ski,3
+1943,nanaandpapa,Snowriver Mountain Resort,3
+1944,nanaandpapa,Big Powderhorn Mountain,5
+1945,papi6022,Park City Mountain,5
+1946,Alan M,Red River,4
+1947,Bill Deaton,Mad River Glen,5
+1948,Jason Buchta,Sipapu Ski and Summer,3
+1949,cody hamlin,Breckenridge,4
+1950,sklein,Bogus Basin,4
+1951,sklein,Pomerelle Mountain,5
+1952,sklein,Soldier Mountain,1
+1953,AltSchneemann,Bryce,4
+1954,AltSchneemann,Bryce,4
+1955,AltSchneemann,Massanutten,3
+1956,AltSchneemann,Wintergreen,2
+1957, Merry's,Deer Valley,4
+1958,wedge2edge,Catamount Ski Ride Area,4
+1959,wedge2edge,Mohawk Mountain,4
+1960,Eis_geist,Boston Mills and Brandywine,1
+1961,Eis_geist,Snow Trails,5
+1962,MNSkier97,Welch Village,4
+1963,MNSkier97,Wild Mountain Ski,5
+1964,MNSkier97,Trollhaugen,4
+1965,MNSkier97,Lutsen Mountains,5
+1966,MNSkier97,Giants Ridge,3
+1967,MNSkier97,Buck Hill,3
+1968,MNSkier97,Afton Alps,4
+1969,MNSkier97,Spirit Mountain,4
+1970,spack,Bear Creek Mountain,4
+1971,oneesnow,Bolton Valley,5
+1972,oneesnow,Jay Peak,5
+1973,oneesnow,Mad River Glen,5
+1974,kjack,Snowbird,5
+1975,kjack,Mt. Bachelor,4
+1976,kjack,Beaver Creek,5
+1977,kjack,Keystone,4
+1978,village idiots,Jack Frost,2
+1979,Verdi DiSesa,Palisades Tahoe,5
+1980,Verdi DiSesa,Camelback Mountain,3
+1981,Verdi DiSesa,Elk Mountain Ski,4
+1982,Verdi DiSesa,Jack Frost,3
+1983,lumaye64,Ski Brule,5
+1984,slcrazy00,Ski Brule,5
+1985,Tommy T,Sundance,4
+1986,Drake,Mt. Snow,5
+1987,Jase,Stevens Pass,2
+1988,johnny alonso,Bear Mountain,5
+1989,RatherBeSkiing,Killington,3
+1990,RatherBeSkiing,Pico Mountain,4
+1991,Anelizk88,Sandia Peak,2
+1992,Fauster,Snowshoe Mountain,4
+1993,RatherBeSkiing,Windham Mountain,3
+1994,Brian Sloane,Blue Mountain,4
+1995,Brian Sloane,Camelback Mountain,4
+1996,Brian Sloane,Elk Mountain Ski,4
+1997,Brian Sloane,Jack Frost,4
+1998,Evan Wright,Grand Geneva,3
+1999,Mike Barrett,Lost Trail Powder Mountain,5
+2000,Anelizk88,Purgatory Mountain,5
+2001,Anelizk88,Ski Santa Fe,5
+2002,tjkotula,Arapahoe Basin,4
+2003,tjkotula,Keystone,4
+2004,vadoc,Wisp,4
+2005,sledbred,Alta,5
+2006,sledbred,Snowbird,5
+2007,sledbred,Brighton,4
+2008,sledbred,Solitude Mountain,4
+2009,sledbred,Deer Valley,4
+2010,sledbred,Park City Mountain,3
+2011,sledbred,Jackson Hole,5
+2012,sledbred,Big Sky,5
+2013,ctdiver,Killington,5
+2014,ctdiver,Mohawk Mountain,4
+2015,ctdiver,Ski Sundown,4
+2016,tjkotula,Vail,3
+2017,docmenach,Boreal,4
+2018,docmenach,Palisades Tahoe,3
+2019,douglas,Mt. Baker,5
+2020,douglas,Mt. Bachelor,5
+2021,douglas,Crystal Mountain Washington,4
+2022,douglas,Summit at Snoqualmie,4
+2023,douglas,Mission Ridge,3
+2024,skiwithkids,Big Powderhorn Mountain,5
+2025,skiwithkids,Big Powderhorn Mountain,5
+2026,OnEdge,Titus Mountain,5
+2027,OnEdge,Whiteface Mountain,4
+2028,OnEdge,Dry Hill,1
+2029,OnEdge,Snow Ridge,5
+2030,Lori Kushar,Snowriver Mountain Resort,5
+2031,Anelizk88,Angel Fire,3
+2032,skinomad,Breckenridge,5
+2033,tjkotula,Breckenridge,4
+2034,wedge2edge,Hunter Mountain,1
+2035,Dexter,Blue Knob,4
+2036,docmenach,Mt. Shasta Board Ski Park,4
+2037,Alan M,Taos Ski Valley,5
+2038,Alan M,Ski Santa Fe,4
+2039,Alan M,Red River,4
+2040,Gary,Boyne Mountain,4
+2041,rocketal,Mountain Creek,3
+2042,rocketal,Killington,4
+2043,rocketal,Peekn Peak,2
+2044,village idiots,Mountain Creek,4
+2045,village idiots,Montage Mountain,4
+2046,village idiots,Elk Mountain Ski,4
+2047,village idiots,Jack Frost,1
+2048,village idiots,Shawnee Mountain,1
+2049,tandmkirk,Nubs Nob,5
+2050,village idiots,Blue Mountain,4
+2051,village idiots,Big Boulder,1
+2052,40yrskibum,Breckenridge,3
+2053,40yrskibum,Copper Mountain,4
+2054,village idiots,Killington,5
+2055,D.S.,Mammoth Mountain,4
+2056,D.S.,Snowbird,4
+2057,D.S.,Timberline Lodge,4
+2058,Eis_geist,Alpine Valley Ohio,1
+2059,40yrskibum,Loveland,5
+2060,AltSchneemann,Ragged Mountain,4
+2061,tjkotula,Boyne Mountain,4
+2062,tjkotula,Nubs Nob,4
+2063,tjkotula,Boyne Highlands,3
+2064,papi6022,Aspen Snowmass,5
+2065,Abe Gold,Jackson Hole,5
+2066,Robert Oliver,Jack Frost,5
+2067,Matt McAuley,Alpental,3
+2068,Matt McAuley,Crystal Mountain Washington,5
+2069,Matt McAuley,Stevens Pass,4
+2070,Matt McAuley,Summit at Snoqualmie,1
+2071,Ray Baucum,Blue Mountain,3
+2072,Doug,Deer Valley,5
+2073,newsance,Wolf Creek,5
+2074,Dexter,Whitetail,4
+2075,Richard B,Berkshire East,4
+2076,Ray Baucum,Jack Frost,4
+2077,Ray Baucum,Montage Mountain,4
+2078,Ray Baucum,Elk Mountain Ski,5
+2079,Miyah and Keira Washington,Ski Brule,5
+2080,Scott Dillman,Gore Mountain,5
+2081,Jacob,Ski Brule,5
+2082,Nichole,Ski Brule,5
+2083,Wendy,Ski Brule,5
+2084,Nancy,Ski Brule,4
+2085,Ron,Sugar Mountain,4
+2086,Randy,Ski Brule,5
+2087,Annah Kim,Loon Mountain,4
+2088,Greg Smith,Monarch Mountain,5
+2089,Clayton,Ski Brule,5
+2090,Lou,Ski Brule,5
+2091,Karl,Ski Brule,5
+2092,Kris,Ski Brule,4
+2093,Annah Kim,Killington,3
+2094,Dexter,Liberty,3
+2095,Clayton,Ski Brule,4
+2096,JJ,Ski Brule,4
+2097,Stan,Breckenridge,5
+2098,Gary,Ski Brule,5
+2099,Quinn,Mt. Snow,4
+2100,Dylan,Palisades Tahoe,3
+2101,Carol,Eldora Mountain,4
+2102,ann phelan,Shawnee Mountain,4
+2103,Annah Kim,Cranmore Mountain,5
+2104,JonIngalls,Lookout Pass,5
+2105,village idiots,Camelback Mountain,1
+2106,village idiots,Camelback Mountain,1
+2107,ann phelan,Crotched Mountain,5
+2108,Dylan,Killington,5
+2109,T LAFRANCE,Gore Mountain,5
+2110,Bill  Rymer,Canaan Valley,4
+2111,Bill  Rymer,Canaan Valley,4
+2112,Rod,Keystone,2
+2113,Morgan,Tamarack,5
+2114,village idiots,Okemo Mountain,3
+2115,Carrie,Ski Brule,5
+2116,Chad,Ski Brule,5
+2117,ann phelan,Killington,4
+2118,Charles,Angel Fire,5
+2119,Doug,Granite Peak,4
+2120,Karl,Bogus Basin,3
+2121,ChoochCharlie,Bear Creek Mountain,5
+2122,ChoochCharlie,Bear Creek Mountain,5
+2123,falisethebeast,Song Mountain,3
+2124,falisethebeast,Bristol Mountain,4
+2125,falisethebeast,Labrador Mt.,3
+2126,ski bum,Mt. Rose Ski Tahoe,4
+2127,william c,Mt. Brighton,4
+2128,lname,Snowshoe Mountain,4
+2129,skipoint0,Gore Mountain,5
+2130,dillonhudson13,Palisades Tahoe,4
+2131,Chris Comer,Red River,4
+2132,Ryan Craig,Bristol Mountain,4
+2133,Ryan Craig,Caberfae Peaks Ski Golf,3
+2134,Dylan,Ski Brule,5
+2135,Jane,Ski Brule,5
+2136,Keith,Ski Brule,4
+2137,Morgan,Ski Brule,4
+2138,tride,Sunrise Park,3
+2139,jccultrona,Alpine Valley Ohio,4
+2140,jccultrona,Alpine Valley Ohio,4
+2141,M,Ski China Peak,3
+2142,Adam C,Granite Peak,5
+2143,Adam C,Alpine Valley Wisconsin,3
+2144,Adam C,Cascade Mountain,4
+2145,tride,Sunrise Park,3
+2146,tride,Sunrise Park,3
+2147,tride,Sunrise Park,3
+2148,lubbockroots,Wolf Creek,5
+2149,ostromsean,Bristol Mountain,5
+2150,jloloughlin2,Boyne Mountain,4
+2151,jloloughlin2,Mt. Brighton,3
+2152,jloloughlin2,Mt. Holly,4
+2153,ostromsean,Bristol Mountain,5
+2154,C,Catamount Ski Ride Area,5
+2155,horse,Telluride,5
+2156,colin,Elk Mountain Ski,4
+2157,jccultrona,Peekn Peak,5
+2158,colin,Camelback Mountain,4
+2159,colin,Shawnee Mountain,4
+2160,lukedborg,Lutsen Mountains,5
+2161,John Martin,Nubs Nob,3
+2162,John Martin,Boyne Highlands,5
+2163,lukedborg,Lutsen Mountains,5
+2164,ostromsean,Bristol Mountain,5
+2165,ostromsean,Bristol Mountain,5
+2166,Ryan Craig,Winter Park,3
+2167,Ryan Craig,Arapahoe Basin,4
+2168,Ryan Craig,Loveland,3
+2169,JP,Silverton Mountain,4
+2170,lukedborg,Wild Mountain Ski,1
+2171,lukedborg,Wild Mountain Ski,1
+2172,skipoint0,Gore Mountain,5
+2173,skipoint0,West Mountain,2
+2174,J,Catamount Ski Ride Area,5
+2175,J,Catamount Ski Ride Area,5
+2176,Eric's iPhone,Mammoth Mountain,5
+2177,Lou,Wolf Ridge Ski,3
+2178,Lou,Wolf Ridge Ski,3
+2179,Robert Oliver,Blue Mountain,4
+2180,Robert Oliver,Elk Mountain Ski,4
+2181,Robert Oliver,Jack Frost,4
+2182,Robert Oliver,Shawnee Mountain,3
+2183,dillonhudson13,Diamond Peak,1
+2184,Snowboarder,Stratton Mountain,5
+2185,Troy,Loveland,5
+2186,skipoint0,West Mountain,2
+2187,ann phelan,Sunday River,5
+2188,Lynn Qu,White Pass,5
+2189,papi6022,Killington,5
+2190,Skibumm,Killington,5
+2191,jdayneyesq,Killington,4
+2192,Skibumm,Killington,4
+2193,dillonhudson13,Palisades Tahoe,4
+2194,Troy,Wolf Creek,4
+2195,Troy,Vail,5
+2196,Rod,Loveland,4
+2197,Rod,Loveland,4
+2198,Ron,Ragged Mountain,4
+2199,jdayneyesq,Okemo Mountain,4
+2200,skipoint0,Gore Mountain,5
+2201,Nancy,Mt. Baker,5
+2202,H Muns,Bruce Mound,4
+2203,H Muns,Bruce Mound,4
+2204,Ian,Alta,5
+2205,Mathieu Greenwood,Liberty,1
+2206,Mathieu Greenwood,Wisp,1
+2207,Mathieu Greenwood,Canaan Valley,5
+2208,Tyler 1,Whiteface Mountain,5
+2209,iPhone (3),Mt. Hood Meadows,5
+2210,lubbockroots,Ski Santa Fe,5
+2211,tatyana drakhlis,Mt. Hood Meadows,5
+2212,tatyana drakhlis,Mt. Hood Skibowl,2
+2213,tatyana drakhlis,Mt. Hood Skibowl,2
+2214,rmack501,Trollhaugen,4
+2215,rmack501,Sundown Mountain,4
+2216,rmack501,Sundown Mountain,4
+2217,Randy,Mt. Bachelor,4
+2218,Tyler 1,Greek Peak,3
+2219,Tyler 1,Labrador Mt.,4
+2220,Skibumm,Whitetail,3
+2221,Jane,Big Sky,5
+2222,ann phelan,Crotched Mountain,4
+2223,william c,Mt. Brighton,4
+2224,william c,Mt. Brighton,4
+2225,Carol,Purgatory Mountain,3
+2226,larsagren,Alta,4
+2227,larsagren,Snowbird,4
+2228,larsagren,Brighton,5
+2229,Randy,Alta,1
+2230,Randy,Mt. Bachelor,5
+2231,T LAFRANCE,Gore Mountain,5
+2232,iPhone (3),Devils Head,3
+2233,kenneth morris,Stowe Mountain,3
+2234,dillonhudson13,Palisades Tahoe,2
+2235,Bobo Me,Snowbird,4
+2236,Tyler 1,Song Mountain,4
+2237,Quinn,Bromley Mountain,5
+2238,Ryan Craig,Solitude Mountain,3
+2239,Ryan Craig,Powder Mountain,5
+2240,alex,Ski Brule,5
+2241,lubbockroots,Ski Santa Fe,5
+2242,Lynn Qu,White Pass,5
+2243,kenneth morris,Smugglers' Notch,4
+2244,Chris Comer,Red River,4
+2245,ann phelan,Wildcat Mountain,5
+2246,Clayton,Granite Peak,4
+2247,ann phelan,Attitash,5
+2248,John Barber,Hogadon,5
+2249,John Barber,Hogadon,5
+2250,John Barber,Hogadon,5
+2251,M,Titus Mountain,2
+2252,Nancy D.,Hunter Mountain,1
+2253,Nancy D.,Hunter Mountain,1
+2254,Nancy D.,Hunter Mountain,1
+2255,Prawn,Palisades Tahoe,1
+2256,ianmilesdoyle,Bluewood,3
+2257,ianmilesdoyle,Bluewood,3
+2258,ianmilesdoyle,Bluewood,3
+2259,Ryan Craig,Schuss Mountain,2
+2260,Ryan Craig,Mt. Bohemia,5
+2261,Carol,Ski Brule,5
+2262,Michael Beck,Ski Brule,5
+2263,Michael Beck,Ski Brule,5
+2264,Tani Lucht,Ski Brule,5
+2265,Isabella  Hankins,Ski Brule,5
+2266,Isabella  Hankins,Ski Brule,5
+2267,Isabella  Hankins,Ski Brule,5
+2268,lname,Snowbird,1
+2269,jdayneyesq,Snowshoe Mountain,4
+2270,Bobo Me,Stratton Mountain,4
+2271,Cole Dumas,Wachusett Mountain,3
+2272,Cole Dumas,Sugarloaf,5
+2273,Cole Dumas,Okemo Mountain,4
+2274,Cole Dumas,Sugarloaf,5
+2275,Jonathan,Spirit Mountain,5
+2276,Prawn,Kirkwood,3
+2277,Greg Smith,Donner Ski Ranch,4
+2278,Carrie,Donner Ski Ranch,5
+2279,Chad,Donner Ski Ranch,4
+2280,Bobo Me,Alta,3
+2281,Bobo Me,Snowbird,5
+2282,Bobo Me,Telluride,5
+2283,Snowboarder,Cannonsburg,5
+2284,Prawn,Snowbasin,5
+2285,iPhone (3),Sunday River,3
+2286,Chris Comer,Red River,4
+2287,ryan,Bridger Bowl,1
+2288,ann phelan,Bretton Woods,4
+2289,Elizabeth,Sierra at Tahoe,5
+2290,marsharn,Nubs Nob,5
+2291,marsharn,Boyne Highlands,2
+2292,marsharn,Perfect North Slopes,4
+2293,lname,Wachusett Mountain,4
+2294,radtkej08,Spring Mountain,5
+2295,local skier,Cannonsburg,2
+2296,local skier,Cannonsburg,2
+2297,Lynn Qu,White Pass,5
+2298,Amber,Marquette Mountain,2
+2299,Amber,Marquette Mountain,2
+2300,Prawn,Palisades Tahoe,1
+2301,attyWSW,Okemo Mountain,5
+2302,Dylan,Ski Brule,4
+2303,Jonathan,Ski Brule,3
+2304,Jonathan,Ski Brule,4
+2305,Kris,Ski Brule,5
+2306,Nancy,Ski Brule,5
+2307,Nichole,Ski Brule,5
+2308,Nichole,Ski Brule,5
+2309,Randy,Ski Brule,4
+2310,Keith,Wachusett Mountain,3
+2311,ski bum,Lookout Pass,5
+2312,Greg Smith,Catamount Ski Ride Area,2
+2313,David Milford,Wolf Creek,5
+2314,David Milford,Monarch Mountain,5
+2315,David Milford,Purgatory Mountain,5
+2316,Eric's iPhone,Steamboat,5
+2317,Jean Evans,Wachusett Mountain,1
+2318,Jean Evans,Wachusett Mountain,1
+2319,David Milford,Taos Ski Valley,5
+2320,David Milford,Angel Fire,4
+2321,Jeffrey Cohen,Mt. Snow,5
+2322,Jeffrey Cohen,Mt. Snow,5
+2323,Riley Mosher,Ski Brule,4
+2324,Riley Mosher,Ski Brule,4
+2325,Tani Lucht,Ski Brule,5
+2326,Jean Evans,Wachusett Mountain,1
+2327,Valero,June Mountain,5
+2328,radtkej08,Blue Mountain,4
+2329,radtkej08,Blue Mountain,4
+2330,Valero,Mammoth Mountain,5
+2331,David Milford,Ski Santa Fe,5
+2332,David Milford,Sandia Peak,3
+2333,Colin,Montage Mountain,5
+2334,Sam Lehrich,Vail,5
+2335,Sam Lehrich,Camelback Mountain,4
+2336,Sam Lehrich,Belleayre,2
+2337,Marie,Ski Brule,5
+2338,Marie,Ski Brule,5
+2339,Miyah and Keira Washington,Ski Brule,5
+2340,Charles,Eldora Mountain,5
+2341,chernad,Mt. Sunapee,5
+2342,Valero,Greek Peak,1
+2343,B P,Mt. Southington,5
+2344,cath.haynes,Jackson Hole,4
+2345,ann phelan,Pico Mountain,2
+2346,Greg Matkosky,Elk Mountain Ski,5
+2347,Greg Matkosky,Elk Mountain Ski,5
+2348,Jaden Rodriguez,Silver Mountain,5
+2349,Jaden Rodriguez,Silver Mountain,5
+2350,Jaden Rodriguez,Silver Mountain,5
+2351,Jaden Rodriguez,Silver Mountain,5
+2352,Jim H,Jay Peak,5
+2353,Greg Matkosky,Elk Mountain Ski,5
+2354,Jaden Rodriguez,Silver Mountain,5
+2355,T LAFRANCE,Gore Mountain,5
+2356,David Milford,Sipapu Ski and Summer,4
+2357,David Milford,Pajarito Mountain,3
+2358,tom travis,Elk Mountain Ski,4
+2359,Prawn,Heavenly Mountain,4
+2360,Ray Baucum,Elk Mountain Ski,5
+2361,David Milford,Sunrise Park,3
+2362,tom travis,Blue Mountain,4
+2363,Eric's iPhone,Bridger Bowl,5
+2364,David Milford,Arizona Snowbowl,4
+2365,David Milford,Red River,3
+2366,David Milford,Red River,3
+2367,Marie,Ski Brule,5
+2368,Miyah and Keira Washington,Ski Brule,5
+2369,Riley Mosher,Ski Brule,5
+2370,TODD BOLER,Blacktail Mountain,5
+2371,TODD BOLER,Blacktail Mountain,5
+2372,TODD BOLER,Blacktail Mountain,5
+2373,chernad,Bretton Woods,5
+2374,Tani Lucht,Ski Brule,5
+2375,Wendy,Ski Brule,5
+2376,Eli,Ski Brule,4
+2377,Tani Lucht,Ski Brule,5
+2378,Olivia,Trollhaugen,5
+2379,Olivia,Trollhaugen,5
+2380,lname,Big Sky,2
+2381,lname,Heavenly Mountain,5
+2382,Nick Sabol,Boyne Highlands,5
+2383,Nick Sabol,Boyne Highlands,5
+2384,Austin Jackson,Deer Valley,5
+2385,Jeffrey Cohen,Mt. Snow,5
+2386,Abe Gold,Arizona Snowbowl,4
+2387,Jane,Northstar California,2
+2388,T LAFRANCE,Gore Mountain,5
+2389,Jacob,Lookout Pass,1
+2390,leerampolla,Lee Canyon,1
+2391,Elizabeth,Ski Apache,5
+2392,lname,Steamboat,2
+2393,JJ,Steamboat,2
+2394,lname,Solitude Mountain,5
+2395,cath.haynes,Aspen Snowmass,1
+2396,cath.haynes,Aspen Snowmass,1
+2397,H Muns,Mt. La Crosse,1
+2398,C,Snowbird,4
+2399,Austin Jackson,Arapahoe Basin,4
+2400,cath.haynes,Breckenridge,4
+2401,Abe Gold,Steamboat,5
+2402,H Muns,Christie Mountain,3
+2403,lname,Snow King,5
+2404,tom travis,Elk Mountain Ski,4
+2405,B P,Mt. Southington,4
+2406,ChoochCharlie,Bear Creek Mountain,4
+2407,leerampolla,Brian Head,5
+2408,B P,Mt. Southington,5
+2409,Michael Lee,Telluride,5
+2410,Robert Kalantari,Waterville Valley,2
+2411,Robert Kalantari,Waterville Valley,2
+2412,Robert Kalantari,Waterville Valley,2
+2413,Tommy T,Solitude Mountain,5
+2414,ann phelan,Gunstock,4
+2415,ann phelan,Gunstock,4
+2416,Austin Jackson,Grand Targhee,4
+2417,Austin Jackson,Grand Targhee,4
+2418,Nate Moen,Jay Peak,5
+2419,Nate Moen,Big Boulder,4
+2420,Nate Moen,Hunter Mountain,4
+2421,ChoochCharlie,Bear Creek Mountain,4
+2422,Abe Gold,Loveland,5
+2423,David Milford,Brian Head,5
+2424,David Milford,Ski Apache,4
+2425,flatlander13,Granite Peak,5
+2426,Wendy,Camelback Mountain,4
+2427,kenneth morris,Big Sky,4
+2428,David Milford,Telluride,5
+2429,Prawn,Park City Mountain,5
+2430,David Milford,Ski Cooper,3
+2431,local skier,Whitefish Mountain,4
+2432,Elizabeth,Whitefish Mountain,5
+2433,Eli Cowperthwaite,Sugarloaf,4
+2434,Eli Cowperthwaite,Shawnee Mountain,4
+2435,Eli Cowperthwaite,Sunday River,5
+2436,Eli Cowperthwaite,Pico Mountain,3
+2437,T LAFRANCE,Gore Mountain,5
+2438,sharimcatee,Dry Hill,5
+2439,chernad,Wachusett Mountain,5
+2440,lname,Solitude Mountain,4
+2441,p_nut,Ski Butternut,2
+2442,Kris,Monarch Mountain,2
+2443,Peter Anania,Stowe Mountain,1
+2444,Peter Anania,Smugglers' Notch,4
+2445,Peter Anania,Smugglers' Notch,4
+2446,Peter Anania,Loon Mountain,5
+2447,Jim H,Timberline Mountain,1
+2448,Jim H,Timberline Mountain,1
+2449,John Martin,Sunrise Park,1
+2450,Wendy Fiel,Whiteface Mountain,5
+2451,Avi Plofsky,Crotched Mountain,4
+2452,Avi Plofsky,Crotched Mountain,4
+2453,Avi Plofsky,Crotched Mountain,4
+2454,Magic Mann,Magic Mountain Vermont,5
+2455,Magic Mann,Magic Mountain Vermont,5
+2456,Magic Mann,Magic Mountain Vermont,5
+2457,Jacob,Jiminy Peak,1
+2458,mpemail,Ski Santa Fe,4
+2459,mpemail,Sipapu Ski and Summer,3
+2460,mpemail,Pajarito Mountain,4
+2461,Wendy Fiel,Whiteface Mountain,5
+2462,Wendy Fiel,Whiteface Mountain,5
+2463,T LAFRANCE,Gore Mountain,5
+2464,jrg123,Ski Beech Mountain,5
+2465,jrg123,Ski Beech Mountain,5
+2466,jrg123,Ski Beech Mountain,5
+2467,ChoochCharlie,Bear Creek Mountain,4
+2468,Ian,Stowe Mountain,1
+2469,lname,Beaver Creek,4
+2470,lname,Beaver Creek,4
+2471,Michael Beck,Ski Brule,4
+2472,Wendy Fiel,Kirkwood,5
+2473,flatlander13,Devils Head,4
+2474,jrg123,Ski Beech Mountain,5
+2475,jrg123,Ski Beech Mountain,5
+2476,jrg123,Sugar Mountain,5
+2477,Ron,Bretton Woods,3
+2478,sharimcatee,Jackson Hole,5
+2479,Bill  Rymer,Timberline Mountain,3
+2480,Michael Lee,Belleayre,1
+2481,Michael Lee,Belleayre,2
+2482,skijds,Canaan Valley,5
+2483,John Doe,Gore Mountain,5
+2484,John Doe,Gore Mountain,5
+2485,John Doe,Greek Peak,5
+2486,mpemail,Angel Fire,5
+2487,zac,Killington,4
+2488,zac,Jay Peak,4
+2489,zac,Bristol Mountain,4
+2490,flatlander13,Granite Peak,4
+2491,jrg123,Loveland,5
+2492,Daniel undefined,Killington,5
+2493,Charles,Sunrise Park,5
+2494,Steve undefined,Belleayre,5
+2495,Snowboarder,Cannonsburg,5
+2496,James undefined,Gore Mountain,5
+2497,John undefined,Heavenly Mountain,2
+2498,James undefined,Hunter Mountain,5
+2499,John undefined,Ski Santa Fe,4
+2500,James undefined,Sandia Peak,3
+2501,Peter Anania,Jay Peak,4
+2502,ski bum,Stevens Pass,2
+2503,Morgan,Sugar Mountain,1
+2504,Nick Sabol,Boyne Highlands,5
+2505,Cliff undefined,Mt. Crescent,1
+2506,Cliff undefined,Mt. Crescent,1
+2507,Cliff undefined,Mt. Crescent,1
+2508,Cliff undefined,Mt. Crescent,1
+2509,James undefined,Arizona Snowbowl,2
+2510,davo41,Mountain Creek,1
+2511,davo41,Mountain Creek,1
+2512,davo41,Mountain Creek,1
+2513,T LAFRANCE,Gore Mountain,5
+2514,Steve undefined,Ski Apache,1
+2515,Steve undefined,Holimont,4
+2516,John undefined,Bridger Bowl,5
+2517,Daniel undefined,Blacktail Mountain,5
+2518,Daniel undefined,Blacktail Mountain,5
+2519,Elizabeth,Whitefish Mountain,1
+2520,Steve undefined,Ski Apache,1
