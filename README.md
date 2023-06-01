@@ -84,6 +84,8 @@ Based on the user feedback, the recommendation system demonstrates does suggest 
 
 ![img](images/user_2_2.png)
 
+![img](images/user_2_feb_airbnb.png)
+
 ## Conclusions
 
 The recommendation system demonstrates strong performance in suggesting ski resorts that align with user inputs. Though, there are times when the output does not seem entirely alligned with the user preferences or former reviews. I believe this is due to the review datatset, being that not all resorts included in the content model were reviewed by users and due to the fact that users with 3 reviews were included in the dataset, and that there was an uneven distribution of ratings.
