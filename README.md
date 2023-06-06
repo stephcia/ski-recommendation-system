@@ -27,9 +27,7 @@ Since data plays a crucial role in this application, I plan to showcase the app 
 
 **User Data**
 
-OnTheSnow - For the collaborative system, I utilized a dataset sourced from [Kaggle](https://www.kaggle.com/datasets/fredkellner/onthesnow-ski-area-reviews) with 30,000 reviews. As part of the data preparation process, all non unique names were removed to establish accurate user profiles.
-
-The final dataset included **534 users, 269 resorts, and 2521 total reviews**
+- **OnTheSnow** - For the collaborative system, I utilized a dataset sourced from [Kaggle](https://www.kaggle.com/datasets/fredkellner/onthesnow-ski-area-reviews) with 30,000 reviews. As part of the data preparation process, all non unique names were removed to establish accurate user profiles. The final dataset included **534 users, 269 resorts, and 2521 total reviews**
 
 **Feature Data**
 
