@@ -1,6 +1,11 @@
 # Avant Ski 
 ### [Ski Resort Recommendation App](https://stephcia-ski-recommendation-system-ski-model-stephanie-zs77j6.streamlit.app/)
 
+To use the test web app above, use one of the names listed below:
+- Stephanie Ciaccia
+- Raghava K. (User 1)
+- Alexandra K. (User 2)
+
 ![img](images/whistler_banner.png)
 
 **Author**:
